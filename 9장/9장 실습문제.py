@@ -137,3 +137,24 @@
 
 
 # 9-3 1부터 200까지 중 Prime Number 만 모아서 출력
+# sol1
+# lst = [2, 3]
+# for i in range(4, 201):
+#     chk_point = i
+#     for j in range(2, chk_point):
+#         if chk_point % j == 0:
+#             break
+#         elif chk_point % j != 0:
+#             if j == chk_point - 1:
+#                 lst.append(chk_point)
+#             else:
+#                 continue
+# print(lst)
+
+# sol2(for~else!!!)
+# for i in range(2, 201):
+#     for j in range(2, i):
+#         if i % j == 0:
+#             break
+#     else:
+#         print(i, end=',')
