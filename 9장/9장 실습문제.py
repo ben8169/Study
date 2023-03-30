@@ -158,3 +158,24 @@
 #             break
 #     else:
 #         print(i, end=',')
+
+
+# #9-4 나선형 사각형 그리기
+# import turtle as t
+
+# t.speed(10000)
+
+# t.penup()
+# t.goto(0, 0)
+# t.pendown()
+
+# pencolor_list = ['red', 'blue', 'green', 'yellow']
+# for i in range(2, 140, 2):
+#     t.pencolor(pencolor_list[i % 3])
+#     for _ in range(4):
+#         t.forward(i)
+#         t.right(90)
+#     t.right(20)
+
+# t.exitonclick()
+# t.mainloop()
