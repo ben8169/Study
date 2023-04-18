@@ -52,51 +52,78 @@
 # t.exitonclick()
 
 # 11-2 동아리 회원 json, email 검증까지
-import json
-import re
+# import json
+# import re
 
-try:
-    with open("path/to/save/json/club_member.json", "r", encoding="utf-8") as f:
-        member_dic = json.load(f)
-        print("json에서 불러옴.")
+# try:
+#     with open("path/to/save/json/club_member.json", "r", encoding="utf-8") as f:
+#         member_dic = json.load(f)
+#         print("json에서 불러옴.")
 
-except:
-    member_dic = {}
-    print("json파일 없음. 새로 시작")
+# except:
+#     member_dic = {}
+#     print("json파일 없음. 새로 시작")
 
-[print(i, member_dic[i], end="\n") for i in member_dic]
-
-
-def matching(info_name, re_rule):
-    while True:
-        input_info = input(f"{info_name}을 입력하세요: ")
-        if re.fullmatch(re_rule, input_info) == None:
-            print(f"{info_name} 형식 오류")
-        else:
-            break
-    return input_info
+# [print(i, member_dic[i], end="\n") for i in member_dic]
 
 
-continue_alert = 'y'
-while continue_alert == 'y':
-    member_name = input("1.이름을 입력하세요: ")
-    member_email = matching("이메일", "[A-z0-9]+@[A-z0-9]+\.[A-z.]+")
-    member_phone = matching("전화번호", "[0-9]{2,3}-[0-9]{2,4}-[0-9]{4}")
+# def matching(info_name, re_rule):
+#     while True:
+#         input_info = input(f"{info_name}을 입력하세요: ")
+#         if re.fullmatch(re_rule, input_info) == None:
+#             print(f"{info_name} 형식 오류")
+#         else:
+#             break
+#     return input_info
 
-    print(f"등록 완료. {member_name}/{member_email}/{member_phone}")
 
-    confirm_alert = input("위 정보로 등록하시겠습니까?(Y/N)")
-    if confirm_alert.lower() == 'y':
-        member_dic[member_name] = [member_email, member_phone]
-    else:
-        print("내용을 파기하고 재등록을 시작합니다.")
-        continue
+# continue_alert = 'y'
+# while continue_alert == 'y':
+#     member_name = input("1.이름을 입력하세요: ")
+#     member_email = matching("이메일", "[A-z0-9]+@[A-z0-9]+\.[A-z.]+")
+#     member_phone = matching("전화번호", "[0-9]{2,3}-[0-9]{2,4}-[0-9]{4}")
 
-    continue_alert = input("추가 등록 하시겠습니까?(Y/N) N 또는 아무 키를 눌러 종료하여 저장하십시오.")
-    if continue_alert.lower() == 'y':
-        continue
-    else:
-        break
+#     print(f"등록 완료. {member_name}/{member_email}/{member_phone}")
 
-with open("path/to/save/json/club_member.json", "w", encoding="utf-8") as f:
-    json.dump(member_dic, f, indent=2, ensure_ascii=False)
+#     confirm_alert = input("위 정보로 등록하시겠습니까?(Y/N)")
+#     if confirm_alert.lower() == 'y':
+#         member_dic[member_name] = [member_email, member_phone]
+#     else:
+#         print("내용을 파기하고 재등록을 시작합니다.")
+#         continue
+
+#     continue_alert = input("추가 등록 하시겠습니까?(Y/N) N 또는 아무 키를 눌러 종료하여 저장하십시오.")
+#     if continue_alert.lower() == 'y':
+#         continue
+#     else:
+#         break
+
+# with open("path/to/save/json/club_member.json", "w", encoding="utf-8") as f:
+#     json.dump(member_dic, f, indent=2, ensure_ascii=False)
+
+
+# # 11-3 lambda로 두 수식 비교하여 큰값, 작은값 구별하기
+
+# x1 = eval(input("첫번째 수식을 입력하세요:"))
+# x2 = eval(input("두번째 수식을 입력하세요:"))
+
+# print(f"큰 값은 {x1}, 작은 값은 {x2}") if x1>x2 else print(f"큰 값은 {x2}, 작은 값은 {x1}")
+# print(f"큰 값은 {max(x1,x2)}, 작은 값은 {min(x1,x2)}")
+
+
+# # lambda와 map 추가예제
+# lst = [1, 2, 3, 4, 10]
+# lst2 = [4, 6, 7, 8, 2]
+
+# new_lst = list(map(lambda x, y: x + y, lst, lst2))
+# print(new_lst)
+
+
+# #lambda와 filter 추가예
+# lst = [1, 2, 3, 4, 10]
+
+# new_lst = list(filter(lambda x: x < 10, lst))
+# print(new_lst)
+
+
+
