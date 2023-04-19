@@ -126,4 +126,34 @@
 # print(new_lst)
 
 
+# # 11-4 동생과 내가 같이 저금하여 어버이날 선물 자금마련하기!
+# total_amount = 0
+
+
+# class making_money():
+#     def __init__(self):
+#         None
+
+#     def add(self, name, money):
+#         global total_amount
+#         self.name = name
+#         self.money = money
+#         print(f"{name} {money}원 저축합니다.")
+#         total_amount += money
+
+
+# dp = making_money()
+
+# while total_amount < 1000000:
+#     who = input("누가 저금했나요?(me,bro)")
+#     amount = int(input("얼마나 저금했나요?"))
+#     if who == 'me':
+#         dp.add('내가', amount)
+#     elif who == 'bro':
+#         dp.add("동생이", amount)
+#     else:
+#         print("잘못 입력하였습니다.")
+#     print("\n최종금액 %d" % total_amount)
+# print("완성!")
+
 
