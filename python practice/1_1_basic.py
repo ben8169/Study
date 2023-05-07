@@ -35,6 +35,22 @@ for j in unjoined_list:
 filtered_list = map(int, filtered_list)
 print(sum(filtered_list))
 
+# sol3
+sentence = input("Noisy Sentence: ")
+space = sentence.split()
+num = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0']
+total = []
+for i in range(len(space)):
+    a = ''
+    for n in space[i]:
+        if n in num:
+            a = a + n
+    a = int(a)
+    # print(a)
+    total.append(a)
+print(sum(total))
+
+
 # 1. 0~24까지 정수를 출력하세요
 # sol1
 for i in range(25):
