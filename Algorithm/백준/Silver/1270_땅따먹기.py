@@ -5,6 +5,10 @@ from collections import Counter
 n = int(input())
 
 for _ in range(n):
-    _, *lst = map(int, input().split())
+    a, *lst = map(int, input().split())
     cnt = Counter(lst)
-    print(cnt.most_common(1)[0][0])
+    if (cnt.most_common(1)[0][1]) > (a/2):
+        print(cnt.most_common(1)[0][0])
+    else:
+        print('SYJKGW')
+
