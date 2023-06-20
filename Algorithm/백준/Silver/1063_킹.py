@@ -41,7 +41,7 @@ for i in range(rep):
         king_x, king_y, stone_x, stone_y = move(0,1,king_x, king_y, stone_x, stone_y) 
     elif input_move == 'RT':
         king_x, king_y, stone_x, stone_y = move(1,1,king_x, king_y, stone_x, stone_y) 
-    elif input_move == 'L':
+    elif input_move == 'LT':
         king_x, king_y, stone_x, stone_y = move(-1,1,king_x, king_y, stone_x, stone_y) 
     elif input_move == 'RB':
         king_x, king_y, stone_x, stone_y = move(1,-1,king_x, king_y, stone_x, stone_y) 
