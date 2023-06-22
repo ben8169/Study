@@ -26,3 +26,5 @@ a[ii, ii] = 3
 # a[ii, list(reversed(ii))] = 3       # 에러
 print(a)
 print('-' * 30)
+
+study..
