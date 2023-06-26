@@ -16,3 +16,4 @@ def f_3(**kwargs):
 f_3(a='a')
 f_3(a='a', color='red')
 
+
