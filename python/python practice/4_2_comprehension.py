@@ -28,5 +28,5 @@
 
 # print(str(list(range(10000))).count('8'))
 
-##str(lst) # Output: '[1, 2, 3]'
+## str(lst) # Output: '[1, 2, 3]'
 ## map(str, lst)  # Output: ['1', '2', '3']
