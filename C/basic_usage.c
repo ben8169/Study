@@ -1,6 +1,7 @@
 #include <stdio.h>
 #define TEXT  "string도 선언 가능."     // 심볼릭 상수
 const char TEXT2[] = "이런 str도 선언 가능!";
+int glbl = 12345;   // 전역변수
 
 int main (void){
     // // printf 안에 여러 "" 들어갈 수 있다.
@@ -30,10 +31,13 @@ int main (void){
     // printf("%X\n",1234);
     // printf("%d%%\n",100);
 
-    // type cast
-    int a = 3;
-    float b = 4;
-    prinft("%lf",(double)a/b);
+    // // type cast
+    // int a = 3;
+    // float b = 4;
+    // prinft("%lf",(double)a/b);
+
+    // // ternary operator
+    // (10 > 5) ? printf("True!!\n") : printf("False!!\n");
 
 
     
