@@ -46,6 +46,7 @@ int main (void){
 
 
     // // 연산자 우선순위
+    //========================
     // 1. 식, 후위
     // 2#. 단항연산자, 전위
     // 3. 곱하기
@@ -64,7 +65,39 @@ int main (void){
 
     // 13#. 대입연산자
     // 14. 콤마
-    
+    //========================    
+
+    // // switch case
+    // int score = 67;
+    // switch (score / 10)
+    // {
+    // case 9 : printf("A\n");
+    //     break;
+    // case 8 : printf("B\n");
+    //     break;
+    // case 7 : printf("C\n");
+    //     break;
+    // case 6 : printf("D\n");
+    //     break;
+    // default: printf("F\n");
+    //     break;
+    // }
+
+    // do while
+    // int a = 0;
+    // do{
+    //     printf("%d\n",a++);
+    // }while(a <= 10);
+
+    // // void pointer
+    int num = 10;
+    void* pnum = &num;
+    // printf("%d",*(int*)pnum);
+    printf("%lu",sizeof(pnum));
+
+
+
+
     return 0;
 }
 
