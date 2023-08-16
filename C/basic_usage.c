@@ -90,13 +90,24 @@ int main (void){
     // }while(a <= 10);
 
     // // void pointer
-    int num = 10;
-    void* pnum = &num;
-    // printf("%d",*(int*)pnum);
-    printf("%lu",sizeof(pnum));
+    // int num = 10;
+    // void* pnum = &num;
+    // // printf("%d",*(int*)pnum);
+    // printf("%lu",sizeof(pnum));
 
+    // // pointer array
+    // int num1 = 1, num2 = 2, num3 = 3;
+    // int* arr[3] = {&num1, &num2, &num3};
+    // printf("%d",*(arr+2));
 
+    // array pointer
+    int arr[2][3]={
+        {1,2,3},
+        {4,5,6}
+    };
+    int (*parr)[3] = arr;
 
+    
 
     return 0;
 }
