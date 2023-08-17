@@ -101,15 +101,20 @@ int main (void){
     // printf("%d",*(arr+2));
 
     // array pointer
-    int arr[2][3]={
-        {1,2,3},
-        {4,5,6}
-    };
-    int (*parr)[3] = arr;
+    // int arr[2][3]={
+    //     {1,2,3},
+    //     {4,5,6}
+    // };
+    // int (*parr)[3] = arr;
 
-    
-
-    return 0;
+    // // summation program
+    // int arr[6] = {10,20,30,40,50,60};
+    // int sum = 0, *p = NULL;
+    // for (p=arr; p<&arr[6]; p++){
+    //     sum += *p;
+    // }
+    // printf("%d",sum);
+    // return 0;
 }
 
 /*  전처리기
