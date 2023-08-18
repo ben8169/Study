@@ -120,11 +120,17 @@ int main (void){
     // printf("%d %d",**parr1,*(*(parr1+1)+2));
 
 
+    // "문자열은 포인터 상수이다"
+    printf("%p\n","father");
+
+    printf("%c\n",*"father");
+    printf("%c\n","father"[0]);
+
+    printf("%c\n",*("father"+1));
+    printf("%c\n","father"[1]);
+
 
     
-    
-
-
 }
 
 /*  전처리기
