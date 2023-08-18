@@ -100,13 +100,6 @@ int main (void){
     // int* arr[3] = {&num1, &num2, &num3};
     // printf("%d",*(arr+2));
 
-    // array pointer
-    // int arr[2][3]={
-    //     {1,2,3},
-    //     {4,5,6}
-    // };
-    // int (*parr)[3] = arr;
-
     // // summation program
     // int arr[6] = {10,20,30,40,50,60};
     // int sum = 0, *p = NULL;
@@ -115,6 +108,23 @@ int main (void){
     // }
     // printf("%d",sum);
     // return 0;
+
+    // // array pointer
+    // int arr[2][3]={
+    //     {1,2,3},
+    //     {4,5,6}
+    // };
+    // int (*parr1)[3] = arr;
+    // // int (*parr2)[2][3] = arr;
+
+    // printf("%d %d",**parr1,*(*(parr1+1)+2));
+
+
+
+    
+    
+
+
 }
 
 /*  전처리기
