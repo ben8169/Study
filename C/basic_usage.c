@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #define TEXT  "string도 선언 가능."     // 심볼릭 상수
 const char TEXT2[] = "이런 str도 선언 가능!";
 int glbl = 12345;   // 전역변수
@@ -120,16 +121,36 @@ int main (void){
     // printf("%d %d",**parr1,*(*(parr1+1)+2));
 
 
-    // "문자열은 포인터 상수이다"
-    printf("%p\n","father");
+    // // "문자열은 포인터 상수이다"
+    // printf("%p\n","father");
 
-    printf("%c\n",*"father");
-    printf("%c\n","father"[0]);
+    // printf("%c\n",*"father");
+    // printf("%c\n","father"[0]);
 
-    printf("%c\n",*("father"+1));
-    printf("%c\n","father"[1]);
+    // printf("%c\n",*("father"+1));
+    // printf("%c\n","father"[1]);
 
 
+    // // 동적 할당
+    // int num=0, sum=0;
+    // printf("num입력:");
+    // scanf("%d",&num);
+    // int* score = malloc(num*sizeof(num));
+
+    // if (score == NULL){
+    //     printf("할당 실패\n");
+    //     exit(-1);
+    // }
+
+    // for (int i=0; i<num; i++){
+    //     printf("%d번째 점수 입력:",i+1);
+    //     scanf("%d",&score[i]);
+    //     }
+
+    // for (int i=0; i<num; i++){
+    //     printf("%d번째 점수는 %d점입니다\n",i+1,score[i]); 
+    // }
+    // free(score);
     
 }
 
