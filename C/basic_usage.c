@@ -151,7 +151,8 @@ int main (void){
     //     printf("%d번째 점수는 %d점입니다\n",i+1,score[i]); 
     // }
     // free(score);
-    
+
+    // free    
 }
 
 /*  전처리기
