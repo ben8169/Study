@@ -152,7 +152,6 @@ int main (void){
     // }
     // free(score);
 
-    // free    
 }
 
 /*  전처리기
