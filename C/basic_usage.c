@@ -152,7 +152,73 @@ int main (void){
     // }
     // free(score);
 
+    // 구조체
+
+    // 정석
+    // struct point2D {
+    //     int a;
+    //     int b;
+    // };
+
+
+    // struct point2D point1 = {3,4};          //순서대로 초기화
+    // struct point2D point2 = {.b = 5};      //선택해서 초기화
+
+    // 호출
+    //  printf("%d %d\n", point1.a,point1.b);
+    //  printf("%d %d\n", point2.a,point2.b);   
+
+    // 선언과 동시에 초기화 + 이름부여
+    // struct point2D {
+    //     int a;
+    //     int b;
+    // }point1 = {3,4},point2 = {7,8};
+
+    // typedef를 이용하여 간단하게 표현
+    //정석
+    // struct point2D {
+    //     int a;
+    //     int b;
+    // };
+
+    // typedef struct point2D p;
+
+    //더 간단하게 별명 설정 + 본명 생략
+    // typedef struct{
+    //     int a;
+    //     int b;
+    // }p;
+
+    // p p1={1,2};
+    // p p2={3,4};
+
+    // printf("%d %d\n", p1.a,p1.b);
+    // printf("%d %d\n", p2.a,p2.b);
+
+    
+    // struct 배열 선언 (모든 자료형은 array 선언 가능하다)
+    // typedef struct 
+    // {
+    //     int x; int y;
+    // }P[3];
+
+    // P p = {{1,2}, {3,4}, {5,6}};
+
+    // printf("%d %d\n", p[0].x,p[0].y);
+    // printf("%d %d\n", p[1].x,p[1].y);
+    // printf("%d %d\n", p[2].x,p[2].y);
+        
+
+  return 0;
 }
+
+
+
+
+
+
+
+
 
 /*  전처리기
 컴파일러
