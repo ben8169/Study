@@ -200,7 +200,7 @@ int main (void){
     // typedef struct 
     // {
     //     int x; int y;
-    // }P[3];
+    // }P[];
 
     // P p = {{1,2}, {3,4}, {5,6}};
 
