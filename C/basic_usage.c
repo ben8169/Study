@@ -207,7 +207,22 @@ int main (void){
     // printf("%d %d\n", p[0].x,p[0].y);
     // printf("%d %d\n", p[1].x,p[1].y);
     // printf("%d %d\n", p[2].x,p[2].y);
-        
+
+// 구조체의 크기와 바이트패딩
+typedef struct {
+  char a;
+  int b;
+  double c;
+}structure;
+
+printf("실제 구조체 크기 = %d", sizeof(structure));   //16
+/*
+가장 큰 자료형인 double이 기준이 됨 
+char를 위해 8바이트 할당,1바이트사용, 남은 7바이트중 4바이트 int가 사용
+3바이트로는 double 표현 부족하니 한 단위 추가 
+>> 16바이트 / 3 패딩바이트
+*/
+  
 
   return 0;
 }
