@@ -223,29 +223,58 @@ int main (void){
   //   >> 16바이트 / 3 패딩바이트
   //   */
     
-  // 열거체 enum
-  enum {
-    Sun,Mon,Tue,Wed,Thur,Fri,Sat
-  };    //이름 설정해도되고 안해도되는듯 + 이제 Mon은 0과 동치 >> switch문에 사용가능해짐
+  // // 열거체 enum
+  // enum {
+  //   Sun,Mon,Tue,Wed,Thur,Fri,Sat
+  // };    //이름 설정해도되고 안해도되는듯 + 이제 Mon은 0과 동치 >> switch문에 사용가능해짐
 
-  int date = 0;
-  scanf("%d",&date);
-  int today = date%7;
+  // int date = 0;
+  // scanf("%d",&date);
+  // int today = date%7;
   
-  switch (today){
-    case(Mon):case(Tue):case(Wed):case(Thur):case(Fri):
-    printf("평일 싫어\n");
-    break;
+  // switch (today){
+  //   case(Mon):case(Tue):case(Wed):case(Thur):case(Fri):
+  //   printf("평일 싫어\n");
+  //   break;
 
-    case(Sun):case(Sat):
-    printf("주말 좋아~~~~\n");
-    break;
+  //   case(Sun):case(Sat):
+  //   printf("주말 좋아~~~~\n");
+  //   break;
     
-    default:
-    printf("잘못된 입력\n");
-    break;
-  };
+  //   default:
+  //   printf("잘못된 입력\n");
+  //   break;
+  // };
 
+
+  // function >> 재귀함수로 피보나치 수열 구현하기
+
+  // int fibonacci(int n){
+  //   switch (n){
+  //     case 1: 
+  //       return 1;
+  //       break;
+  //     case 2:
+  //       return 1;
+  //       break;
+  //     default:
+  //       return (fibonacci(n-1)+fibonacci(n-2));
+  //   }
+  // //   if (n==1){
+  // //     return 1;
+  // //   }
+  // //   else if (n==2){
+  // //     return 1;
+  // //   }
+  // //   return (fibonacci(n-1)+fibonacci(n-2));
+  // }
+
+  // int main(void) {
+  //   int n;
+  //   scanf("%d",&n);
+  //   printf("%d",fibonacci(n));
+    
+  // }
   return 0;
   }
 
