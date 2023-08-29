@@ -275,15 +275,29 @@ int main (void){
   //   printf("%d",fibonacci(n));
     
   // }
-  return 0;
-    }
+
+  // // 함수 미리 호출 + 포인터를 통해 영구 값 저장
+  // int Plus_Ten(int *a);
+
+  // int main(void) {
+  //   int n, *ptr;
+  //   ptr = &n;
+  //   printf("10을 더할 숫자 입력\n");
+  //   scanf("%d",&n);
+  //   Plus_Ten(ptr);
+  //   printf("더해진 n값은 %d입니다.\n",n);
+  //   return 0;
+  // }
+
+  // int Plus_Ten(int *a){
+  //   *a += 10;
+  //   return *a;
+  // }
 
 
 
-
-
-
-
+    return 0;
+}
 
 
 
