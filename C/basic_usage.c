@@ -275,7 +275,26 @@ int main (void){
   //   printf("%d",fibonacci(n));
     
   // }
+
+
+  // function pointer >> 함수 이름도 포인터상수임
+  void func1(void){
+    printf("func 호출\n");
+  }
+
+  int (*p) = func1;
+  p;
   return 0;
+
+  void func1(void){
+    printf("func 호출\n");
+  }
+
+
+  int main(void) {
+    void (*p)() = func1;
+    p();
+  }
   }
 
 
