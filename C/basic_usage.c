@@ -277,31 +277,39 @@ int main (void){
   // }
 
 
-  // function pointer >> 함수 이름도 포인터상수임
-  void func1(void){
-    printf("func 호출\n");
-  }
 
-  int (*p) = func1;
-  p;
-  return 0;
+  // // 함수 미리 호출 + 포인터를 통해 영구 값 저장
+  // int Plus_Ten(int *a);
 
-  void func1(void){
-    printf("func 호출\n");
-  }
+  // int main(void) {
+  //   int n, *ptr;
+  //   ptr = &n;
+  //   printf("10을 더할 숫자 입력\n");
+  //   scanf("%d",&n);
+  //   Plus_Ten(ptr);
+  //   printf("더해진 n값은 %d입니다.\n",n);
+  //   return 0;
+  // }
 
-
-  int main(void) {
-    void (*p)() = func1;
-    p();
-  }
-  }
-
+  // int Plus_Ten(int *a){
+  //   *a += 10;
+  //   return *a;
+  // }
 
 
+  // // function pointer >> 함수 이름도 포인터상수임
+  // void func1(void){
+  //   printf("func 호출\n");
+  // }
 
 
+  // int main(void) {
+  //   void (*p)() = func1;
+  //   p();
+  // }
 
+    return 0;
+}
 
 
 
