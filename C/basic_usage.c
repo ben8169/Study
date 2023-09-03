@@ -308,6 +308,17 @@ int main (void){
   //   p();
   // }
 
+
+
+  // // strlen 함수
+  // #include <stdio.h>
+  // #include <string.h>
+
+  // int main(void) {
+  //   printf("%d",strlen("Hello World"));
+  //   return 0;
+  // }
+
     return 0;
 }
 
