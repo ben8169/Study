@@ -20,7 +20,7 @@ def main():
     parser.add_argument('-r','--rep', type=int, default=10, help='numbers of repeat')
     args = parser.parse_args()
 
-    print(f"current path = {args.path}"}")
+    print(f"current path = {args.path}")
     for i in range(args.rep):
         print(f"{i+1}th start")
         try:
