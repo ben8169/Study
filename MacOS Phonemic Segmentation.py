@@ -1,3 +1,6 @@
+# 출처 : https://velog.io/@parkseungju3/python-%ED%95%9C%EA%B8%80-%EC%9E%90%EC%9D%8C%EB%AA%A8%EC%9D%8C-%EB%B6%84%EB%A6%AC%ED%98%84%EC%83%81-%ED%95%B4%EA%B2%B0%EC%BD%94%EB%93%9C
+
+
 import sys
 from unicodedata import normalize
 import os
