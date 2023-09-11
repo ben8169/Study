@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 #define TEXT  "string도 선언 가능."     // 심볼릭 상수
 const char TEXT2[] = "이런 str도 선언 가능!";
 int glbl = 12345;   // 전역변수
@@ -311,13 +312,46 @@ int main (void){
 
 
   // // strlen 함수
-  // #include <stdio.h>
-  // #include <string.h>
-
   // int main(void) {
   //   printf("%d",strlen("Hello World"));
   //   return 0;
   // }
+
+  //  // strcpy 함수
+  // // 1. 그냥 배열로 선언
+  // #include <stdio.h>
+  // #include "string.h"
+
+  // int main(void){
+  //   char c1[] = "Hello", c2[] = "GoodBye";
+  //   // "Hello\0e\0"
+  //   //  01234567
+  //   strcpy(c2,c1);
+  //   printf("%s\n",c2);
+  //   char *c3 = c2+4;
+  //   printf("%s\n",c3);
+  //   return 0;
+  // }
+
+  // //2. 포인터로 문자열 선언할 때 >> 공간할당과 포인터의 관계
+  // #include <stdio.h>
+  // #include "string.h"
+  // #include "stdlib.h"
+
+  //   int main(void){
+  //     char *c1= "Hello", *c2 = "GoodBye";
+  //     printf("%p %p\n",c1,c2);
+  //     // c2 = malloc(20);  // 동적할당 해줘야만 cpy 됨... 그렇다면 포인터 선언은 공간할당이 안되는건가?
+  //     // "Hello\0e\0"
+  //     //  01234567
+  //     strcpy(c2,c1);
+  //     printf("%s\n",c2);
+  //     printf("%p %p\n",c1,c2);
+  //     // char *c3 = c2+6;
+  //     // printf("%s\n",c3);
+  //     return 0;
+  //   }
+
 
     return 0;
 }
