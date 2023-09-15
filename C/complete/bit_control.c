@@ -33,7 +33,7 @@ int main(void) {
     }
 
     // 2. set_bit >> 설정되어 있지 않은 비트 켜기   
-    value = set_bit(vaalue, 2);
+    value = set_bit(value, 2);
     printf("Value after being set:");
     print_bits(value);
 
