@@ -351,7 +351,6 @@ int main (void){
   //     // printf("%s\n",c3);
   //     return 0;
   //   }
-  //asdf
 
     return 0;
 }
