@@ -351,8 +351,32 @@ int main (void){
   //     // printf("%s\n",c3);
   //     return 0;
   //   }
-  //asdf
+  
 
+  // // strcat 함수
+  // #include <stdio.h>
+  // #include "string.h"
+
+  // int main(void){
+  //   char c1[20] = "Hello", c2[] = "GoodBye";
+  //   strcat(c1,c2);
+  //   printf("%s\n",c1);         //helloGoodBye
+  //   return 0;
+
+  // }
+
+  // // strncat 함수
+
+  // #include <stdio.h>
+  // #include "string.h"
+
+  // int main(void){
+  //   char c1[20] = "Hello", c2[] = "GoodBye";
+  //   strncat(c1,c2,3);
+  //   printf("%s\n",c1);       //HelloGoo
+  //   return 0;
+
+  
     return 0;
 }
 
