@@ -28,10 +28,13 @@ int main (void){
     // printf("%.10f\n",1.23456789);
     // printf("%e\n",1.23456789);
     // printf("%E\n",1.23456789);
-    // printf("%o\n",10);
+    // printf("%o\n",10);  //16진 ㅅ정ㅅ형
     // printf("%x\n",1234);
     // printf("%X\n",1234);
     // printf("%d%%\n",100);
+    // printf("%e\n",12345.6789);  // 1.234568e+04
+    // printf("%g\n",123.45000);   // 123.45
+
 
     // // type cast
     // int a = 3;
