@@ -390,7 +390,6 @@ int main (void){
   //   printf("%s\n",c1);       //HelloGoo
   //   return 0;
 
-  wol
   
     return 0;
 }
