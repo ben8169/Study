@@ -5,6 +5,8 @@ int main()
 z// 	// 1. 이런 식이면 어떻게든 arr길이는 i로 알게 된다. 왜? 인덱스가 꼭 필요하거든
 //   static int arr[] = {}; // int *arr = NULL
 
+
+asdf
 //   int i = 0, n =0 ;
 //   while(1){
 //     scanf("%d",&n);
