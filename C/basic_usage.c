@@ -396,6 +396,23 @@ int main (void){
   //   printf("%s\n",c1);       //HelloGoo
   //   return 0;
 
+  // 파일 입출력
+  // #include <stdio.h>
+  // #include "string.h"
+
+  // int main(void){
+  //   FILE *fp = fopen("test.txt","w");
+  //   if (fp == NULL){
+  //     printf("파일 열기 실패\n");
+  //     return -1;
+  //   }
+
+  //   fputs("Hello World",fp);
+  //   fclose(fp);
+  //   return 0;
+  // }
+  
+
   
     return 0;
 }
