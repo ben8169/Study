@@ -398,7 +398,7 @@ int main (void){
 
   // 파일 입출력
   // #include <stdio.h>
-  // #include "string.h"
+  // #include <string.h>
 
   // int main(void){
   //   FILE *fp = fopen("test.txt","w");
