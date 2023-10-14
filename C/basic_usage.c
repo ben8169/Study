@@ -362,7 +362,7 @@ int main (void){
   //   int main(void){
   //     char *c1= "Hello", *c2 = "GoodBye";
   //     printf("%p %p\n",c1,c2);
-  //     // c2 = malloc(20);  // 동적할당 해줘야만 cpy 됨... 그렇다면 포인터 선언은 공간할당이 안되는건가?
+  //     // c2 = malloc(20);  // 동적할당 해줘야만 cpy 됨
   //     // "Hello\0e\0"
   //     //  01234567
   //     strcpy(c2,c1);
