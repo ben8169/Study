@@ -57,7 +57,7 @@ int main (void){
     // // 2.
     // void DivideReal(double f1){
     // printf("정수부:%d\n실수부:%g\n",(int)f1,f1 - (int)f1);
-}
+
 
     // // ternary operator
     // (10 > 5) ? printf("True!!\n") : printf("False!!\n");
