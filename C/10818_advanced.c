@@ -1,3 +1,6 @@
+// https://www.acmicpc.net/status?user_id=ben8169&problem_id=10818&from_mine=1
+// 포인터로 풀어보삼
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
