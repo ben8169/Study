@@ -1,5 +1,6 @@
 // https://www.acmicpc.net/status?user_id=ben8169&problem_id=10818&from_mine=1
 // 포인터로 풀어보삼
+// static 변수 파라미터로 쓰는 경우 한번 만들어보고 질문해봐
 
 #include <stdio.h>
 #include <stdlib.h>
