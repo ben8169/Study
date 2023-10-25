@@ -11,7 +11,6 @@ int main(void){
         printf("1리터로 주행할 수 있는 거리 = %lfkm\n",FuelEfficiency(liter,km));
         printf("다시 계산하겠습니까?(Y/N)");
         scanf(" %c",&check);
-        getchar();
     } while(check == 'Y' || check == 'y');
     printf("프로그램 종료\n");
     return 0;

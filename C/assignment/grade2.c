@@ -5,24 +5,34 @@ int InputScore(void);
 char GetGrade(int score1, int score2, int score3);
 
 int main(void){
-    int score1, score2, score3;
-    score1 = InputScore();
-    score2 = InputScore();
-    score3 = InputScore();
-    printf("학점은 %c", GetGrade(score1, score2, score3));
+    for (int student_num=1; student_num<=5; student_num++){
+        printf("%d번째 학생의 점수 입력\n",student_num);
+
+        int score1=-1, score2=-1, score3=-1;
+
+        do{
+            score1 = InputScore();
+        }while (score1<0 || score1>100);
+
+        do{
+            score2 = InputScore();
+        }while (score2<0 || score2>100);
+
+        do{
+            score3 = InputScore();
+        }while (score3<0 || score3>100);
+
+        printf("%d번째 학생의 학점은 %c\n\n", student_num,GetGrade(score1, score2, score3));
+    }
     return 0;
 }
 
 int InputScore(void){
     int score=0;
-    while (score>=0 && score <=100){
-        printf("점수 입력:");
-        scanf("%d", &score);
-        if (score >= 0 && score <= 100)
-            return score;
-        else
-            printf("잘못된 입력입니다.");
-        }
+    printf("점수 입력:");
+    scanf("%d", &score);
+    return score;
+}
 
 
 char GetGrade(int score1, int score2, int score3){
