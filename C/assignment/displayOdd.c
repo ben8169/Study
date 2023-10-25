@@ -26,6 +26,4 @@ void DisplayOdd(int s, int e, int m){
             cnt += 1;
         }
     }
-
-
 }

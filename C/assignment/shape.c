@@ -1,9 +1,12 @@
+// 2022313356 김지헌
 #include <stdio.h>
 
 void DisplayTriangle(int h);
 
 int main(void){
-    int h = 5;
+    int h = 0;
+    printf("높이를 입력하세요 : ");
+    scanf("%d",&h);
     DisplayTriangle(h);
     return 0;
 }
@@ -20,18 +23,3 @@ void DisplayTriangle(int h){
     }
 }
 
-
-
-
-// void DisplayTriangle(int h){
-//     for (int i=0;i<h;i++){
-//         for (int j=0;j<i;j++){
-//             for (int k=0;k<j;k++){
-//                 printf(" ");
-//             }
-//             printf("*");
-//         }
-//         printf("\n");
-//     }
-
-// }
