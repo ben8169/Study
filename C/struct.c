@@ -40,6 +40,6 @@ int main(void){
 
 	enum Days {MON,TUE,WED};
 	enum Days day = 3;
-	printf("%d",day);
+	// printf("%d",day);
 	return 0;
 }
