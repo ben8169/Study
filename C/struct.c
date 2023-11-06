@@ -39,7 +39,26 @@ int main(void){
 // printf("%d\n",sizeof(s2));
 
 	enum Days {MON,TUE,WED};
+	typedef enum Days hi;
 	enum Days day = 3;
+	hi day2 = TUE;
 	// printf("%d",day);
+	printf("%d",day2);
+
+	switch (day2)
+	{
+	case (MON):
+		printf("%d",MON);
+		break;
+	case (TUE):
+		printf("%d",TUE);
+		break;
+	case (WED):
+		printf("%d",WED);
+		break;
+	default:
+		break;
+	}
+	
 	return 0;
 }
