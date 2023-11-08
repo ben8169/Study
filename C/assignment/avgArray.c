@@ -23,14 +23,21 @@ void PrintIntegerArray(int a[], int n){
 }
 
 int GetIntegerArray(int a[], int n, int s){
-    int x=0,i=0;
-    do{ 
-    scanf("%d",&x);
-    a[i] = x;
-    i++;
-    }while (x!=-1);
+    int n_input = 0;
+    int arr[] = a;
 
-
+    
+    for (int i=0;i<n;i++){
+        scanf("%d",&n_input);
+        if (n_input == -1){
+            break;
+        }else if (n_input < -1){
+            printf("invalid input\n");
+            break;
+        }else{
+            a[i] = n_input;
+        }
+    }
 
 
 }
