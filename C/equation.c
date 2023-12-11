@@ -17,17 +17,17 @@ void root(struct equation *p) {
 }
 
 int main(void) {
-  struct equation eq[10];
-  struct equation *p = &eq[10];
-  int n;
-  scanf("%d", &n);
+  struct equation eq[5];
+  struct equation *p = &eq[0];
+  int n = 5;
+
 
   for (int i = 0; i < n; i++) {
     scanf("%d %d %d", &eq[i].a, &eq[i].b, &eq[i].c);
   }
+
   // for (p = eq; p < eq + n; p++) {
   //   root(p);
-  //   printf("%p\n", p);
   // }
   // for (p = eq; p < eq + n; p++) {
   //   printf("a = %d, b = %d, c = %d, %s\n", p->a, p->b, p->c, p->det);
@@ -37,8 +37,8 @@ int main(void) {
     root(p + i);
   }
   for (int i = 0; i < n; i++) {
-    printf("a = %d, b = %d, c = %d, %s\n", eq[i].a, eq[i].b, eq[i].c,
-           eq[i].det);
+    printf("a = %d, b = %d, c = %d, %s\n", (p+i)->a, p[i].b, p[i].c,p[i].det);
   }
   return 0;
+
 }
