@@ -1,11 +1,15 @@
 import requests
 
-url = f"http://127.0.0.1:8000/api/formula/1"
-answer = 3754+8452  # 사용자의 답
-payload = {"answer": answer}
+url = "http://127.0.0.1:8000/api/formula/1"
 
-response = requests.post(url, data=payload)
-# response = requests.get(url)
+# GET 요청 보내기
+response = requests.get(url)
 
-# print(response)
-print(response.text)
+if response.status_code == 200:
+    # JSON 데이터 추출
+    data = response.json()
+
+    # 데이터 확인
+    print(data)
+else:
+    print(f"{url}에 GET 요청에 실패했습니다. 응답 코드:", response.status_code)
