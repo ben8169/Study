@@ -64,7 +64,7 @@ USE market_db;
 SELECT  *
 	FROM buy
 		INNER JOIN member
-		ON buy.mem_id = member.mem_id
+		ON member.mem_id = buy.mem_id;
     WHERE buy.mem_id = 'GRL'; 			-- 1.GRL을 buy에서 조회  2. member에서 동일한 아이디 검색 3. 두 행을 결합
     
 
@@ -226,11 +226,11 @@ BEGIN
 			SET credit = 'D';
 		ELSE
 			SET credit = 'F';
-		END CASE;
-        SELECT CONCAT('취득 점수==>', point), concat('학점==>',credit);
-	END $$
-    DELIMITER ;
-    CALL caseProc();
+	END CASE;
+    SELECT CONCAT('취득 점수==>', point), concat('학점==>',credit);
+END $$
+DELIMITER ;
+CALL caseProc();
         
 #실전
 SELECT mem_id, SUM(price*amount) "총구매액"
@@ -300,7 +300,7 @@ CALL whileProc2();
 
 
 
-#동적 SQL => PREPARE & EXECUTE
+#동적 SQL => PREPARE & EXECUTE & DEALLOCATEq
 
 
 use market_db;
