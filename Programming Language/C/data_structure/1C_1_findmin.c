@@ -10,14 +10,18 @@
 // 61 84 27
 // 28 69 53
 
-//Upgradable 
+//Upgrade
+// 1. minmax를 삼항연산자로 -> 삼항연산자 학습
+
+//Further
 // 1. 입력받는 정수 갯수를 늘릴 수 있도록 -> 동적할당 학습
-// 2. minmax를 삼항연산자로 -> 삼항연산자 학습
 
 #include <stdio.h>
 
 int find_min(int a, int b, int c);
 int find_max(int a, int b, int c);
+int find_max_ternary(int a, int b, int c);
+int find_min_ternary(int a, int b, int c);
 
 
 
@@ -27,7 +31,7 @@ int main (void){
     scanf("%d", &iter);
     for (int i=0;i<iter;i++){
         scanf("%d %d %d", &a, &b, &c);
-        printf("min:%d, max:%d\n",find_min(a,b,c),find_max(a,b,c));
+        printf("min:%d, max:%d\n",find_min_ternary(a,b,c),find_max_ternary(a,b,c));
     }
     return 0;
 }
@@ -66,4 +70,12 @@ int find_max(int a, int b, int c){
             return c;
         }
     }
+}
+
+int find_max_ternary(int a, int b, int c){
+    return (a>=b)?((b>=c)?a:(a>=c)?a:c):((c<=b)?b:c);
+}
+
+int find_min_ternary(int a, int b, int c){
+    return (a<=b)?((a<=c)?a:c):((c<=b)?c:b);
 }
