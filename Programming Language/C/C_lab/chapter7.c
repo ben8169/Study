@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include "lab7_1.h"
+#include "chapter7_1.h"
 // #define AGELIMIT 20
 // #define MYNAME "Paul"
 #define PI 3.1415
