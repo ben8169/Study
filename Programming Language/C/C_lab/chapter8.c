@@ -37,10 +37,5 @@ int main (void){
 
     printf("%hdth %.1lf'C, city is %s\n",date,temperature,city);
 
-
-
-
-
-
     return 0;
 }
