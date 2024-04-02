@@ -63,13 +63,12 @@ class NaiveBayesClassifier:
         self.prior = {0: prior value for label 0, 1: prior value for label 1}
 
         However, in grading, if it works correctly only for cases with two labels, no points will be awarded.
-        """ 
-
+        """
 
         self.prior = dict()
         training_size = self.data.shape[0]          #Get train size
         for i in self.label_index:
-            self.prior[i] = self.label_index[i].size/training_size      #by this, we can earn P(S), P(NS). Also,
+            self.prior[i] = self.label_index[i].size/training_size      #by this, we can earn P(S), P(NS).
         return self.prior
 
 
@@ -79,16 +78,46 @@ class NaiveBayesClassifier:
         This function calculates the likelihood.
         After this function is processed, calculate the likelihood for each word for each label and store it in self.likelihood as follows.
         """
+        self.likelihood = {}           #self.likelihood = {0:[12,234,0,2,5,..], 1:[2,4,35,8,1,...]}'
+        N = self.data.shape[1]
+        # S_SIZE = self.label_index[0].size
+        # NS_SIZE = self.label_index[1].size
+
+        for i in self.label_index:
+            self.likelihood[i] = []
+            SIZE = self.label_index[i].size
+            denominator = N*SIZE
+            for j in range(self.data.shape[1]):
+                cnt = self.smoothing
+                for idx in self.label_index[i]:
+                    cnt += self.data[idx][j]
+                self.likelihood[i].append(cnt)
+            
+            self.likelihood[i] = np.array(self.likelihood[i])
+            self.likelihood[i] = self.likelihood[i]/denominator+self.epsilon
+
         
-        self.likelihood = {}
-        for i in self.label_index:
-            self.likelihood[i] = []      #{0:[], 1:[]}
-        for i in self.label_index:
-            total_size = self.label_index[i].size
-            for j in self.label_index[i]:
-                self.data[j][]
-                self.likelihood[i+1] = cnt+self.smoothing /(self.data.shape[0]+self.smoothing)*self.data.shape[1]   #smoothing 1
-        return self.likelihood
+
+        # print(self.likelihood)
+        # for i in self.label_index:
+        #     self.likelihood[i] = np.array([float(self.smoothing)]*(self.label_index[i].size))      #{0:[], 1:[]}
+        # for i in self.label_index:
+        #     for j in self.label_index[i]:
+        #         for k in range(self.data.shape[1]):
+        #            self.likelihood[i][k]+=self.data[j][k]
+
+        # for i in self.likelihood:
+        #     for j in range(len(self.likelihood[i])):
+        #         denominator = (self.label_index[i].size+self.smoothing)*(self.data.shape[1])
+        #         self.likelihood[i][j] = self.likelihood[i][j]/denominator
+
+        # for i in self.likelihood:
+        #     for j in self.likelihood[i]:
+        #         if j<=0 or j>=1:
+        #             print('there is problem')
+        #             print(j)     
+
+        # return self.likelihood
 
 
     def get_posterior(self, x):
@@ -106,16 +135,20 @@ class NaiveBayesClassifier:
 
         Add self.epsilon to the denominator to prevent nan during probability calculation.
         """
+        self.posterior = []           #this should be [[p1,p2],[p3,p4],...]
+        #case:spam
+        for testcase in x:
+            tmp = []
+            for lbl_idx in self.label_index:
+                pst = np.log(self.prior[lbl_idx])
+                for idx in range(testcase.size):
+                    for i in range(testcase[idx]):
+                        pst+=np.log(self.likelihood[lbl_idx][idx])
+                tmp.append(np.exp(pst))
+            self.posterior.append(tmp)
 
-        self.posterior = []
-        sum = np.log(self.prior)
-        for i in self.likelihood:
-
-        # np.exp(np.log(self.prior) + np.log(self.))
-
-
-
-        
+            
+        [print(i) for i in self.posterior]
         return self.posterior
 
 
@@ -125,9 +158,5 @@ class NaiveBayesClassifier:
         This function doesn't need to be modified.
         It utilizes likelihood and prior to compute the posterior for actual data and convert it into probabilities.
         """
-
         posterior = self.get_posterior(x)
         return np.argmax(posterior, axis=1)
-
-
-
