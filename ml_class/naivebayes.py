@@ -80,12 +80,11 @@ class NaiveBayesClassifier:
         """
         self.likelihood = {}           #self.likelihood = {0:[12,234,0,2,5,..], 1:[2,4,35,8,1,...]}'
         N = self.data.shape[1]
-        # S_SIZE = self.label_index[0].size
-        # NS_SIZE = self.label_index[1].size
+
 
         for i in self.label_index:
             self.likelihood[i] = []
-            SIZE = self.label_index[i].size
+            SIZE = self.label_index[i].size         # at this case, S_SIZE = self.label_index[0].size / NS_SIZE = self.label_index[1].size
             denominator = N*SIZE
             for j in range(self.data.shape[1]):
                 cnt = self.smoothing
@@ -97,28 +96,6 @@ class NaiveBayesClassifier:
             self.likelihood[i] = self.likelihood[i]/denominator+self.epsilon
 
         
-
-        # print(self.likelihood)
-        # for i in self.label_index:
-        #     self.likelihood[i] = np.array([float(self.smoothing)]*(self.label_index[i].size))      #{0:[], 1:[]}
-        # for i in self.label_index:
-        #     for j in self.label_index[i]:
-        #         for k in range(self.data.shape[1]):
-        #            self.likelihood[i][k]+=self.data[j][k]
-
-        # for i in self.likelihood:
-        #     for j in range(len(self.likelihood[i])):
-        #         denominator = (self.label_index[i].size+self.smoothing)*(self.data.shape[1])
-        #         self.likelihood[i][j] = self.likelihood[i][j]/denominator
-
-        # for i in self.likelihood:
-        #     for j in self.likelihood[i]:
-        #         if j<=0 or j>=1:
-        #             print('there is problem')
-        #             print(j)     
-
-        # return self.likelihood
-
 
     def get_posterior(self, x):
 
