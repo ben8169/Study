@@ -68,7 +68,7 @@ class NaiveBayesClassifier:
         self.prior = dict()
         training_size = self.data.shape[0]          #Get train size
         for i in self.label_index:
-            self.prior[i] = self.label_index[i].size/training_size      #by this, we can earn P(S), P(NS).
+            self.prior[i] = self.label_index[i].size/training_size      #by this, we can earn P(S), P(NS). It will still work although if there's more cases.
         return self.prior
 
 
@@ -78,24 +78,23 @@ class NaiveBayesClassifier:
         This function calculates the likelihood.
         After this function is processed, calculate the likelihood for each word for each label and store it in self.likelihood as follows.
         """
-        self.likelihood = {}           #self.likelihood = {0:[12,234,0,2,5,..], 1:[2,4,35,8,1,...]}'
+        self.likelihood = {}           #We should make result like -> self.likelihood  = {0:[12,234,0,2,5,..], 1:[2,4,35,8,1,...]}'
         N = self.data.shape[1]
 
 
         for i in self.label_index:
             self.likelihood[i] = []
             SIZE = self.label_index[i].size         # at this case, S_SIZE = self.label_index[0].size / NS_SIZE = self.label_index[1].size
-            denominator = N*SIZE
+            denominator = N*(SIZE+1)
             for j in range(self.data.shape[1]):
-                cnt = self.smoothing
-                for idx in self.label_index[i]:
+                cnt = self.smoothing                #Laplace Smoothing ... Add 1 element at numerator
+                for idx in self.label_index[i]:     #Count all the existing words and add to numerator
                     cnt += self.data[idx][j]
                 self.likelihood[i].append(cnt)
             
             self.likelihood[i] = np.array(self.likelihood[i])
-            self.likelihood[i] = self.likelihood[i]/denominator+self.epsilon
-
-        
+            self.likelihood[i] = self.likelihood[i]/(denominator+ N)  #Laplace Smoothing...just adding 1 can be possible, so I add 1
+            print(self.likelihood[0][:3])
 
     def get_posterior(self, x):
 
@@ -112,22 +111,24 @@ class NaiveBayesClassifier:
 
         Add self.epsilon to the denominator to prevent nan during probability calculation.
         """
-        self.posterior = []           #this should be [[p1,p2],[p3,p4],...]
-        #case:spam
+        self.posterior = []           #this should be [[p1,p2],[p3,p4],...], as Spam/Ham probabilities
+
         for testcase in x:
             tmp = []
+            #case:spam(lbl_idx = 0) & case:ham(lbl_idx = 1)
             for lbl_idx in self.label_index:
-                pst = np.log(self.prior[lbl_idx])
-                for idx in range(testcase.size):
-                    for i in range(testcase[idx]):
-                        pst+=np.log(self.likelihood[lbl_idx][idx])
+                pst = np.log(self.prior[lbl_idx])       #log-scaled prior
+                for idx in range(testcase.size):        #check all 500 words, and count the frequency of words
+                    for _ in range(testcase[idx]):
+                        pst+=(np.log(self.likelihood[lbl_idx][idx]))    #calculate log-scaled likelihood
                 tmp.append(np.exp(pst))
+                evidance = sum(tmp) + self.epsilon
+                for i in range(len(tmp)):
+                    tmp[i] = tmp[i]/evidance
             self.posterior.append(tmp)
 
-            
         [print(i) for i in self.posterior]
         return self.posterior
-
 
     def predict(self, x):
 
