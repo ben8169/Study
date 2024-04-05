@@ -93,8 +93,7 @@ class NaiveBayesClassifier:
                 self.likelihood[i].append(cnt)
             
             self.likelihood[i] = np.array(self.likelihood[i])
-            self.likelihood[i] = self.likelihood[i]/(denominator+ N)  #Laplace Smoothing...just adding 1 can be possible, so I add 1
-            print(self.likelihood[0][:3])
+            self.likelihood[i] = self.likelihood[i]/(denominator+ 1)  #Laplace Smoothing...just adding 1 can be possible, so I add 1
 
     def get_posterior(self, x):
 
@@ -117,17 +116,17 @@ class NaiveBayesClassifier:
             tmp = []
             #case:spam(lbl_idx = 0) & case:ham(lbl_idx = 1)
             for lbl_idx in self.label_index:
-                pst = np.log(self.prior[lbl_idx])       #log-scaled prior
+                pst = np.log(self.prior[lbl_idx]+self.epsilon)       #log-scaled prior
                 for idx in range(testcase.size):        #check all 500 words, and count the frequency of words
                     for _ in range(testcase[idx]):
-                        pst+=(np.log(self.likelihood[lbl_idx][idx]))    #calculate log-scaled likelihood
-                tmp.append(np.exp(pst))
-                evidance = sum(tmp) + self.epsilon
-                for i in range(len(tmp)):
-                    tmp[i] = tmp[i]/evidance
+                        pst += np.log(self.likelihood[lbl_idx][idx]+self.epsilon)    #calculate log-scaled likelihood
+                tmp.append(np.exp(pst))                 #tmp has [prior(S)*likelihood(X|S), prior(NS)*likelihood(X|NS)]
+            evidance = sum(tmp) + self.epsilon          
+            for i in range(len(tmp)):
+                tmp[i] = tmp[i]/evidance                #calculate evidence by dividing prior*likelihood
             self.posterior.append(tmp)
 
-        [print(i) for i in self.posterior]
+        # [print(i) for i in self.posterior]
         return self.posterior
 
     def predict(self, x):
