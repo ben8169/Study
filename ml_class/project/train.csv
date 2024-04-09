@@ -1,0 +1,586 @@
+,Species,Farm.Name,Lot.Number,Altitude,Number.of.Bags,Bag.Weight,Harvest.Year,Grading.Date,Variety,Processing.Method,Aroma,Flavor,Aftertaste,Acidity,Body,Balance,Uniformity,Clean.Cup,Sweetness,Cupper.Points,Total.Cup.Points,Moisture,Category.One.Defects,Quakers,Color,Category.Two.Defects,Expiration,Country.of.Origin
+0,Arabica,conquista / morito,,,250,1 kg,2012,"January 13th, 2012",Bourbon,Washed / Wet,7.17,6.08,6.17,7.25,7.33,7.33,10,10,10,7,78.33,0.11,0,0,Green,9,"January 12th, 2013",2
+1,Arabica,,,de 1.600 a 1.950 msn,275,70 kg,Mayo a Julio,"July 29th, 2011",Caturra,,7.33,7.33,7.33,7.58,7.25,8.08,10,10,10,8.17,83.08,0.01,0,0,,0,"July 28th, 2012",1
+2,Arabica,la esmeralda,11/23/0634,4000,25,69 kg,2017,"September 8th, 2017",Bourbon,Washed / Wet,7.5,7.42,7.42,7.75,7.5,7.5,10,10,10,7.5,82.58,0.1,0,1,Green,2,"September 8th, 2018",2
+3,Arabica,fazenda santo antonio,,900-1100,305,2 kg,2014,"February 13th, 2015",Catuai,Natural / Dry,7.67,7.67,7.67,7.5,7.42,7.5,10,10,10,7.58,83,0,0,0,Green,0,"February 13th, 2016",0
+4,Arabica,,,,1,5 lbs,2013,"September 12th, 2014",,Washed / Wet,7.5,7.42,7.42,7.42,7.67,7.42,10,10,10,7.25,82.08,0.11,1,0,Green,0,"September 12th, 2015",1
+5,Arabica,,,1750,275,70 kg,2013,"August 27th, 2013",Caturra,Washed / Wet,7.75,7.67,7.75,7.58,7.42,8,10,10,10,7.58,83.75,0.11,0,0,Green,3,"August 27th, 2014",1
+6,Arabica,agropecuaria quiagral,,4300,250,1 kg,2012,"July 9th, 2012",Bourbon,Washed / Wet,7.83,7.58,7.08,7.83,7.42,8.08,10,10,10,7.42,83.25,0.11,0,0,Green,9,"July 9th, 2013",2
+7,Arabica,pereira estate coffee,,1.2,300,60 kg,2010,"January 4th, 2011",Yellow Bourbon,,8.42,7.92,8,7.75,7.92,8,10,10,10,8.17,86.17,0.01,0,0,,3,"January 4th, 2012",0
+8,Arabica,gabriel bernard rivas ross,53,1300,8,8 kg,2016,"February 25th, 2016",,,7.5,7.67,7.42,7.75,7.42,7.17,10,10,10,7.75,82.67,0.11,0,2,Green,3,"February 24th, 2017",3
+9,Arabica,,,1750 msnm,250,70 kg,2013,"June 21st, 2013",Caturra,Washed / Wet,7.5,7.42,7.5,7.5,7.5,7.58,10,10,10,7.33,82.33,0,0,0,Green,1,"June 21st, 2014",1
+10,Arabica,el injerto s.a.,,1700m,36,55 lbs,2014,"March 21st, 2015",Pacamara,Washed / Wet,7.33,7.42,7.17,7.25,7.42,7.33,10,10,10,7.33,81.25,0.09,0,0,Bluish-Green,2,"March 20th, 2016",2
+11,Arabica,el jabali,,1400 m,100,1 kg,2012,"March 5th, 2012",Typica,Washed / Wet,8,7.92,7.67,7.17,7.67,7.42,9.33,10,10,7.75,82.92,0.14,1,0,Green,4,"March 5th, 2013",3
+12,Arabica,various,,1750 msnm,250,70 kg,2013,"October 29th, 2013",Caturra,Washed / Wet,7.83,7.75,7.67,7.58,7.58,7.67,10,10,10,7.58,83.67,0,0,0,Green,3,"October 29th, 2014",1
+13,Arabica,los magueyes,,774,10,1 kg,2012,"September 27th, 2012",Bourbon,Washed / Wet,7.5,7.5,7.33,7.42,7.25,7.25,10,10,10,7.5,81.75,0.13,2,0,,9,"September 27th, 2013",3
+14,Arabica,,,442 msnm,250,70 kg,2015/2016,"November 27th, 2015",Caturra,Natural / Dry,7.75,7.67,7.5,7.67,7.58,7.83,10,10,10,7.75,83.75,0,0,0,Green,0,"November 26th, 2016",1
+15,Arabica,capoeirinha,260/15,905,320,60 kg,2015,"April 25th, 2016",Yellow Bourbon,Pulped natural / honey,7.5,7.5,7.58,7.5,7.58,7.58,10,10,10,7.5,82.75,0.11,0,2,Bluish-Green,1,"April 25th, 2017",0
+16,Arabica,fazenda capoeirnha,020/17,890,320,60 kg,2017 / 2018,"October 20th, 2017",Bourbon,Natural / Dry,7.5,7.33,7.42,7.58,7.58,6.92,8,8,10,7,77.33,0,0,0,Green,3,"October 20th, 2018",0
+17,Arabica,el papaturro,,4000 psn,250,69 kg,2014,"March 24th, 2014",Bourbon,Washed / Wet,8,7.92,7.67,7.58,7.58,7.67,10,10,10,8.17,84.58,0.09,0,0,Green,0,"March 24th, 2015",2
+18,Arabica,,3-59-1772,442,250,70 kg,2016,"February 11th, 2016",,,7.75,7.67,7.5,7.75,7.83,7.75,10,10,10,7.67,83.92,0.11,1,0,Green,2,"February 10th, 2017",1
+19,Arabica,"cafetal el equimite, rancho agroecológico",,1300,35,1 kg,2012,"September 10th, 2012",Typica,Washed / Wet,7.42,7.58,7.5,7.33,7.42,7.42,10,10,10,7.42,82.08,0.13,0,0,Green,7,"September 10th, 2013",3
+20,Arabica,,,de 1600 a 1950 msnm,275,70 kg,2014,"July 9th, 2014",Caturra,Washed / Wet,7.92,7.75,7.67,7.92,7.67,7.75,10,10,10,7.75,84.42,0,0,0,Green,3,"July 9th, 2015",1
+21,Arabica,kassandra,,1400 masl,1,1 kg,2010-2011,"April 6th, 2011",Blue Mountain,,7.75,7.58,7.25,7.75,7.67,7.58,10,10,10,7.08,82.67,0,0,0,,1,"April 5th, 2012",3
+22,Arabica,los charcos,,1261,11,2 kg,2015,"July 14th, 2015",Typica,Natural / Dry,7.83,7.75,7.5,7.58,7.58,7.58,10,10,10,7.42,83.25,0.12,0,0,Bluish-Green,2,"July 13th, 2016",3
+23,Arabica,"arroyo triste, arroyo triste, san jose vista hermosa",,1100,42,1 kg,2012,"September 4th, 2012",Typica,Washed / Wet,7.42,7.5,7.33,7.58,7.33,7.33,10,10,10,7.25,81.75,0.11,0,0,Green,1,"September 4th, 2013",3
+24,Arabica,rio verde,,1,320,2 kg,2015/2016,"October 8th, 2015",Yellow Bourbon,Natural / Dry,7.17,7.42,7.17,7.08,6.92,8.17,10,10,10,7.33,81.25,0,0,0,Green,1,"October 7th, 2016",0
+25,Arabica,sitío são geraldo,,1100m,31,60 kg,2012,"February 29th, 2012",Mundo Novo,Natural / Dry,8,8,7.83,7.83,7.67,7.67,10,10,10,8,85,0.12,0,0,Green,3,"February 28th, 2013",0
+26,Arabica,são rafael_ ra/ras certified,2017-003,995,440,59 kg,2017 / 2018,"November 3rd, 2017",Catuai,Natural / Dry,7.17,7.33,7.42,7.08,7,7,10,10,10,7.25,80.25,0.11,0,1,Green,1,"November 3rd, 2018",0
+27,Arabica,"la calera, barranca de la leona, el nogal",,1200,60,1 kg,2012,"July 2nd, 2012",Typica,Washed / Wet,7,7.67,7.5,7.5,7.42,7.5,10,10,10,7.58,82.17,0.1,0,0,Green,1,"July 2nd, 2013",3
+28,Arabica,,,1600 m.s.n.m,250,70 kg,4T/2010,"February 1st, 2011",,,7.67,7.33,7.33,7.58,7.33,7.33,10,10,10,7.33,81.92,0.09,0,0,,1,"February 1st, 2012",1
+29,Arabica,,,1350,250,1 kg,2012,"August 2nd, 2012",Caturra,Washed / Wet,7.25,7.75,7,7.75,8.17,7.75,10,10,9.33,7.17,82.17,0.12,0,0,,2,"August 2nd, 2013",2
+30,Arabica,cruz verde,,1000,70,1 kg,2012,"July 11th, 2012",Typica,Washed / Wet,7.33,7.25,7.17,7.42,7.58,7.33,10,10,10,7.25,81.33,0.12,0,0,,4,"July 11th, 2013",3
+31,Arabica,,,,275,2 kg,2015,"August 18th, 2015",,Washed / Wet,7.92,7.67,7.5,7.83,7.58,7.67,10,10,10,7.75,83.92,0,0,0,,0,"August 17th, 2016",1
+32,Arabica,chapultepec,11/23/0335,3280,130,69 kg,2016,"June 1st, 2016",Bourbon,Washed / Wet,7.58,7.83,7.58,7.83,7.83,7.67,10,10,10,7.83,84.17,0.1,0,0,Green,2,"June 1st, 2017",2
+33,Arabica,finca el retiro,,1500,250,1 kg,2012,"June 6th, 2012",Typica,Washed / Wet,7.92,7.83,7.75,7.75,7.75,7.83,10,10,10,7.67,84.5,0.11,0,0,,4,"June 6th, 2013",3
+34,Arabica,finca muxbal,,1500,302,1 kg,2012,"August 31st, 2012",Bourbon,Washed / Wet,7.83,7.33,7.25,7.58,7.25,7.33,10,10,10,7.25,81.83,0.12,0,0,Green,2,"August 31st, 2013",3
+35,Arabica,finca el naranjal,,4540 metros,275,69 kg,2014,"January 28th, 2014",Bourbon,Natural / Dry,7.17,7.42,6.83,7.5,7.17,7.25,10,10,10,7.25,80.58,0.11,0,0,Green,5,"January 28th, 2015",2
+36,Arabica,chiquimulja / alpha cafe / senfro,,,250,1 kg,2012,"January 25th, 2012",Bourbon,Washed / Wet,7,7.5,7.33,7.17,7.17,7.17,10,10,10,7.33,80.67,0.11,0,0,Green,3,"January 24th, 2013",2
+37,Arabica,el aguacate,,1000,12,1 kg,2012,"September 10th, 2012",Bourbon,Washed / Wet,7,7,6.92,7.17,7.17,7.08,10,10,10,6.92,79.25,0.13,0,0,Green,10,"September 10th, 2013",3
+38,Arabica,,,1800 msnm,250,70 kg,4T/10,"February 9th, 2011",,,7.25,7.17,7,6.75,7.17,7.33,10,10,10,6.92,79.58,0.1,0,0,,4,"February 9th, 2012",1
+39,Arabica,las delicias,11/23/0367,,50,69 kg,2017,"June 1st, 2017",Bourbon,,7.5,7.42,7.25,7.25,7.5,7.25,10,10,10,7.33,81.5,0.12,0,0,Green,0,"June 1st, 2018",2
+40,Arabica,,43102245 - P4615,,300,60 kg,2016,"January 12th, 2016",,,7.42,7.5,7.33,7.5,7.25,7.42,10,10,10,8,82.42,0.11,0,1,Green,0,"January 11th, 2017",0
+41,Arabica,conquista / morito,,,250,1 kg,2012,"January 13th, 2012",Bourbon,Washed / Wet,7.17,6.17,6.17,7.08,7.33,6.83,10,10,10,7.17,77.92,0.11,0,0,Green,7,"January 12th, 2013",2
+42,Arabica,,,1550,250,70 kg,2014,"January 17th, 2014",Caturra,Natural / Dry,7.58,8.08,7.92,7.83,8,7.92,10,10,10,7.92,85.25,0.12,0,0,Green,2,"January 17th, 2015",1
+43,Arabica,,,1750 m.s.n.m,250,70 kg,2011,"November 11th, 2011",Caturra,Natural / Dry,7.5,7.42,7.25,7.17,7.17,7.75,10,10,10,7.17,81.42,0.11,0,0,Green,0,"November 10th, 2012",1
+44,Arabica,rio verde,,1100,320,2 kg,2014/2015,"October 16th, 2014",Bourbon,Natural / Dry,7.75,7.58,7.42,7.42,7.33,7.33,10,10,10,7.42,82.25,0.11,0,0,Green,0,"October 16th, 2015",0
+45,Arabica,,,1050 - 1850 msnm,250,70 kg,Abril - Julio /2011,"July 19th, 2011",,,7.5,7.75,7.33,7.75,7.08,7.83,10,10,10,7.67,82.92,0.15,0,0,,0,"July 18th, 2012",1
+46,Arabica,,,,1,5 lbs,2013,"August 25th, 2014",,Natural / Dry,7.17,7.25,7.17,7.25,7.42,8.25,10,10,10,7.25,81.75,0.1,0,0,Bluish-Green,1,"August 25th, 2015",0
+47,Arabica,,,de 1600 a 1950 msnm,275,70 kg,2015,"August 18th, 2015",Caturra,Washed / Wet,8,7.5,7.5,7.67,8,7.83,10,10,10,7.67,84.17,0,0,0,Bluish-Green,0,"August 17th, 2016",1
+48,Arabica,,,1800,275,70 kg,2013,"July 19th, 2013",Caturra,Washed / Wet,7.75,7.58,7.33,7.83,7.58,8.08,10,10,10,8.17,84.33,0,0,0,Green,0,"July 19th, 2014",1
+49,Arabica,corta pico,2016-2017-1,1600,50,50 kg,2017,"March 7th, 2017",Typica,Washed / Wet,7.67,7.83,7.42,7.83,7.33,7.5,10,10,10,7.67,83.25,0.11,0,0,Blue-Green,0,"March 7th, 2018",3
+50,Arabica,rio verde,,1,320,2 kg,2015/2016,"October 8th, 2015",Yellow Bourbon,Natural / Dry,6.92,7.58,7.42,7.33,7.83,7.5,10,10,10,7.58,82.17,0,0,0,Green,1,"October 7th, 2016",0
+51,Arabica,,,de 1600 a 1950 msnm,50,70 kg,2012,"December 11th, 2012",Caturra,Washed / Wet,7.75,7.92,7.83,7.75,7.75,8,10,10,10,7.92,84.92,0.11,0,0,Green,3,"December 11th, 2013",1
+52,Arabica,santa cecilia,,1500,45,1 kg,2013,"March 29th, 2013",Typica,Washed / Wet,7.75,7.58,7.58,7.58,7.5,7.42,10,10,10,7.75,83.17,0.11,0,0,Green,2,"March 29th, 2014",3
+53,Arabica,finca teocelo,,,10,1 kg,2012,"August 1st, 2012",Mundo Novo,Washed / Wet,7.75,7.58,7.58,7.58,7.5,7.58,10,10,10,7.67,83.25,0.13,0,0,Green,7,"August 1st, 2013",3
+54,Arabica,,,1750,250,70 kg,2012,"February 22nd, 2012",Caturra,Washed / Wet,7.5,7.42,7.67,7.33,7.58,7.33,10,10,10,7.42,82.25,0.12,0,0,Green,1,"February 21st, 2013",1
+55,Arabica,,,,1,5 lbs,2014,"August 25th, 2014",,Washed / Wet,7,6.75,6.67,6.83,7.08,6.83,10,10,10,6.67,77.83,0.11,0,0,,2,"August 25th, 2015",0
+56,Arabica,,3-59-0504,439,300,29 kg,2017 / 2018,"November 9th, 2017",Caturra,Washed / Wet,7.5,7.58,7.58,7.5,7.75,7.83,10,10,10,7.67,83.42,0,0,2,Green,1,"November 9th, 2018",1
+57,Arabica,fazenda capoeirnha,019/17,890,320,60 kg,2017 / 2018,"October 20th, 2017",Bourbon,Natural / Dry,7.42,7.5,7.25,7.5,7.5,7.25,10,10,10,7.25,81.67,0.11,0,0,Green,5,"October 20th, 2018",0
+58,Arabica,rio verde,,1200,300,2 kg,2014/2015,"October 16th, 2014",Bourbon,Washed / Wet,7.58,7.83,7.67,7.42,7.42,7.5,10,10,10,7.67,83.08,0,0,0,Green,1,"October 16th, 2015",0
+59,Arabica,various,,1300,400,1 kg,2013,"March 29th, 2013",Bourbon,Washed / Wet,7.33,7.08,7.08,7.33,7.42,7.17,9.33,10,10,7.17,79.92,0.12,0,0,Green,4,"March 29th, 2014",3
+60,Arabica,piamonte,11/23/0639,1700,50,69 kg,2017,"September 8th, 2017",Bourbon,Washed / Wet,7.58,7.5,7.33,7.75,7.33,7.5,10,10,10,7.42,82.42,0.1,0,1,Green,2,"September 8th, 2018",2
+61,Arabica,fazenda são pedro,0063/17,982,320,2 kg,2016,"February 9th, 2017",Catuai,Natural / Dry,7.33,7.5,7.5,7.33,7.5,7.5,10,10,10,7.67,82.33,0.11,0,3,Green,11,"February 9th, 2018",0
+62,Arabica,fazenda são josé mirante,14,695,500,60 kg,2016,"June 21st, 2017",Mundo Novo,Natural / Dry,7.58,7.42,7.5,7.25,7.75,7.58,9.33,10,9.33,7.33,81.08,0.11,5,0,Green,8,"June 21st, 2018",0
+63,Arabica,el delirio,,1450,53,1 kg,2012,"August 30th, 2012",Typica,Washed / Wet,7.17,6.92,6.92,7.08,7.17,7,10,10,10,6.92,79.17,0.14,0,0,Green,34,"August 30th, 2013",3
+64,Arabica,,,1483,250,70 kg,2014,"June 24th, 2014",Caturra,Natural / Dry,7.58,7.58,7.5,7.58,7.58,7.75,10,10,10,7.67,83.25,0,0,0,Green,0,"June 24th, 2015",1
+65,Arabica,el faro,,,250,1 kg,2012,"March 26th, 2012",Bourbon,Natural / Dry,7.33,7.33,7.33,7.5,7.67,7.67,10,10,10,7.17,82,0.11,0,0,Green,3,"March 26th, 2013",2
+66,Arabica,fazendas klem ltda,KLEM-C04,1100,1062,5 kg,,"November 15th, 2017",Catuai,Washed / Wet,7.58,7.5,7.25,7.42,7.67,7.33,10,10,10,7.5,82.25,0.09,2,6,Green,10,"November 15th, 2018",0
+67,Arabica,finca los barreales 1112lban,,1170,10,1 kg,2012,"August 31st, 2012",Bourbon,Natural / Dry,7.83,7.58,7.25,7.5,7.5,7.42,10,10,10,8.42,83.5,0.13,0,0,Green,14,"August 31st, 2013",3
+68,Arabica,,,1800 mts,40,1 kg,2013,"January 20th, 2014",Typica,Natural / Dry,7.5,7.42,7.58,7.5,7.58,7.58,10,10,10,7.67,82.83,0,4,0,Green,4,"January 20th, 2015",1
+69,Arabica,canoa manzanillo,,1000,20,1 kg,2012,"August 1st, 2012",Typica,Semi-washed / Semi-pulped,7.33,7.5,7.33,7.33,7.33,7.42,10,10,10,7.25,81.5,0.11,0,0,Green,6,"August 1st, 2013",3
+70,Arabica,,3-37-0059,,230,70 kg,2016,"November 8th, 2016",Caturra,Washed / Wet,7.5,7.33,7.33,7.17,7.33,7.42,10,10,10,7.25,81.33,0,0,0,,0,"November 8th, 2017",1
+71,Arabica,,,1750 msnm,250,70 kg,2013,"August 2nd, 2013",Caturra,Washed / Wet,7.83,7.5,7.58,7.33,7.5,7.67,10,10,10,7.58,83,0,0,0,Green,0,"August 2nd, 2014",1
+72,Arabica,naranjal,,700,10,1 kg,2012,"September 27th, 2012",Caturra,Natural / Dry,7.83,7.58,7.58,7.5,7.75,7.67,10,10,10,7.83,83.75,0.13,5,0,,5,"September 27th, 2013",3
+73,Arabica,beneficio el torreon,11/23/0673,1901,275,69 kg,2017,"August 24th, 2017",Bourbon,Washed / Wet,7.58,7.58,7.33,7.67,7.75,7.58,10,10,10,7.67,83.17,0.1,0,0,Green,1,"August 24th, 2018",2
+74,Arabica,various,,4000 p.s.n.m,275,69 kg,2014,"February 7th, 2014",Other,Washed / Wet,7.42,7.25,6.83,7.33,7,6.92,9.33,9.33,9.33,7.25,78,0.1,1,0,Green,2,"February 7th, 2015",2
+75,Arabica,el encanto,,950,30,1 kg,2012,"September 17th, 2012",Typica,Washed / Wet,7,7,6.83,7.33,7.42,6.92,10,10,10,6.83,79.33,0.14,0,0,,23,"September 17th, 2013",3
+76,Arabica,ojo de agua,,1000,250,1 kg,2012,"June 6th, 2012",Typica,Washed / Wet,7.83,7.67,7.58,7.58,7.67,7.58,10,10,10,7.67,83.58,0.12,0,0,,2,"June 6th, 2013",3
+77,Arabica,el morito,,5000 ft.,250,69 kg,2014,"June 10th, 2014",Pacas,Washed / Wet,7.58,7.67,7.5,7.58,7.75,7.5,9.33,10,10,7.42,82.33,0.12,0,0,Green,3,"June 10th, 2015",2
+78,Arabica,casa blanca,,1100,127,1 kg,2012,"July 11th, 2012",Typica,Washed / Wet,7.25,7.33,7,7.25,7.17,7.17,9.33,10,10,7,79.5,0.12,0,0,Bluish-Green,5,"July 11th, 2013",3
+79,Arabica,"zaragoza, montelibano, pamal navil",,1200,100,1 kg,2012,"September 12th, 2012",Mundo Novo,Washed / Wet,7.17,6.92,6.67,6.83,7.25,7.75,10,6,10,6.58,75.17,0.11,0,0,Green,20,"September 12th, 2013",3
+80,Arabica,agua de la mariposa,,1400,11,1 kg,2012,"September 17th, 2012",Typica,Washed / Wet,7.42,7,6.83,7.08,6.92,6.83,7.33,10,10,6.75,76.17,0.16,2,0,,4,"September 17th, 2013",3
+81,Arabica,fazenda serra negra,,1000m,39,60 kg,2012,"May 8th, 2014",Catuai,Semi-washed / Semi-pulped,7.58,7.67,7.33,7.5,7.5,7.42,10,10,10,7.42,82.42,0.12,0,0,Blue-Green,1,"May 8th, 2015",0
+82,Arabica,,,1800 msnm,250,70 kg,4T/10,"February 9th, 2011",,,8.08,7.67,7.67,7.33,7.33,7.17,10,10,10,7.42,82.67,0.08,0,0,,3,"February 9th, 2012",1
+83,Arabica,la castellana,,4300,250,69 kg,2013,"June 6th, 2013",Bourbon,Washed / Wet,6.5,6.33,6.5,7.5,7.33,6.83,8.67,10,8.67,6,74.33,0.11,1,0,Green,1,"June 6th, 2014",2
+84,Arabica,,,1700 msnm,270,70 kg,2013,"June 21st, 2013",Caturra,Washed / Wet,7.67,7.83,7.67,7.75,7.67,7.75,10,10,10,7.67,84,0.11,0,0,Green,1,"June 21st, 2014",1
+85,Arabica,finca cuetzalingo,,900,48,1 kg,2012,"July 3rd, 2012",Typica,Washed / Wet,7.67,7.75,7.58,7.67,7.75,7.83,10,10,10,7.67,83.92,0.12,10,0,Blue-Green,32,"July 3rd, 2013",3
+86,Arabica,las merceditas,11/23/0693,1700,50,69 kg,2017,"August 23rd, 2017",Bourbon,Washed / Wet,7.58,7.67,7.42,7.42,7.67,7.67,8.67,8.67,8.67,7.67,79.08,0.1,0,0,Green,1,"August 23rd, 2018",2
+87,Arabica,são francisco da serra,,950m,100,60 kg,2012,"February 17th, 2012",Mundo Novo,Natural / Dry,7.92,7.58,7.5,7.58,7.42,7.5,10,10,10,7.67,83.17,0.11,0,0,Green,4,"February 16th, 2013",0
+88,Arabica,various,,1200 m,250,6,08/09 crop,"April 9th, 2010",Typica,,6.75,6.75,6.83,7.25,7.58,7.08,10,10,10,6.92,79.17,0.01,0,0,,8,"April 9th, 2011",3
+89,Arabica,capoeirinha,259/15,905,320,60 kg,2015,"February 6th, 2017",Yellow Bourbon,Pulped natural / honey,7.67,7.58,7.58,7.5,7.5,7.42,10,10,10,7.58,82.83,0.11,0,2,Bluish-Green,2,"February 6th, 2018",0
+90,Arabica,la esperanza y anexos,11/23/0178,,50,69 kg,2016,"April 27th, 2016",Bourbon,Washed / Wet,8,7.75,7.5,7.58,7.92,7.67,10,10,10,7.67,84.08,0.1,0,0,Green,4,"April 27th, 2017",2
+91,Arabica,fazenda kaquend,,1250m,7,60 kg,2011,"December 3rd, 2011",Bourbon,Semi-washed / Semi-pulped,8.33,8,8,8,7.75,8,10,10,10,8,86.08,0.11,0,0,Blue-Green,2,"December 2nd, 2012",0
+92,Arabica,,,1750 msnm,250,70 kg,2012,"October 19th, 2012",Caturra,Washed / Wet,7.75,7.75,7.75,7.75,7.83,7.75,10,10,10,7.58,84.17,0,0,0,Green,2,"October 19th, 2013",1
+93,Arabica,rio verde,,1200,300,2 kg,2014/2015,"October 17th, 2014",Bourbon,Semi-washed / Semi-pulped,7.42,7.25,7.33,7,7.08,7.25,10,10,10,7.25,80.58,0,0,0,Green,3,"October 17th, 2015",0
+94,Arabica,rio verde,,1100,10,2 kg,2014/2015,"October 15th, 2014",Bourbon,Natural / Dry,7.75,8.08,7.67,8.08,8.08,8,10,10,6.67,8,82.33,0.11,0,0,Blue-Green,0,"October 15th, 2015",0
+95,Arabica,el pino,,1100,200,1 kg,2013,"July 15th, 2014",Other,Washed / Wet,7.42,7.33,7.17,7.42,7.33,8.17,10,10,10,7.33,82.17,0.12,0,0,Green,0,"July 15th, 2015",3
+96,Arabica,santa maria,,,300,60 kg,2014/2015,"December 16th, 2014",Catuai,Natural / Dry,6.83,7,6.92,7.08,6.92,6.83,10,10,10,6.83,78.42,0.12,3,0,Green,4,"December 16th, 2015",0
+97,Arabica,pereira estate coffee,,1250,300,60 kg,2013,"April 17th, 2014",Yellow Bourbon,Semi-washed / Semi-pulped,7.42,7.42,7.08,7.33,7.67,7.5,9.33,9.33,10,7.42,80.5,0.1,0,0,,10,"April 17th, 2015",0
+98,Arabica,finca quequesquez,,1450,250,1 kg,2012,"August 20th, 2012",Caturra,Washed / Wet,7.42,7.25,7.33,7.25,7.25,7.42,10,10,10,7.25,81.17,0.12,0,0,Green,4,"August 20th, 2013",2
+99,Arabica,santa cruz - pante doña graciela,,1650,28,1 kg,2012,"June 6th, 2012",Typica,Washed / Wet,7.5,7.42,7.25,7.33,7.67,7.25,10,10,10,7.33,81.75,0.12,0,0,,1,"June 6th, 2013",3
+100,Arabica,la victoria pante nubes,,1210,15,1 kg,2012,"August 30th, 2012",Catuai,Semi-washed / Semi-pulped,7.17,7.08,7.25,7.42,7.25,7.33,10,10,10,7.33,80.83,0.13,0,0,Green,7,"August 30th, 2013",3
+101,Arabica,valparaiso,,5000,150,1 kg,2012,"July 3rd, 2012",Bourbon,Washed / Wet,7.83,8,8,8.17,7.83,8,10,10,10,8,85.83,0.12,0,0,Green,3,"July 3rd, 2013",2
+102,Arabica,,,1600 msnm,250,70 kg,4T/10,"February 9th, 2011",,,7.75,7.67,7.25,7.25,7.58,8.5,10,10,10,7.75,83.75,0.06,0,0,,1,"February 9th, 2012",1
+103,Arabica,,,de 1600 a 1950 msnm,252,70 kg,2015,"October 26th, 2015",Caturra,Washed / Wet,7.92,7.83,7.75,7.83,7.75,8,10,10,10,7.83,84.92,0.12,0,0,Green,1,"October 25th, 2016",1
+104,Arabica,,,1600 a 1900 msnm,75,70 kg,2013,"December 6th, 2013",Caturra,Washed / Wet,7.75,7.75,7.83,7.75,7.58,8,10,10,10,7.92,84.58,0,0,0,,5,"December 6th, 2014",1
+105,Arabica,,,1550,250,70 kg,2013,"December 20th, 2013",Caturra,Washed / Wet,7.67,7.67,7.58,7.75,7.58,8.5,10,10,10,7.83,84.58,0,0,0,,0,"December 20th, 2014",1
+106,Arabica,el papaturro,,4000 psnm,250,69 kg,2014,"August 21st, 2014",Bourbon,Other,7.83,7.83,7.5,7.92,7.58,7.75,10,10,10,7.83,84.25,0.1,0,0,Green,1,"August 21st, 2015",2
+107,Arabica,,3-59-1919,1000,250,70 kg,2016,"April 7th, 2016",Caturra,Natural / Dry,7.75,7.58,7.58,7.5,7.75,7.75,10,10,10,7.58,83.5,0,0,0,Green,0,"April 7th, 2017",1
+108,Arabica,agropecuaria quiagral,,4300,250,1 kg,2012,"May 23rd, 2012",Bourbon,Washed / Wet,7.5,7.67,7.33,7.5,7.33,7.5,10,10,10,7.5,82.33,0.1,2,0,Green,5,"May 23rd, 2013",2
+109,Arabica,,,1550 msnm,250,70 kg,2013,"June 21st, 2013",Caturra,Washed / Wet,7.83,7.5,7.42,7.42,7.67,7.5,10,6.67,10,7.5,79.5,0,0,0,Green,2,"June 21st, 2014",1
+110,Arabica,la joya,,1100,10,1 kg,2012,"September 12th, 2012",Pacamara,Washed / Wet,7.5,7.25,6.92,7,7.17,6.83,8,8,10,6.83,75.5,0.11,4,0,Green,20,"September 12th, 2013",3
+111,Arabica,la corralera,,1400,15,1 kg,2012,"July 11th, 2012",Pacamara,Washed / Wet,7.75,7.67,7.67,7.75,7.33,7.5,10,10,10,7.83,83.5,0.12,0,0,Green,0,"July 11th, 2013",3
+112,Arabica,various,,4000 psnm,250,69 kg,2014,"September 4th, 2014",Other,Washed / Wet,7.33,7.17,6.92,7.58,7.25,7.17,8.67,9.33,10,7.17,78.58,0.12,0,0,Green,3,"September 4th, 2015",2
+113,Arabica,,,1300,14,1 kg,2012,"September 17th, 2012",Mundo Novo,Natural / Dry,6.75,7.08,6.67,7.25,7.17,7.08,10,10,10,7,79,0.12,0,0,,12,"September 17th, 2013",3
+114,Arabica,,,940,10,1 kg,2012,"August 30th, 2012",Typica,Semi-washed / Semi-pulped,7.67,7.75,7.67,7.75,7.58,7.5,10,10,10,7.58,83.5,0.11,0,0,Green,12,"August 30th, 2013",3
+115,Arabica,union ramal santa cruz,,1400,310,1 kg,2013,"March 29th, 2013",Typica,Washed / Wet,7.5,7.42,7.08,7.58,7.33,7.33,10,10,10,7.42,81.67,0.12,0,0,Green,6,"March 29th, 2014",3
+116,Arabica,los encinos,,1350,10,1 kg,2012,"June 6th, 2012",Bourbon,Washed / Wet,7.67,7.17,6.83,7.33,7.58,7.17,9.33,10,8.67,7,78.75,0.12,0,0,,0,"June 6th, 2013",3
+117,Arabica,el chile,,1300 a 1800 metros sobre el nivel del mar,275,69 kg,2015,"July 8th, 2015",Catuai,Washed / Wet,7.67,7.75,7.33,7.92,7.42,7.5,10,10,10,7.42,83,0.11,0,0,Green,3,"July 7th, 2016",2
+118,Arabica,santa fé 2,,900,300,60 kg,2015,"May 26th, 2015",Catuai,Natural / Dry,7.58,7.83,7.33,7.67,7.42,7.33,10,10,10,7.67,82.83,0.12,2,0,Green,6,"May 25th, 2016",0
+119,Arabica,el injerto s.a.,,1770,36,30 kg,2014,"May 23rd, 2015",Pacamara,Natural / Dry,7.83,7.75,7.83,7.67,7.83,8.58,10,10,10,7.83,85.33,0.11,0,0,Green,1,"May 22nd, 2016",2
+120,Arabica,,,1200-1600m,2,2 kg,2013,"April 10th, 2014",Other,Washed / Wet,7.5,7.5,7.33,7.42,7.5,7.42,10,10,10,7.5,82.17,0.1,1,0,,1,"April 10th, 2015",3
+121,Arabica,,3-59-1773,442,25,70 kg,2016,"February 11th, 2016",,,7.67,7.67,7.33,7.67,7.5,7.58,10,10,10,7.58,83,0.11,0,0,Green,4,"February 10th, 2017",1
+122,Arabica,,,,149,70 kg,,"March 15th, 2011",,,7.17,7.25,7.08,7.42,7.08,7.42,10,10,10,7.25,80.67,0.18,0,0,,2,"March 14th, 2012",1
+123,Arabica,,,,1,2 kg,2015,"November 3rd, 2015",,Washed / Wet,7.75,7.5,7.33,7.58,7.33,7.75,10,10,10,7.42,82.67,0,1,0,Green,9,"November 2nd, 2016",1
+124,Arabica,hamburgo 7 arroyos,,1250,50,80 kg,2012,"July 26th, 2012",Bourbon,Washed / Wet,7.42,7.42,7.33,7.17,7.25,7.42,10,10,10,7.5,81.5,0.13,0,0,Green,5,"July 26th, 2013",3
+125,Arabica,el morito,,4300,250,69 kg,2013,"July 16th, 2013",Bourbon,Washed / Wet,7.5,7.42,7.58,7.5,7.5,7.58,10,10,10,7.25,82.33,0.12,2,0,Green,1,"July 16th, 2014",2
+126,Arabica,,,de 1.600 a 1.950 msnm,275,70 kg,2012,"June 13th, 2012",Caturra,Washed / Wet,7.33,7.42,7.58,7.42,7.67,7.5,10,10,10,7.67,82.58,0.11,2,0,Green,2,"June 13th, 2013",1
+127,Arabica,fiech (mixed producers),,1300 meters,275,2 kg,2015,"June 11th, 2015",Bourbon,Washed / Wet,7.75,7.67,7.42,7.42,7.75,7.5,10,10,10,7.42,82.92,0.12,2,0,Bluish-Green,8,"June 10th, 2016",3
+128,Arabica,finca nextlalpa,,1150,10,1 kg,2012,"July 3rd, 2012",Caturra,Washed / Wet,7.58,7.33,7.33,7.58,7.5,7.5,10,10,10,7.58,82.42,0.11,0,0,Green,0,"July 3rd, 2013",3
+129,Arabica,la esperanza y anexos,11/23/0252,,80,69 kg,2016,"May 16th, 2016",Bourbon,Washed / Wet,7.92,8.08,7.92,8.08,8.08,7.83,10,10,10,8,85.92,0.1,0,1,Green,3,"May 16th, 2017",2
+130,Arabica,santa maria,,1400,10,1 kg,2012,"June 6th, 2012",Other,Washed / Wet,7.75,7.67,7.42,7.75,7.5,7.5,10,10,10,7.5,83.08,0.1,0,0,,1,"June 6th, 2013",3
+131,Arabica,,3-37-1829,,135,70 kg,2016,"February 15th, 2017",Caturra,Washed / Wet,8,7.92,7.75,7.92,7.75,7.83,10,10,10,7.83,85,0,0,0,Green,3,"February 15th, 2018",1
+132,Arabica,,,1800 m.s.n.m,250,70 kg,4T/2010,"January 17th, 2011",,,7.92,7.75,7.5,7.42,7.42,7.67,10,10,10,7.58,83.25,0.04,0,0,,1,"January 17th, 2012",1
+133,Arabica,cortapico,cosecha 2015-2016,1600,60,69 kg,2016,"April 26th, 2016",Caturra,Washed / Wet,7.25,7.17,7,7.33,7.33,7,10,10,10,7.17,80.25,0.1,0,0,Green,2,"April 26th, 2017",3
+134,Arabica,conquista / morito,,,250,1 kg,2012,"January 9th, 2012",Bourbon,Washed / Wet,6.75,6.5,6.17,7,7.25,6.75,8,10,10,6.33,74.75,0.11,0,0,,8,"January 8th, 2013",2
+135,Arabica,jamaica,,1250,40,1 kg,2012,"August 30th, 2012",Typica,Washed / Wet,7.67,7.58,7.33,7.5,7.42,7.42,10,10,10,7.33,82.25,0.12,0,0,Green,13,"August 30th, 2013",3
+136,Arabica,various,,1300 to 1500 meters,280,2 kg,2014,"May 1st, 2014",Typica,Washed / Wet,7.58,7.75,7.42,7.5,7.5,7.5,8.67,8.67,10,7.42,80,0,0,0,Green,2,"May 1st, 2015",3
+137,Arabica,,,1750 msnm,250,70 kg,2012,"May 30th, 2012",Caturra,Washed / Wet,7.5,7.67,7.67,7.58,7.67,7.58,10,10,10,7.67,83.33,0,0,0,Green,1,"May 30th, 2013",1
+138,Arabica,la ceiba,,940,15,1 kg,2012,"July 11th, 2012",Typica,Washed / Wet,7.67,7.33,7.25,7.5,7.42,7.42,10,10,10,7.42,82,0.12,0,0,Green,1,"July 11th, 2013",3
+139,Arabica,,,de 1600 a 1950 msnm,200,70 kg,2014,"November 5th, 2014",Caturra,Washed / Wet,7.92,7.75,7.67,7.75,7.67,7.67,10,10,10,7.67,84.08,0,0,0,,2,"November 5th, 2015",1
+140,Arabica,la canada,,1800 meters (5900,1,1 kg,Spring 2011 in Colombia.,"November 16th, 2011",,,7.33,7.58,7.42,7.42,7.67,7.67,10,10,10,7.58,82.67,0.11,0,0,Green,0,"November 15th, 2012",1
+141,Arabica,santa rosa,,1250,1,1 kg,2012,"June 6th, 2012",Bourbon,Washed / Wet,7.67,7.58,7.33,7.42,7.58,7.33,10,10,10,7.5,82.42,0.13,0,0,,4,"June 6th, 2013",3
+142,Arabica,,,,149,70 kg,,"March 1st, 2011",,,7.17,7.25,7.58,7.25,7.58,7.67,10,10,10,7.75,82.25,0.22,0,0,,2,"February 29th, 2012",1
+143,Arabica,finca medina,,1500 msnm,26,69 kg,2014,"March 7th, 2014",Caturra,Natural / Dry,7.67,7.83,7.42,7.5,7.33,7.5,10,10,10,7.67,82.92,0.1,0,0,Green,2,"March 7th, 2015",2
+144,Arabica,,3-59-2318,442,600,29 kg,2016,"May 10th, 2017",Caturra,Washed / Wet,7.67,7.67,7.5,7.67,7.67,7.58,10,10,10,7.67,83.42,0.11,0,0,Green,2,"May 10th, 2018",1
+145,Arabica,various,,4000 p.s.n.m.,275,69 kg,2014,"April 23rd, 2014",Other,Washed / Wet,7.5,7.17,6.83,7.5,7.17,7.17,10,10,10,7.17,80.5,0.11,0,0,Green,3,"April 23rd, 2015",2
+146,Arabica,finca medina,,1500,275,69 kg,2012,"July 17th, 2012",Caturra,Washed / Wet,7.67,7.67,7.17,7.67,7.5,7.5,10,10,10,7.5,82.67,0.11,0,0,Green,0,"July 17th, 2013",2
+147,Arabica,finca medina,,5000,250,69 kg,2012,"April 30th, 2012",Caturra,Washed / Wet,7.67,7.5,7.33,8,7.67,7.67,10,10,10,7.83,83.67,0.1,0,0,Green,0,"April 30th, 2013",2
+148,Arabica,pante carajillo,,1450,10,1 kg,2012,"September 11th, 2012",Typica,Semi-washed / Semi-pulped,7.83,7.92,7.67,7.83,7.5,7.75,10,10,10,7.75,84.25,0.12,0,0,Green,1,"September 11th, 2013",3
+149,Arabica,"cafetal el equimite, rancho agroecológico",,1300,35,1 kg,2012,"September 10th, 2012",Typica,Washed / Wet,7.42,7.58,7.33,7.58,7.5,7.5,10,10,10,7.5,82.42,0.14,0,0,Green,9,"September 10th, 2013",3
+150,Arabica,,,1800 msnm,250,70 kg,4t/2011,"February 1st, 2011",,,7.5,7.58,7.67,7.67,7.58,7.58,10,10,10,7.42,83,0.06,0,0,,2,"February 1st, 2012",1
+151,Arabica,finca san vicente,11/52/709,3607,275,69 kg,2015,"April 6th, 2016",Caturra,Washed / Wet,7.75,7.92,7.5,8.08,7.58,7.67,10,10,10,7.75,84.25,0.1,0,0,Green,1,"April 6th, 2017",2
+152,Arabica,los pinos,,1150,20,1 kg,2012,"September 17th, 2012",Caturra,Washed / Wet,6.92,6.92,6.67,7.25,7.17,6.92,10,10,10,6.83,78.67,0.13,0,0,,2,"September 17th, 2013",3
+153,Arabica,el papaturro,,4000 psnm,250,69 kg,2013,"August 21st, 2014",Bourbon,Natural / Dry,7.75,7.83,7.33,7.83,7.5,7.67,10,10,10,7.5,83.42,0.1,0,0,Green,1,"August 21st, 2015",2
+154,Arabica,,,,250,70 kg,2012,"May 22nd, 2012",Arusha,Natural / Dry,7.67,7.58,7.5,7.5,7.75,7.5,10,10,10,7.5,83,0,1,0,,4,"May 22nd, 2013",1
+155,Arabica,,,1750 msnm,250,70 kg,2012,"June 8th, 2012",Caturra,Washed / Wet,7.58,7.67,7.5,7.58,7.67,7.67,10,10,10,7.5,83.17,0.11,0,0,Blue-Green,0,"June 8th, 2013",1
+156,Arabica,la union monte verde,,4300,250,69 kg,2013,"May 9th, 2013",Bourbon,Washed / Wet,7.92,7.75,7.67,7.67,7.83,7.92,10,10,10,7.42,84.17,0.11,0,0,Green,4,"May 9th, 2014",2
+157,Arabica,finca huehuetecpan,,1250,209,1 kg,2012,"July 11th, 2012",Mundo Novo,Washed / Wet,7.17,7.33,7.08,7.58,7.33,7.08,10,9.33,10,7,79.92,0.11,0,0,Green,0,"July 11th, 2013",3
+158,Arabica,,3-59-2888,2527,275,70 kg,2017,"June 30th, 2017",Caturra,Washed / Wet,7.92,7.58,7.5,7.83,7.58,7.67,10,10,10,7.75,83.83,0,1,0,Green,6,"June 30th, 2018",1
+159,Arabica,finca el morito,,4300,250,69 kg,2013,"April 26th, 2013",Bourbon,Washed / Wet,7.5,7.83,7.5,7.83,7.83,7.67,10,10,10,7.67,83.83,0.11,0,0,Green,3,"April 26th, 2014",2
+160,Arabica,various,,4000 p.s.n.m.,275,69 kg,2014,"April 8th, 2014",Other,Washed / Wet,7.33,7,6.83,7.17,7.17,7.17,9.33,9.33,9.33,6.67,77.33,0.1,1,0,Green,2,"April 8th, 2015",2
+161,Arabica,,,1450,250,70 kg,2013,"January 22nd, 2013",Other,Washed / Wet,7.83,7.67,7.42,7.42,7.5,7.58,10,10,10,7.5,82.92,0.11,3,0,Green,5,"January 22nd, 2014",1
+162,Arabica,campo das flores,,1000m,50,60 kg,2012,"March 19th, 2012",Mundo Novo,Natural / Dry,7.75,7.67,7.58,7.5,7.58,7.58,10,10,10,7.5,83.17,0.12,0,0,Green,1,"March 19th, 2013",0
+163,Arabica,"san marcos barrancas ""san cristobal cuch",,1600 - 1800 m,5,1,,"May 31st, 2010",Bourbon,,8.42,8.5,8.42,8.42,8.33,8.42,10,10,10,9.25,89.75,0,0,0,,0,"May 31st, 2011",2
+164,Arabica,,43102245/P4615,,300,60 kg,2016,"December 28th, 2015",,,7.25,6.58,6.58,7,7,6.42,8,8,10,6.67,73.5,0.11,0,1,Green,0,"December 27th, 2016",0
+165,Arabica,,,1600,245,1,,"July 23rd, 2010",,,7.75,7.58,7.67,7.67,7.58,7.58,9.33,10,10,7.33,82.5,0.01,1,0,,14,"July 23rd, 2011",2
+166,Arabica,,,1550,250,1 kg,2012,"August 30th, 2012",Caturra,Washed / Wet,7.25,6.92,6.92,7.33,7.25,7,10,10,10,6.92,79.58,0.13,0,0,Green,5,"August 30th, 2013",3
+167,Arabica,santa teresa,,1300,250,1 kg,2013,"March 12th, 2013",Typica,Washed / Wet,7.33,7,6.75,7.08,7.17,7.25,9.33,10,10,7,78.92,0.12,0,0,Green,8,"March 12th, 2014",3
+168,Arabica,fazenda capoeirnha,020/17,890,320,60 kg,2017 / 2018,"October 20th, 2017",Bourbon,Natural / Dry,7.67,7.58,7.5,7.58,7.58,7.5,10,10,10,7.5,82.92,0,0,0,Green,0,"October 20th, 2018",0
+169,Arabica,comunidad la yerbabuena,,1400,20,1 kg,2012,"April 2nd, 2012",Typica,Washed / Wet,7.75,7.92,7.83,7.92,7.75,7.67,9.33,10,10,7.75,83.92,0,0,0,Green,2,"April 2nd, 2013",3
+170,Arabica,unkown,,,1,4 lbs,2014,"August 25th, 2014",,Washed / Wet,7.58,7.75,7.5,7.58,7.58,7.58,10,10,10,7.58,83.17,0.11,10,0,Green,3,"August 25th, 2015",1
+171,Arabica,la esperanza,11/23/0146,4000,50,69 kg,2016,"March 16th, 2016",Bourbon,Washed / Wet,7.5,7.5,7.33,7.5,7.67,7.5,10,10,10,7.5,82.5,0.1,0,2,Green,2,"March 16th, 2017",2
+172,Arabica,las merceditas,11/23/0366,1700,50,69 kg,2016,"June 1st, 2017",Bourbon,Washed / Wet,7.67,7.58,7.25,7.67,7.42,7.33,10,10,10,7.5,82.42,0.12,0,0,Green,0,"June 1st, 2018",2
+173,Arabica,la igualdad,,4500,275,1 kg,2012,"April 27th, 2012",Bourbon,Washed / Wet,7.5,7.67,7.5,7.67,7.5,7.83,10,10,10,7.33,83,0.1,0,0,Green,2,"April 27th, 2013",2
+174,Arabica,,,1200,21,1 kg,2012,"June 6th, 2012",Typica,Natural / Dry,8.08,8.17,8,8,7.83,7.92,6.67,10,10,8.08,82.75,0.12,1,0,,4,"June 6th, 2013",3
+175,Arabica,rio verde,,1260,300,2 kg,2014/2015,"October 16th, 2014",Bourbon,Washed / Wet,7.25,7.42,7.25,7.5,7.5,7.42,10,10,10,7.33,81.67,0.1,0,0,Green,2,"October 16th, 2015",0
+176,Arabica,finca las cuevitas,,4451 metros,275,69 kg,2014,"February 27th, 2014",Bourbon,Washed / Wet,8,7.5,7.33,8,8,8,9.33,10,10,7.5,83.67,0.1,0,0,Green,0,"February 27th, 2015",2
+177,Arabica,,,1750 msnm,250,70 kg,2013,"March 20th, 2013",Caturra,Washed / Wet,7.33,7.25,7.25,7.58,7.75,7.5,10,10,10,7.5,82.17,0,0,0,Bluish-Green,1,"March 20th, 2014",1
+178,Arabica,caxambu,,,84,60 kg,2012,"January 23rd, 2012",Arusha,Natural / Dry,7.67,7.58,7.42,7,7.5,7.58,10,10,10,7.5,82.25,0.12,0,0,Green,1,"January 22nd, 2013",0
+179,Arabica,la cruz,,850,43,1 kg,2012,"July 11th, 2012",Typica,Washed / Wet,7,6.92,6.75,6.92,7.17,6.83,10,6.67,10,6.75,75,0.14,15,0,Green,7,"July 11th, 2013",3
+180,Arabica,,,1880 msnm,250,70 kg,4T72010,"February 22nd, 2011",,,7.75,7.33,7.42,7,7.33,7.25,10,10,10,7.33,81.42,0.16,0,0,,2,"February 22nd, 2012",1
+181,Arabica,vegas,,750,15,1 kg,2012,"July 26th, 2012",Typica,Washed / Wet,7.67,7.58,7.42,7.5,7.67,7.58,10,10,10,7.58,83,0.11,0,0,Green,20,"July 26th, 2013",3
+182,Arabica,santa maria temaxcalapa,,1100,30,1 kg,2012,"August 29th, 2012",Catuai,Washed / Wet,7.42,7.25,7.17,7.42,7.17,8,10,10,10,7.08,81.5,0.12,0,0,Green,10,"August 29th, 2013",3
+183,Arabica,las merceditas,11/23/0693,1700,50,69 kg,2017,"September 19th, 2017",Bourbon,Washed / Wet,7.5,7.67,7.17,7.67,7.67,7.58,10,10,10,7.5,82.75,0.11,0,0,Green,4,"September 19th, 2018",2
+184,Arabica,la esmeralda,11/23/0369,518,25,69 kg,2017,"June 1st, 2017",Bourbon,Washed / Wet,7.58,7.58,7.33,7.58,7.33,7.67,10,10,10,7.67,82.75,0.12,0,0,Green,0,"June 1st, 2018",2
+185,Arabica,fazenda recreio,,1300m,37,60 kg,2011,"December 23rd, 2011",Bourbon,Semi-washed / Semi-pulped,8,8,7.75,7.75,7.58,7.75,10,10,10,7.75,84.58,0.12,0,0,Green,2,"December 22nd, 2012",0
+186,Arabica,grupo medina (pequeños productores),,1500 msnm,26,69 kg,2014,"March 7th, 2014",Bourbon,Washed / Wet,7.67,7.67,7.42,7.83,7.5,7.5,10,10,10,7.42,83,0.1,1,0,Green,0,"March 7th, 2015",2
+187,Arabica,,3-37-3729,,130,70 kg,2016,"June 15th, 2016",Caturra,Washed / Wet,7.67,7.58,7.58,7.42,7.67,7.75,10,10,10,7.67,83.33,0,0,0,Blue-Green,0,"June 15th, 2017",1
+188,Arabica,finca el limon,,4650,275,1 kg,2012,"May 24th, 2012",Catuai,Washed / Wet,7.5,6.67,6.67,7.67,7.33,6.67,8,1.33,1.33,6.67,59.83,0.1,0,0,Green,4,"May 24th, 2013",2
+189,Arabica,various,,1200 meters,280,69 kg,2014,"May 8th, 2014",Typica,Washed / Wet,7.08,7.08,6.92,7.08,6.92,6.92,8,8,8,6.92,72.92,0,1,0,,1,"May 8th, 2015",3
+190,Arabica,capoeirinha,007/16E,934,320,60 kg,2016,"August 16th, 2016",Bourbon,Natural / Dry,7.58,7.67,7.67,7.75,7.58,7.83,10,10,10,7.83,83.92,0.11,0,2,Green,7,"August 16th, 2017",0
+191,Arabica,,3-37-1704,,275,70 kg,2016,"February 16th, 2016",,,7.67,7.67,7.75,7.83,7.75,7.83,10,10,10,7.83,84.33,0,0,2,,4,"February 15th, 2017",1
+192,Arabica,,,1800,250,1 kg,2012,"August 30th, 2012",Typica,Natural / Dry,7.42,7.25,7.08,7.75,7.42,7.17,10,10,10,7.08,81.17,0.13,3,0,Green,7,"August 30th, 2013",3
+193,Arabica,las truchas,,1000,200,1 kg,2012,"July 11th, 2012",Typica,Washed / Wet,7.5,7.58,7.25,7.5,7.5,7.33,10,10,10,7.5,82.17,0.12,0,0,Green,4,"July 11th, 2013",3
+194,Arabica,,,1480,250,1 kg,2014,"May 27th, 2014",,Washed / Wet,7.67,7.75,7.67,7.67,7.67,7.75,10,10,10,7.83,84,0.12,0,0,Green,0,"May 27th, 2015",1
+195,Arabica,sitío corrego da olaria/são caetano,,1100m,8,60 kg,2012,"February 29th, 2012",Mundo Novo,Natural / Dry,7.42,7.58,7.25,7.5,7.33,7.5,10,10,10,7.33,81.92,0.12,0,0,Green,3,"February 28th, 2013",0
+196,Arabica,la tejeria,,1550,10,1 kg,2012,"September 13th, 2012",Typica,Washed / Wet,7.25,7.08,6.92,7.08,7.17,7.17,9.33,10,10,7.17,79.17,0.14,0,0,,8,"September 13th, 2013",3
+197,Arabica,los brujos,,1100,20,1 kg,2012,"June 6th, 2012",Typica,Washed / Wet,7.42,7.42,7.25,7.25,7.5,7.33,10,10,10,7.25,81.42,0.13,0,0,,1,"June 6th, 2013",3
+198,Arabica,el vergel,,1050,250,1 kg,2012,"September 4th, 2012",Typica,Washed / Wet,7.33,7.25,7,7.08,7.08,7,10,10,10,7,79.75,0.1,1,0,Green,22,"September 4th, 2013",3
+199,Arabica,santo tomas pachuj,,5000,275,69 kg,2012,"April 30th, 2012",Caturra,Washed / Wet,7.83,7.5,7.5,8,7.67,7.5,10,10,10,7.5,83.5,0.1,0,0,Green,5,"April 30th, 2013",2
+200,Arabica,finca nueva linda,,1380,250,1 kg,2012,"June 6th, 2012",Typica,Washed / Wet,7.58,7.58,7.5,7.42,7.67,7.58,10,10,10,7.5,82.83,0.11,0,0,,2,"June 6th, 2013",3
+201,Arabica,selva negra,,100,100,1 kg,2012,"July 3rd, 2012",Bourbon,Washed / Wet,7.5,7.17,7.33,7.25,7.17,7.17,10,10,10,7.25,80.83,0.13,0,0,Green,1,"July 3rd, 2013",3
+202,Arabica,,,,320,5 lbs,2014,"April 2nd, 2014",,Washed / Wet,7.33,7.58,7.42,7.5,7.5,7.5,10,10,10,7.5,82.33,0.11,0,0,Green,0,"April 2nd, 2015",3
+203,Arabica,conquista / morito,,,250,2 kg,2011/2012,"January 3rd, 2012",Bourbon,Washed / Wet,6.17,6.5,6.5,7.17,7,6.83,10,10,10,6.17,76.33,0.11,0,0,,5,"January 2nd, 2013",2
+204,Arabica,,,1750 msnm,250,70 kg,2012,"November 22nd, 2012",Caturra,Washed / Wet,7.75,7.75,7.58,7.83,7.17,7.75,10,10,10,7.83,83.67,0.11,0,0,Green,1,"November 22nd, 2013",1
+205,Arabica,,,1750 msnm,250,70 kg,2013,"September 3rd, 2013",Caturra,Washed / Wet,7.67,7.58,7.58,7.83,7.58,7.67,10,10,10,7.92,83.83,0.11,0,0,Green,1,"September 3rd, 2014",1
+206,Arabica,"el desmoronado, talpan de allende jalisco",,1200,20,1 kg,2014,"October 23rd, 2014",Typica,Washed / Wet,7.25,7.17,7.17,7.25,7.17,7.42,10,10,10,7.25,80.67,0.12,0,0,Green,4,"October 23rd, 2015",3
+207,Arabica,consolapa,,1264,253,1 kg,2012,"June 4th, 2012",Mundo Novo,Washed / Wet,6.92,7.17,7.17,7.17,7.08,7.08,10,10,10,7.08,79.67,0,0,0,,9,"June 4th, 2013",3
+208,Arabica,,,442 msnm,275,70 kg,2015,"April 29th, 2015",Caturra,Natural / Dry,7.58,7.67,7.58,7.67,7.58,7.67,10,10,10,7.67,83.42,0.12,4,0,Green,0,"April 28th, 2016",1
+209,Arabica,cianorte,,900-950m,58,60 kg,2011,"October 28th, 2011",Mundo Novo,,7.33,7.67,7.25,7.5,7.5,7.25,10,10,10,7.33,81.83,0.02,0,0,,2,"October 27th, 2012",0
+210,Arabica,tomatlancillo,,1250,250,1 kg,2012,"July 11th, 2012",Typica,Washed / Wet,7.58,7.42,7.25,7.75,7.33,7.42,10,10,10,7.33,82.08,0.11,0,0,Green,1,"July 11th, 2013",3
+211,Arabica,la orduña,,1250,20,1 kg,2012,"August 1st, 2012",Typica,Washed / Wet,7.33,6.75,6.67,7.25,7.5,7,10,5.33,10,7,74.83,0.12,0,0,Green,30,"August 1st, 2013",3
+212,Arabica,la marina-el orizabeño,,1200,100,1 kg,2012,"September 17th, 2012",Typica,Washed / Wet,6.92,6.42,6.17,7.33,7.25,6.75,10,6.67,10,6.5,74,0.13,0,0,,27,"September 17th, 2013",3
+213,Arabica,capoeirinha,008/16B,934,320,60 kg,2016,"August 16th, 2016",Bourbon,Natural / Dry,7.5,7.5,7.42,7.5,7.42,7.5,10,10,10,7.5,82.33,0.11,0,2,Bluish-Green,3,"August 16th, 2017",0
+214,Arabica,capoeirinha,019/17,890,320,60 kg,2017 / 2018,"October 20th, 2017",Bourbon,Natural / Dry,7.5,7.58,7.25,7.75,7.58,7.5,10,10,10,7.5,82.67,0,0,0,Green,4,"October 20th, 2018",0
+215,Arabica,,,1750 msnm,250,70 kg,2013,"May 7th, 2013",Caturra,Washed / Wet,7.5,7.5,7.42,7.42,7.58,7.58,10,10,10,7.5,82.5,0.11,0,0,Green,1,"May 7th, 2014",1
+216,Arabica,cofradia,,1300,50,1 kg,2012,"July 2nd, 2012",Typica,Washed / Wet,7.92,7.58,7.58,7.92,7.92,7.5,8,6.67,10,7.5,78.58,0.1,0,0,,1,"July 2nd, 2013",3
+217,Arabica,capoeirinha,008/16A,934,320,60 kg,2016,"August 16th, 2016",Bourbon,Natural / Dry,7.58,7.75,7.58,7.75,7.58,7.58,10,10,10,7.83,83.67,0.11,0,2,Green,3,"August 16th, 2017",0
+218,Arabica,fazenda capoeirnha,020/17,890,320,60 kg,2017 / 2018,"October 20th, 2017",Bourbon,Natural / Dry,7.67,7.83,7.5,7.67,7.67,7.5,10,10,10,7.83,83.67,0.11,0,0,Green,2,"October 20th, 2018",0
+219,Arabica,la pandora,,1400,14,1 kg,2012,"September 17th, 2012",Typica,Washed / Wet,7.5,7,6.92,7.08,6.92,6.75,10,10,10,6.75,78.92,0.16,0,0,,0,"September 17th, 2013",3
+220,Arabica,,,de 1.600 a 1.950 msnm,100,70 kg,2012,"March 5th, 2012",Caturra,Washed / Wet,7.67,7.58,7.58,7.58,7.5,7.42,10,10,10,7.42,82.75,0.11,0,0,Green,3,"March 5th, 2013",1
+221,Arabica,coop. hoja blanca - fedecocagua,,1400 msm,250,1 kg,2012,"January 18th, 2012",Caturra,Washed / Wet,8.25,8,7.67,7.92,7.75,7.67,10,10,10,7.92,85.17,0,0,0,,7,"January 17th, 2013",2
+222,Arabica,several,,1400 mts,250,1 kg,2013,"December 18th, 2014",Caturra,Washed / Wet,7.58,7.75,7.5,7.83,7.42,7.67,10,10,10,7.75,83.5,0.1,0,0,Green,0,"December 18th, 2015",2
+223,Arabica,copalita,,1050,250,1 kg,2012,"September 4th, 2012",Typica,Washed / Wet,6.92,7.17,7.08,7.5,7.33,7.17,10,10,10,7.25,80.42,0.1,2,0,Green,4,"September 4th, 2013",3
+224,Arabica,,,de 1600 a 1950 msnm,250,70 kg,2014,"November 7th, 2014",Caturra,Washed / Wet,7.5,7.58,7.58,7.75,7.33,7.5,10,10,10,7.5,82.75,0,0,0,Blue-Green,2,"November 7th, 2015",1
+225,Arabica,various,,4000 p.s.n.m,275,69 kg,2014,"February 27th, 2014",Other,Washed / Wet,7.17,6.5,6.67,7,7.17,7.17,10,10,10,6.67,78.33,0.1,0,0,Green,2,"February 27th, 2015",2
+226,Arabica,finca el limon,,4650,275,1 kg,2012,"June 5th, 2012",Catuai,Washed / Wet,8,8,7.83,8.33,7.83,7.83,10,10,10,8,85.83,0.1,0,0,Bluish-Green,1,"June 5th, 2013",2
+227,Arabica,providencia,11-43367-27,1100,275,69 kg,,"January 9th, 2018",Caturra,Washed / Wet,7.5,7.58,7.42,7.67,7.58,7.5,10,10,10,7.5,82.75,0.1,0,1,Green,3,"January 9th, 2019",2
+228,Arabica,la esperanza y anexos,,4300,250,69 kg,2013,"February 26th, 2013",Bourbon,Washed / Wet,7.83,7.67,7.17,7.33,7.5,7.67,10,10,10,7.33,82.5,0.11,0,0,Green,0,"February 26th, 2014",2
+229,Arabica,kassandra,,1400 masl,1,1 kg,2010-2011,"April 6th, 2011",Pacamara,,7.92,8.17,7.75,8.08,7.42,7.83,10,10,10,7.83,85,0,0,0,,0,"April 5th, 2012",3
+230,Arabica,exportadora café california,,1200,275,1 kg,2015,"June 25th, 2015",Caturra,Washed / Wet,7.75,7.58,7.08,7.25,7.08,7.25,10,10,10,7.17,81.17,0.12,0,0,Green,10,"June 24th, 2016",3
+231,Arabica,,,de 1600 a 1950 msnm,180,70 kg,2015,"November 19th, 2015",Caturra,Washed / Wet,7.58,7.58,7.58,7.58,7.75,7.67,10,10,10,7.75,83.5,0.12,0,0,Green,4,"November 18th, 2016",1
+232,Arabica,,3-37-1724,1500,250,70 kg,2016,"January 10th, 2017",Other,Washed / Wet,7.83,7.67,7.58,7.92,7.67,7.83,10,10,10,8.08,84.58,0,0,0,Blue-Green,4,"January 10th, 2018",1
+233,Arabica,conquista / morito,,4600 ft.,250,2 kg,2012,"February 1st, 2012",Bourbon,Washed / Wet,7.75,7.33,7.33,7.42,7.75,7.67,10,10,9.33,7.42,82,0,0,0,Green,10,"January 31st, 2013",2
+234,Arabica,capoeirinha,261/15,905,320,60 kg,2015,"April 25th, 2016",Yellow Bourbon,Pulped natural / honey,7.58,7.58,7.58,7.5,7.67,7.58,10,10,10,7.58,83.08,0.11,0,2,Bluish-Green,2,"April 25th, 2017",0
+235,Arabica,finca medina,,1500 msnm,250,69 kg,2014,"March 24th, 2014",Bourbon,Washed / Wet,7.67,7.67,7.75,7.67,7.42,7.17,10,10,10,7.5,82.83,0.1,0,0,Green,4,"March 24th, 2015",2
+236,Arabica,,,1550,250,1 kg,2012,"August 30th, 2012",Caturra,Washed / Wet,7.33,7.42,7.33,7.67,7.42,7.25,10,10,10,7.33,81.75,0.12,10,0,Green,14,"August 30th, 2013",3
+237,Arabica,various,,1500-1750 msnm,250,70 kg,2012,"May 11th, 2012",Caturra,Washed / Wet,7.75,7.58,7.5,7.67,7.83,7.75,9.33,10,10,7.58,83,0,0,0,Green,4,"May 11th, 2013",1
+238,Arabica,,3-37-4378,1600,43,70 kg,2016,"July 22nd, 2016",Caturra,Washed / Wet,7.67,7.5,7.42,5.25,7.67,7.75,10,10,10,7.75,81,0,0,4,Green,4,"July 22nd, 2017",1
+239,Arabica,fazenda capoeirnha,020/17,890,320,60 kg,2017 / 2018,"October 20th, 2017",Bourbon,Natural / Dry,7.58,7.67,7.58,7.58,7.67,7.58,10,10,10,7.92,83.58,0.11,0,0,Green,5,"October 20th, 2018",0
+240,Arabica,predio cañada del encino,,1218,20,1 kg,2012,"July 26th, 2012",Bourbon,Natural / Dry,7.67,8,7.67,7.42,7.67,7.5,10,10,10,7.92,83.83,0.1,0,0,Green,2,"July 26th, 2013",3
+241,Arabica,la igualdad,,3500 - 5200 feet,223,69 kg,2009/2010,"January 13th, 2011",,,7.08,7,6.83,7.33,7.25,7,10,10,10,7.08,79.58,0.17,1,0,,19,"January 13th, 2012",2
+242,Arabica,various,,1750 msnm,250,70 kg,2013,"April 16th, 2013",Caturra,Washed / Wet,7.75,7.25,7.33,7.42,7.5,7.83,10,10,10,7.5,82.58,0.11,0,0,Blue-Green,3,"April 16th, 2014",1
+243,Arabica,,,1750 msnm,250,70 kg,2013,"March 20th, 2013",Caturra,Natural / Dry,7.75,7.5,7.25,7.5,7.75,7.5,10,10,10,7.67,82.92,0,0,0,Bluish-Green,0,"March 20th, 2014",1
+244,Arabica,,,1550,250,70 kg,2014,"January 17th, 2014",Caturra,Natural / Dry,7.67,7.83,7.67,7.75,7.67,7.83,10,10,10,7.5,83.92,0.12,0,0,Green,3,"January 17th, 2015",1
+245,Arabica,el romance azul,,1100,15,1 kg,2012,"July 26th, 2012",Typica,Natural / Dry,7.5,7.5,7.25,7.5,7.42,7.58,9.33,10,10,7.42,81.5,0.11,0,0,Green,3,"July 26th, 2013",3
+246,Arabica,,,1650,250,70 kg,2014,"August 11th, 2014",Caturra,Washed / Wet,7.75,7.58,7.33,7.5,7.83,7.83,10,10,10,7.67,83.5,0,2,0,,0,"August 11th, 2015",1
+247,Arabica,fazenda do sertao,,1.250 m,300,60 kg,2012,"March 16th, 2012",Bourbon,Semi-washed / Semi-pulped,7.67,7.42,7.33,7.67,7.5,7.5,10,10,10,7.42,82.5,0,0,0,Blue-Green,4,"March 16th, 2013",0
+248,Arabica,various,,1550 meter,280,2 kg,2014,"May 1st, 2014",Typica,Washed / Wet,7.67,7.33,7.25,7.17,7.25,7.42,10,10,10,7.33,81.42,0,1,0,Green,1,"May 1st, 2015",3
+249,Arabica,finca la chiripa,,900,69,1 kg,2012,"June 6th, 2012",Pacamara,Washed / Wet,7.75,7.92,7.75,7.67,7.83,7.67,10,10,10,7.83,84.42,0.12,2,0,,4,"June 6th, 2013",3
+250,Arabica,el sacramento,,4300,250,1 kg,2013,"February 7th, 2013",Bourbon,Washed / Wet,7,6.83,6.67,7.17,6.83,6.83,10,10,10,6.5,77.83,0.11,0,0,Green,2,"February 7th, 2014",2
+251,Arabica,fazenda capoeirnha,019/17,890,320,60 kg,2017 / 2018,"October 20th, 2017",Bourbon,Natural / Dry,7.67,7.42,7.5,7.58,7.67,7.58,10,10,10,7.75,83.17,0.11,0,0,Green,4,"October 20th, 2018",0
+252,Arabica,pinzoneno,,1059,11,2 kg,2015,"July 14th, 2015",Typica,Natural / Dry,7.83,7.67,7.25,7.58,7.5,7.5,10,10,10,7.58,82.92,0.13,0,0,Blue-Green,3,"July 13th, 2016",3
+253,Arabica,various,,1550 msnm,275,70 kg,2015,"April 8th, 2015",Caturra,Washed / Wet,8.17,7.92,7.83,8,7.58,7.83,10,10,10,7.92,85.25,0.11,0,0,Green,0,"April 7th, 2016",1
+254,Arabica,peña negra,,1450,12,1 kg,2012,"September 14th, 2012",Bourbon,Washed / Wet,7.25,7.17,7.17,7.08,7.17,7,10,10,10,6.92,79.75,0.14,0,0,,0,"September 14th, 2013",3
+255,Arabica,capoeirinha,007/16D,934,320,60 kg,2016,"August 16th, 2016",Bourbon,Natural / Dry,7.5,7.58,7.5,7.67,7.5,7.42,10,10,10,7.5,82.67,0.11,0,2,Bluish-Green,3,"August 16th, 2017",0
+256,Arabica,capoeirinha,007/16F,872,320,60 kg,2016,"August 16th, 2016",Bourbon,Natural / Dry,7.5,7.67,7.58,7.67,7.58,7.42,10,10,10,7.58,83,0.11,0,2,Bluish-Green,3,"August 16th, 2017",0
+257,Arabica,helena,2017/001,973,200,59 kg,2016,"January 20th, 2017",Mundo Novo,Natural / Dry,7.42,7.5,7.42,7.5,7.42,7.25,10,10,10,7.33,81.83,0.11,0,1,Green,3,"January 20th, 2018",0
+258,Arabica,,,1100,10,1 kg,2012,"July 26th, 2012",Typica,Washed / Wet,7.17,6.58,6.58,7,7.25,6.58,9.33,9.33,10,6.58,76.42,0.13,0,0,Green,14,"July 26th, 2013",3
+259,Arabica,el morito,,4300,250,69 kg,2013,"July 16th, 2013",Bourbon,Washed / Wet,7.67,7.5,7.75,7.42,7.75,7.75,10,10,10,7.58,83.42,0.11,0,0,Green,0,"July 16th, 2014",2
+260,Arabica,various,,4000 p.s.n.m.,275,69 kg,2014,"March 31st, 2014",Other,Washed / Wet,7.25,7.33,6.83,7,7,7.17,10,10,10,6.83,79.42,0.1,1,0,Green,4,"March 31st, 2015",2
+261,Arabica,rancho los laureles,,1300,23,1 kg,2012,"September 17th, 2012",Typica,Washed / Wet,7.17,6.75,6.58,6.75,6.83,6.75,10,10,10,6.67,77.5,0.13,0,0,Green,3,"September 17th, 2013",3
+262,Arabica,finca monte grande,,1100,36,1 kg,2012,"June 6th, 2012",Typica,Washed / Wet,7.25,6.83,6.92,7.08,7.25,7.08,10,10,10,7.33,79.75,0.12,0,0,,7,"June 6th, 2013",3
+263,Arabica,aprocafi,,1550,1,2 kg,2014,"June 16th, 2014",Bourbon,Washed / Wet,7.58,7.75,7.67,8,7.75,7.67,10,10,10,7.67,84.08,0.1,0,0,Bluish-Green,10,"June 16th, 2015",2
+264,Arabica,,,de 1600 a 1950 msnm,175,70 kg,2012,"February 9th, 2012",Caturra,Washed / Wet,7.67,7.58,7.58,7.67,7.67,7.67,10,10,10,7.67,83.5,0.11,0,0,Green,0,"February 8th, 2013",1
+265,Arabica,,,1550,250,1 kg,2012,"August 30th, 2012",Caturra,Washed / Wet,7.58,7.67,7.5,7.58,7.5,7.5,10,10,10,7.5,82.83,0.12,2,0,Green,10,"August 30th, 2013",3
+266,Arabica,el deseo,,1250,15,1 kg,2012,"July 11th, 2012",Typica,Semi-washed / Semi-pulped,7.33,7.33,7.25,7.5,7.5,7.5,10,10,10,7.42,81.83,0.12,0,0,Green,10,"July 11th, 2013",3
+267,Arabica,,,1800,250,1 kg,2012,"August 30th, 2012",Typica,Washed / Wet,7.58,7.42,7.25,7.33,7.25,7.25,10,10,10,7.25,81.33,0.13,4,0,Green,13,"August 30th, 2013",3
+268,Arabica,el papaturro,,4000psn,250,69 kg,2015,"July 23rd, 2015",Bourbon,Washed / Wet,7.5,7.25,7,7.25,7.5,7.25,10,10,10,7.25,81,0.11,0,0,Green,1,"July 22nd, 2016",2
+269,Arabica,el regadito,,1248,50,1 kg,2012,"July 26th, 2012",Typica,Washed / Wet,7.42,7.25,7,7,7.25,7.08,8,10,10,6.92,77.92,0.11,0,0,Green,3,"July 26th, 2013",3
+270,Arabica,cre-leg l-4,,800,10,1 kg,2012,"September 11th, 2012",Typica,Washed / Wet,7,6.83,6.83,7.42,7.33,7.17,10,10,10,6.83,79.42,0.13,0,0,Green,30,"September 11th, 2013",3
+271,Arabica,,,1600-1800 msnm,250,70 kg,1t/2011,"June 14th, 2011",,,7.58,7.5,7.17,7.58,7.33,7.33,10,10,10,7.33,81.83,0.05,0,0,,0,"June 13th, 2012",1
+272,Arabica,pereira estate coffee,,1.2,300,60 kg,2010,"January 4th, 2011",Yellow Bourbon,,8.17,7.92,7.92,7.75,8.33,8,10,10,10,8.08,86.17,0.08,0,0,,2,"January 4th, 2012",0
+273,Arabica,conquista / morito,,,250,1 kg,2012,"January 5th, 2012",Bourbon,Washed / Wet,6.75,6.67,6.17,7.17,7,6.58,8,10,10,6.42,74.75,0.11,0,0,,10,"January 4th, 2013",2
+274,Arabica,various,,1800 msnm,250,70 kg,2012,"October 9th, 2012",Caturra,Washed / Wet,7.42,7.67,7.75,7.75,8.08,7.83,10,10,10,8.08,84.58,0.11,0,0,Green,6,"October 9th, 2013",1
+275,Arabica,café do paraíso,,894m - 1183m,1,2 kg,2012,"May 21st, 2013",Mundo Novo,Natural / Dry,7.33,7.67,7.42,7.17,7.33,7.42,10,10,10,7.67,82,0.11,0,0,Blue-Green,0,"May 21st, 2014",0
+276,Arabica,cafetal sinai,,1300,30,1 kg,2012,"September 4th, 2012",Typica,Washed / Wet,7.33,7.25,7.33,7.42,7.25,7.42,10,10,10,7.08,81.08,0.12,0,0,Green,2,"September 4th, 2013",3
+277,Arabica,,,1850 msnm,275,70 kg,2014,"January 22nd, 2015",Caturra,Washed / Wet,8,7.58,7.25,7.58,7.92,7.58,10,10,10,7.58,83.5,0.11,0,0,Green,0,"January 22nd, 2016",1
+278,Arabica,la esperanza y anexos,11/23/0177,,250,69 kg,2016,"April 27th, 2016",Bourbon,,8,7.92,7.75,8,7.92,7.83,10,10,10,7.83,85.25,0.1,0,2,Green,2,"April 27th, 2017",2
+279,Arabica,,,1800,275,2 kg,2015/2016,"June 5th, 2015",Other,Washed / Wet,8.08,7.67,7.83,7.83,7.67,7.67,10,10,10,7.75,84.5,0.12,1,0,Green,0,"June 4th, 2016",1
+280,Arabica,agropecuaria quiagral,,4300,250,1 kg,2012,"July 9th, 2012",Bourbon,Washed / Wet,7.92,7.58,7.17,7.58,7.33,7.17,8,8,8,6.83,75.58,0.11,0,0,Green,15,"July 9th, 2013",2
+281,Arabica,el tesoro,,1250,35,1 kg,2012,"July 16th, 2012",Typica,Semi-washed / Semi-pulped,7.25,7.33,7.17,7.25,7.08,7,8.67,10,10,7,78.75,0.14,0,0,,0,"July 16th, 2013",3
+282,Arabica,fazenda kaquend,,1250m,3,60 kg,2011,"December 3rd, 2011",Bourbon,Natural / Dry,8.5,8.5,8,8,8,8,10,10,10,7.92,86.92,0.12,0,0,Green,2,"December 2nd, 2012",0
+283,Arabica,union ramal santa cruz,,1400,310,1 kg,2013,"March 29th, 2013",Typica,Washed / Wet,7.67,7.5,7.42,7.5,6.75,7.42,10,10,10,7.33,81.58,0.12,0,0,Green,9,"March 29th, 2014",3
+284,Arabica,la laja,,1650,30,1 kg,2012,"July 11th, 2012",Other,Washed / Wet,7.33,7.58,7.17,7.58,7.42,7.33,10,10,10,7.5,81.92,0.12,0,0,Green,4,"July 11th, 2013",3
+285,Arabica,san lorenzo,,1550,32,1 kg,2013,"March 29th, 2013",Typica,Washed / Wet,7.58,7.58,7.5,7.5,7.5,7.5,10,10,10,7.58,82.75,0.12,0,0,Green,6,"March 29th, 2014",3
+286,Arabica,grapos el porvenir,,1400,250,1 kg,2012,"July 26th, 2012",Typica,Washed / Wet,7,7,6.75,7.33,6.92,6.92,10,10,10,6.67,78.58,0.13,0,0,Green,1,"July 26th, 2013",3
+287,Arabica,finca medina,,1500 msnm,250,69 kg,2014,"April 3rd, 2014",Bourbon,Washed / Wet,7.75,7.5,7.42,7.58,7.67,7.5,10,10,10,7.5,82.92,0.1,0,0,Green,1,"April 3rd, 2015",2
+288,Arabica,finca los cerros y anexos,,5440 - 5760 metros,275,69 kg,2015,"June 10th, 2015",Caturra,Washed / Wet,7.67,7.83,7.58,7.92,7.75,7.67,10,10,10,7.58,84,0.12,0,0,Green,7,"June 9th, 2016",2
+289,Arabica,,,,1,2 kg,2012,"December 27th, 2013",,Washed / Wet,7.58,7.58,7.25,7.58,7.58,7.58,10,10,10,7.75,82.92,0.1,0,0,Green,4,"December 27th, 2014",2
+290,Arabica,palantla,,763,10,1 kg,2012,"September 27th, 2012",Caturra,Washed / Wet,7.42,7.33,7.25,7.17,7.25,7.42,10,10,10,7.58,81.42,0.13,1,0,,8,"September 27th, 2013",3
+291,Arabica,finca medina,,1500msnm,150,69 kg,2015,"October 29th, 2015",Bourbon,Washed / Wet,7.5,7.75,7.5,7.83,7.58,7.5,10,10,10,7.5,83.17,0.11,0,0,Green,1,"October 28th, 2016",2
+292,Arabica,la igualdad,,3500-5200 feet,275,69 kg,2009/2010,"September 7th, 2010",,,7.83,8.08,7.67,8,7.75,7.67,10,10,10,8,85,0.04,0,0,,1,"September 7th, 2011",2
+293,Arabica,el morito,,4300,250,69 kg,2013,"August 7th, 2013",Bourbon,Washed / Wet,7.33,7.33,7,7.17,7.17,7.17,10,10,10,7,80.17,0.11,0,0,Green,2,"August 7th, 2014",2
+294,Arabica,,,1600 - 1950 msnm,120,70 kg,2013,"November 7th, 2013",Caturra,Washed / Wet,7.75,7.42,7.33,7.5,7.58,7.17,10,10,10,8.25,83,0.11,1,0,Green,1,"November 7th, 2014",1
+295,Arabica,fazenda capoeirnha,007/16B,894,320,60 kg,2016,"August 16th, 2016",Bourbon,Natural / Dry,7.42,7.58,7.42,7.5,7.42,7.25,10,10,10,7.5,82.08,0.11,0,1,Green,3,"August 16th, 2017",0
+296,Arabica,la barranca,,1350,56,1 kg,2012,"July 11th, 2012",Typica,Washed / Wet,8,7.92,7.42,8.08,7.5,7.67,10,10,10,7.92,84.5,0.12,0,0,Green,0,"July 11th, 2013",3
+297,Arabica,la esmeralda,11/23/0400,518,20,69 kg,2017,"June 1st, 2017",Bourbon,Washed / Wet,7.58,7.5,7.25,7.67,7.5,7.5,10,10,10,7.42,82.42,0.12,0,0,Green,0,"June 1st, 2018",2
+298,Arabica,nueva granada,,5000 pies,200,69 kg,2014,"March 27th, 2014",Catuai,Washed / Wet,7.33,7.83,7.17,8.17,7.33,7.67,10,10,10,7.67,83.17,0.09,0,0,Green,1,"March 27th, 2015",2
+299,Arabica,"el nogal, la higuera, los laureles",,1200,80,1 kg,2012,"July 2nd, 2012",Typica,Washed / Wet,7.83,7.58,7.67,7.92,7.92,7.83,10,10,10,7.92,84.67,0.13,0,0,,3,"July 2nd, 2013",3
+300,Arabica,,,de 1600 a 1950 msnm,275,70 kg,2015,"November 19th, 2015",Caturra,Washed / Wet,7.67,7.75,7.58,7.67,7.75,7.58,10,10,10,7.58,83.58,0.12,0,0,Green,3,"November 18th, 2016",1
+301,Arabica,finca nueva linda,,1380,250,1 kg,2012,"June 6th, 2012",Typica,Washed / Wet,7.5,7.75,7.58,7.58,7.67,7.5,10,10,10,7.58,83.17,0.11,0,0,,5,"June 6th, 2013",3
+302,Arabica,agropecuaria quiagral,,4300,250,69 kg,2012,"April 30th, 2012",Bourbon,Washed / Wet,7.5,7,6.83,7.5,7.17,7.33,8.67,8.67,8.67,7,76.33,0.11,0,0,Green,8,"April 30th, 2013",2
+303,Arabica,,,de 1600 a 1950 msnm,250,70 kg,2013,"May 31st, 2013",Caturra,Washed / Wet,7.67,7.42,7.33,7.5,7.58,7.5,10,10,10,7.42,82.42,0.11,0,0,Green,9,"May 31st, 2014",1
+304,Arabica,los llanitos,,1296,10,1 kg,2014,"August 14th, 2014",Typica,Washed / Wet,7.42,7.5,7.42,7.58,7.42,7.5,10,10,10,7.58,82.42,0.11,0,0,Green,0,"August 14th, 2015",3
+305,Arabica,bola de oro,,1250,15,1 kg,2012,"July 26th, 2012",Typica,Washed / Wet,7.67,7.5,7.25,7.58,7.42,7.33,10,10,10,7.33,82.08,0.11,0,0,Green,11,"July 26th, 2013",3
+306,Arabica,,,1750 msnm,250,70 kg,2013,"May 24th, 2013",Caturra,Washed / Wet,7.58,7.67,7.58,7.75,7.58,7.75,10,10,10,7.58,83.5,0.11,0,,Green,2,"May 24th, 2014",1
+307,Arabica,piamonte,11/23/0639,1700,50,69 kg,2017,"August 22nd, 2017",Bourbon,Washed / Wet,7.33,7.25,6.92,7.33,7.25,7.33,9.33,10,10,7.08,79.83,0.1,0,0,Green,2,"August 22nd, 2018",2
+308,Arabica,finca santa teresa,,1300,250,1 kg,2012,"June 6th, 2012",Pacas,Natural / Dry,7.67,7.58,7.5,7.75,7.75,7.75,10,10,10,7.83,83.83,0.11,0,0,,4,"June 6th, 2013",3
+309,Arabica,,,1550,250,1 kg,2012,"August 30th, 2012",Caturra,Washed / Wet,7.42,7.08,7.08,7.33,7.25,7.17,10,10,10,7.08,80.42,0.12,4,0,Green,16,"August 30th, 2013",3
+310,Arabica,various,68-0054,1650,275,70 kg,2016,"November 8th, 2016",Caturra,Washed / Wet,7.75,7.5,7.75,7.58,7.58,7.58,10,10,10,7.58,83.33,0,0,1,,0,"November 8th, 2017",1
+311,Arabica,la esperanza,11/23/0507,1901.64,25,69 kg,2016,"June 22nd, 2017",Bourbon,Washed / Wet,7.5,7.42,7.25,7.58,7.33,7.42,9.33,9.33,9.33,7.25,79.75,0.1,0,4,Green,1,"June 22nd, 2018",2
+312,Arabica,la esmeralda,11/23/0508,4000,25,69 kg,2016,"June 22nd, 2017",Bourbon,Washed / Wet,7.42,7.42,7.25,7.58,7.42,7.33,9.33,9.33,9.33,7.25,79.67,0.1,0,2,Green,1,"June 22nd, 2018",2
+313,Arabica,el desmoronado,,1200,10,1 kg,2012,"July 3rd, 2012",Typica,Washed / Wet,7.17,7.25,7.25,7.17,7.25,7.08,9.33,9.33,10,7.25,79.08,0.1,0,0,Bluish-Green,0,"July 3rd, 2013",3
+314,Arabica,union ramal santa cruz,,1400,310,1 kg,2013,"March 29th, 2013",Typica,Washed / Wet,7.42,7.25,6.83,7.58,7.17,6.58,10,10,10,6.83,79.67,0.12,0,0,Green,6,"March 29th, 2014",3
+315,Arabica,ucipa santa catarina,,1200,275,1 kg,2012,"July 27th, 2012",Bourbon,Washed / Wet,7.5,7.42,7.33,7.42,7.42,7.42,10,10,10,7.17,81.67,0.11,0,0,Green,2,"July 27th, 2013",3
+316,Arabica,,2017/2018-Lot01,,440,59 kg,2017 / 2018,"October 27th, 2017",,Natural / Dry,7.17,7,6.83,7.5,7.17,7,8,8,10,7,75.67,0.11,0,1,Green,6,"October 27th, 2018",0
+317,Arabica,el tabaco,,1300,13,1 kg,2012,"September 14th, 2012",Typica,Washed / Wet,7.33,7.17,7.25,7.08,7.08,7.08,10,10,10,7.08,80.08,0.15,0,0,,0,"September 14th, 2013",3
+318,Arabica,genuine antigua medina,,,275,69 kg,2012,"July 23rd, 2012",Bourbon,Washed / Wet,7.58,7.33,7.5,7.33,7,7.33,9.33,9.33,9.33,7.67,79.75,0,0,0,Green,4,"July 23rd, 2013",2
+319,Arabica,finca medina,11/11711/59,1500,230,69 kg,2016,"May 23rd, 2016",Caturra,Washed / Wet,7.75,7.75,7.58,7.92,7.75,7.75,10,10,10,7.75,84.25,0.11,0,4,Green,4,"May 23rd, 2017",2
+320,Arabica,rio verde,,1,320,2 kg,2015/2016,"October 8th, 2015",Yellow Bourbon,Natural / Dry,7.25,7.75,6.92,7.42,7.5,7.58,10,10,10,7.25,81.67,0,0,0,Green,0,"October 7th, 2016",0
+321,Arabica,la esperanza,11/23/0145,4000,250,69 kg,2016,"March 16th, 2016",Bourbon,Washed / Wet,7.67,7.75,7.5,7.83,7.58,7.58,10,10,10,7.58,83.5,0.1,0,2,Bluish-Green,5,"March 16th, 2017",2
+322,Arabica,,,1600 msnm,275,70 kg,Jan.11,"April 18th, 2011",,,7.67,7.42,7.67,7.33,7.25,7.58,10,10,10,7.17,82.08,0.08,1,0,,5,"April 17th, 2012",1
+323,Arabica,,,1400,15,1 kg,2012,"August 30th, 2012",Bourbon,Washed / Wet,7.67,7.25,7.17,7.75,7.5,7.25,10,10,10,7.08,81.67,0.11,0,0,Green,4,"August 30th, 2013",3
+324,Arabica,,,de 1.600 a 1.950 msnm,275,70 kg,2012,"August 31st, 2012",Caturra,Washed / Wet,7.67,7.67,7.58,7.67,7.75,7.58,10,10,10,7.67,83.58,0.11,0,0,Green,3,"August 31st, 2013",1
+325,Arabica,la esmeralda,11/23/0690,4000,25,69 kg,2017,"August 22nd, 2017",Bourbon,Washed / Wet,7.42,7.58,7.42,7.67,7.5,7.5,10,10,10,7.67,82.75,0.1,0,0,Green,1,"August 22nd, 2018",2
+326,Arabica,,,900-1200mtr,6,6,January Through April,"May 26th, 2010",,,7.25,7.88,7.38,7.63,7.5,8.75,9,10,10,8,83.38,0.09,2,0,,4,"May 26th, 2011",3
+327,Arabica,,,1050 - 1850,250,70 kg,Abril - Julio,"September 7th, 2011",,,7.42,7.42,7.17,7.42,7.42,7.33,10,10,10,7.33,81.5,0.06,1,0,,0,"September 6th, 2012",1
+328,Arabica,providencia,11/43367/12,,275,69 kg,2017,"January 20th, 2017",Caturra,Washed / Wet,7.5,7.42,7.08,7.75,7.67,7.5,10,10,10,7.5,82.42,0.11,0,2,Green,3,"January 20th, 2018",2
+329,Arabica,fln mirador,,1450,10,1 kg,2012,"April 9th, 2012",Typica,Washed / Wet,7.83,7.5,7.42,7.67,7.17,7.33,10,10,10,7.5,82.42,0.12,0,0,Bluish-Green,0,"April 9th, 2013",3
+330,Arabica,las palmas,,1100,10,1 kg,2012,"September 12th, 2012",Mundo Novo,Washed / Wet,7.25,7.08,6.75,7.33,7.42,7,9.33,10,10,6.92,79.08,0.11,0,0,Green,45,"September 12th, 2013",3
+331,Arabica,la union monte verde,,4300,250,69 kg,2013,"October 7th, 2013",Bourbon,Washed / Wet,7.42,7.33,7.25,7.42,7.42,7.5,10,10,10,7.08,81.42,0.12,0,0,Green,4,"October 7th, 2014",2
+332,Arabica,finca apoxtla,,1100,48,1 kg,2012,"July 2nd, 2012",Typica,Washed / Wet,7.67,7.5,7.5,7.33,7.83,8.25,10,10,10,7.58,83.67,0.12,4,0,Green,11,"July 2nd, 2013",3
+333,Arabica,sacún palma,,940,12,1 kg,2012,"February 29th, 2012",Caturra,Semi-washed / Semi-pulped,7.75,7.58,7.25,7.17,7.58,7.33,9.33,10,10,7.67,81.67,0.11,0,0,Green,4,"February 28th, 2013",3
+334,Arabica,chiquimulja / alpha cafe / senfro,,,250,1 kg,2012,"January 25th, 2012",Bourbon,Washed / Wet,7.33,7.5,7.33,7.42,7.17,7.33,10,10,10,7.42,81.5,0.11,0,0,Green,1,"January 24th, 2013",2
+335,Arabica,,,,275,2 kg,2014,"March 12th, 2015",,Washed / Wet,7.83,7.75,7.58,7.58,7.75,7.75,10,10,10,7.67,83.92,0,1,0,,1,"March 11th, 2016",1
+336,Arabica,"la esperanza, margarita nuyes",,1400-1900 psn,100,69 kg,2015,"September 29th, 2015",Bourbon,Washed / Wet,7.92,7.67,7.42,7.75,7.5,7.5,10,10,10,7.42,83.17,0.12,0,0,Green,3,"September 28th, 2016",2
+337,Arabica,various,,4000 psnm,250,69 kg,2014,"September 23rd, 2014",Other,Washed / Wet,7.5,7.42,7.17,7.58,7.25,7.42,10,10,10,7.17,81.5,0.12,0,0,Green,0,"September 23rd, 2015",2
+338,Arabica,leticia farm,91,,94,60 kg,2016,"March 11th, 2016",,,7.33,7.25,7.33,7.08,7.58,7.25,9.33,10,10,7.42,80.58,0.11,0,0,Green,7,"March 11th, 2017",0
+339,Arabica,fazenda rio verde,,1260,320,60 kg,2013/2014,"January 2nd, 2014",Yellow Bourbon,Natural / Dry,7.58,7.83,7.67,7.25,8,7.75,10,10,10,7.92,84,0.1,0,0,Green,0,"January 2nd, 2015",0
+340,Arabica,,,de 1600 a 1950 msnm,100,70 kg,2012,"February 9th, 2012",Caturra,Washed / Wet,7.67,7.33,7.33,7.33,7.5,7.5,10,10,10,7.58,82.25,0.11,0,0,Green,0,"February 8th, 2013",1
+341,Arabica,comunidad de canoas,,900,250,1 kg,2012,"April 2nd, 2012",Typica,Washed / Wet,7.42,7.5,7.42,7.58,7.42,7.5,10,10,10,7.42,82.25,0.1,0,0,Green,3,"April 2nd, 2013",3
+342,Arabica,finca santa clara,,1100,30,1 kg,2012,"August 29th, 2012",Typica,Washed / Wet,7.33,7.25,7.33,7.33,7.25,7.17,10,10,10,7.17,80.83,0.11,0,0,Green,3,"August 29th, 2013",3
+343,Arabica,el desmoronado,,1200,15,1 kg,2012,"July 3rd, 2012",Typica,Washed / Wet,7.42,7.33,7.25,7.42,7.17,7.25,10,10,10,7.25,81.08,0.1,0,0,Green,1,"July 3rd, 2013",3
+344,Arabica,,,1700,250,70 kg,2013,"October 1st, 2013",Caturra,Washed / Wet,7.58,7.5,7.75,7.83,7.92,7.83,10,10,10,7.83,84.25,0.11,0,0,Green,2,"October 1st, 2014",1
+345,Arabica,finca sant rosa,,1500,250,1 kg,2012,"June 6th, 2012",Typica,Washed / Wet,7.5,7.67,7.58,7.83,7.75,7.75,10,10,10,7.83,83.92,0.11,0,0,,2,"June 6th, 2013",3
+346,Arabica,café citrus,,950m,44,60 kg,2012,"February 17th, 2012",Mundo Novo,Washed / Wet,7.58,7.58,7.25,7.58,7.42,7.5,10,10,10,7.42,82.33,0.11,0,0,Green,2,"February 16th, 2013",0
+347,Arabica,finca tepictla,,1250,20,1 kg,2012,"September 10th, 2012",Bourbon,Washed / Wet,7.08,6.83,6.83,7.17,7.17,7.08,10,7.33,10,6.58,76.08,0.12,0,0,Green,12,"September 10th, 2013",3
+348,Arabica,finca medina,11/11711/60,1500,100,69 kg,2016,"May 23rd, 2016",Bourbon,Washed / Wet,7.75,7.75,7.5,7.75,7.83,7.58,10,10,10,7.67,83.83,0.11,0,7,Green,6,"May 23rd, 2017",2
+349,Arabica,,,mmm,27,60 kg,mmm,"March 23rd, 2011",,,7.81,7.81,7.88,7.75,7.38,8.25,9.5,10,10,8.13,84.5,0,0,0,,4,"March 22nd, 2012",0
+350,Arabica,agropecuaria quiagral,,4300,250,1 kg,2012,"July 9th, 2012",Bourbon,Washed / Wet,7.67,8.17,7.5,7.42,7.58,7.83,10,10,10,7.5,83.67,0.11,0,0,Green,13,"July 9th, 2013",2
+351,Arabica,finca los barreales 1112lbga7250412,,1170,10,1 kg,2012,"August 31st, 2012",Bourbon,Washed / Wet,7.67,7.58,7.5,7.58,7.5,7.5,10,10,10,7,82.33,0.13,0,0,Green,9,"August 31st, 2013",3
+352,Arabica,,,,202,70 kg,,"December 1st, 2011",,,7.42,7.17,7,7.17,7.67,7.17,8.67,9.33,9.33,7.08,78,0.1,1,0,Green,3,"November 30th, 2012",1
+353,Arabica,,,442 msnm,304,35 kg,2015/2016,"November 27th, 2015",Caturra,Natural / Dry,7.58,7.67,7.67,7.17,7.75,7.83,10,10,10,7.58,83.25,0,0,0,Green,2,"November 26th, 2016",1
+354,Arabica,pereira estate coffee,,1200,300,60 kg,2014,"July 29th, 2014",Yellow Bourbon,Semi-washed / Semi-pulped,7.58,7.5,7.5,7.67,7.67,7.83,9.33,9.33,9.33,7.75,81.5,0,1,0,Green,1,"July 29th, 2015",0
+355,Arabica,fazenda rio brilhante,,1100,300,60 kg,2015/2016,"December 3rd, 2015",Catuai,Natural / Dry,7.33,7.5,7.5,7.33,6.83,7.42,10,10,10,7.5,81.42,0.11,0,0,Green,2,"December 2nd, 2016",0
+356,Arabica,finca buenos aires,,1100,10,1 kg,2012,"September 11th, 2012",Other,Washed / Wet,7.17,7.17,6.92,7.25,7.33,7.08,10,10,10,7,79.92,0.12,1,0,Green,7,"September 11th, 2013",3
+357,Arabica,finca sego,,1400,10,1 kg,2012,"September 14th, 2012",Typica,Washed / Wet,7.08,6.83,6.83,7,7,6.92,10,10,10,6.83,78.5,0.12,0,0,,14,"September 14th, 2013",3
+358,Arabica,ecobio colombia,,900-1500m,1,2 kg,2013,"March 20th, 2014",Caturra,Washed / Wet,7.75,7.92,7.83,8.08,8.08,8.17,10,10,10,8.17,86,0.12,1,0,Green,1,"March 20th, 2015",1
+359,Arabica,,,1300,10,1 kg,2012,"August 30th, 2012",Typica,Washed / Wet,7.25,7.08,7,7.17,7.33,7.17,10,10,10,7.08,80.08,0.14,1,0,Green,17,"August 30th, 2013",3
+360,Arabica,el morito,,4300,250,69 kg,2013,"July 16th, 2013",Bourbon,Washed / Wet,7.42,7.33,7.17,7.58,7.42,7.5,10,10,10,7.17,81.58,0.12,0,0,Green,1,"July 16th, 2014",2
+361,Arabica,la castellana,,4300,250,69 kg,2013,"June 27th, 2013",Bourbon,Washed / Wet,7.5,7,6.83,7.08,7.08,7.17,10,10,10,7,79.67,0.11,0,0,Green,6,"June 27th, 2014",2
+362,Arabica,valparaiso,,5000,125,1 kg,2012,"July 3rd, 2012",Bourbon,Washed / Wet,7.67,7.83,7.67,8,7.67,7.83,10,10,10,8,84.67,0.12,0,0,Green,4,"July 3rd, 2013",2
+363,Arabica,santa mariana/são vicente,,950m,53,60 kg,2012,"February 17th, 2012",Mundo Novo,Semi-washed / Semi-pulped,7.58,7.5,7.17,7.5,7.5,7.42,10,10,10,7.33,82,0.12,0,0,Green,2,"February 16th, 2013",0
+364,Arabica,,,1600 m.s.n.m,275,70 kg,Jan.11,"April 20th, 2011",,,7.83,7.83,7.58,7.33,7.42,7.67,10,10,10,8.08,83.75,0.1,0,0,,1,"April 19th, 2012",1
+365,Arabica,fazenda capoeirnha,020/17,890,320,60 kg,2017 / 2018,"October 20th, 2017",Bourbon,Natural / Dry,7.58,7.5,7.5,7.75,7.67,7.5,10,10,10,7.5,83,0,0,0,Green,4,"October 20th, 2018",0
+366,Arabica,agropecuaria quiagral,,4300,250,1 kg,2012,"July 9th, 2012",Bourbon,Washed / Wet,7.67,7.67,7.33,7.5,7.33,7.92,10,10,10,7.42,82.83,0.11,0,0,Green,10,"July 9th, 2013",2
+367,Arabica,el carrizo,,1550,15,1 kg,2012,"September 13th, 2012",Typica,Washed / Wet,7.58,7.42,7.33,7.5,7.08,7.17,8.67,10,10,7.42,80.17,0.14,1,0,Green,2,"September 13th, 2013",3
+368,Arabica,santo tomas pachuj,,1550 mts.,250,69 kg,2014,"May 26th, 2014",Bourbon,Washed / Wet,7.42,7.5,7.17,7.42,7.42,7.42,10,10,10,7.08,81.42,0.1,0,0,Green,6,"May 26th, 2015",2
+369,Arabica,,1,1130,220,69 kg,2016,"February 25th, 2016",,,7.67,7.42,7,7.42,7.58,7.08,10,10,10,7.17,81.33,0.12,0,2,Green,0,"February 24th, 2017",3
+370,Arabica,sertao farm,,1250,250,2 kg,2013/2014,"January 2nd, 2014",Yellow Bourbon,Semi-washed / Semi-pulped,7.75,7.58,7.42,7.67,7.42,7.67,10,10,10,7.5,83,0.12,0,0,Bluish-Green,4,"January 2nd, 2015",0
+371,Arabica,,,1200-2000m,100,24 kg,2014,"March 21st, 2015",Other,Washed / Wet,7.83,7.67,7.5,7.58,7.5,7.67,10,10,10,7.08,82.83,0,0,0,,1,"March 20th, 2016",1
+372,Arabica,omicuatla,,533,10,1 kg,2012,"September 27th, 2012",Bourbon,Washed / Wet,7.58,7.58,7.5,7.17,7.42,7.42,10,10,10,7.58,82.25,0.16,3,0,,8,"September 27th, 2013",3
+373,Arabica,finca quequesquez,,1450,250,1 kg,2012,"August 23rd, 2012",Caturra,Natural / Dry,8.17,8.17,7.83,7.67,8.08,7.75,9.33,9.33,9.33,8,83.67,0.11,0,0,Green,1,"August 23rd, 2013",2
+374,Arabica,santo tomas pachuj,,1550,250,69 kg,2013,"June 5th, 2013",Bourbon,Washed / Wet,7.67,7.17,7,7.5,7,7,10,10,10,7.33,80.67,0.12,0,0,Green,5,"June 5th, 2014",2
+375,Arabica,conquista / morito,,,250,1 kg,2012,"January 13th, 2012",Bourbon,Washed / Wet,7.17,6.5,6.33,7.25,7.58,7.33,10,10,10,7.17,79.33,0.11,0,0,Green,6,"January 12th, 2013",2
+376,Arabica,,,1750 msnm,250,70 kg,2011,"December 22nd, 2011",Caturra,Washed / Wet,7.33,7.42,7.33,7.33,7.5,7.67,10,10,10,7.17,81.75,0,0,0,Green,1,"December 21st, 2012",1
+377,Arabica,la union monte verde,,4300,250,69 kg,2013,"May 30th, 2013",Bourbon,Washed / Wet,7.67,7.67,7.42,7.67,8,7.75,10,10,10,7.5,83.67,0.12,1,0,Green,3,"May 30th, 2014",2
+378,Arabica,,,1800 - 2000,250,70 kg,2013,"August 16th, 2013",Caturra,Washed / Wet,7.67,7.67,7.67,7.67,7.33,7.75,10,10,10,7.92,83.67,0,0,0,Green,1,"August 16th, 2014",1
+379,Arabica,fazenda sacramento,,1100,300,60 kg,2015/2016,"November 20th, 2015",Catuai,Natural / Dry,7.25,7.33,7.33,7.33,7.33,7.42,10,10,10,7.33,81.33,0.11,0,0,Green,14,"November 19th, 2016",0
+380,Arabica,cerca de los angeles,,1200,20,1 kg,2012,"July 26th, 2012",Caturra,Washed / Wet,7.25,7.17,7,6.83,7.58,7.08,8.67,10,10,6.92,78.5,0.13,1,0,Green,3,"July 26th, 2013",3
+381,Arabica,fazenda são sebastião,,1000m,17,60 kg,2012,"January 23rd, 2012",Mundo Novo,Natural / Dry,7.42,7.33,7.25,7.42,7.5,7.17,10,10,10,7.08,81.17,0.12,0,0,Green,1,"January 22nd, 2013",0
+382,Arabica,fazenda capoeirnha,020/17,890,320,60 kg,2017 / 2018,"October 20th, 2017",Bourbon,Natural / Dry,7.5,7.5,7.5,7.5,7.58,7.5,10,10,10,7.42,82.5,0.11,0,0,Green,4,"October 20th, 2018",0
+383,Arabica,mata larga,,1000,62,1 kg,2012,"July 11th, 2012",Bourbon,Washed / Wet,7.67,7.42,7.33,7.83,7.5,7.5,9.33,10,10,7.33,81.92,0.12,0,0,Green,0,"July 11th, 2013",3
+384,Arabica,rio verde,,1,320,2 kg,2015/2016,"October 8th, 2015",Yellow Bourbon,Natural / Dry,7.58,7.5,7.42,7.67,7.5,7.5,10,10,10,7.5,82.67,0,0,0,Green,0,"October 7th, 2016",0
+385,Arabica,cachoeira da grama farm,,,300,60 kg,2014,"January 15th, 2015",Yellow Bourbon,Semi-washed / Semi-pulped,7.33,7.83,7.75,7.5,7.42,7.83,10,10,10,7.75,83.42,0.12,0,0,Green,6,"January 15th, 2016",0
+386,Arabica,fazenda rio verde,,1260,320,60 kg,2013/2014,"December 26th, 2013",Yellow Bourbon,Natural / Dry,7.92,7.5,7.33,7.67,8.17,7.5,10,10,10,7.75,83.83,0.1,0,0,Green,0,"December 26th, 2014",0
+387,Arabica,la cuchilla,,1300,250,1 kg,2012,"July 11th, 2012",Typica,Washed / Wet,7.17,7.08,7,7.25,7.5,7,10,10,10,6.83,79.83,0.12,0,0,Green,3,"July 11th, 2013",3
+388,Arabica,,,1550-1700m,100,2 lbs,2014/2015,"November 21st, 2014",Caturra,Washed / Wet,7.5,7.75,7.5,7.75,7.67,7.67,10,10,10,7.83,83.67,0.11,0,0,,4,"November 21st, 2015",1
+389,Arabica,el naranjo,,1500,10,1 kg,2012,"September 13th, 2012",Typica,Washed / Wet,7.33,7,6.67,7,6.92,6.92,9.33,9.33,10,6.83,77.33,0.15,4,0,,5,"September 13th, 2013",3
+390,Arabica,rio verde,,1227,10,2 kg,2015/2016,"October 12th, 2015",Catuai,Semi-washed / Semi-pulped,7.5,7.83,7.33,7.58,7.58,7.92,10,10,10,7.58,83.33,0.1,1,0,Green,5,"October 11th, 2016",0
+391,Arabica,,3-37-4468,1500,129,70 kg,2017,"July 7th, 2017",Caturra,Washed / Wet,7.58,7.67,7.5,7.33,7.67,7.58,10,10,10,7.58,82.92,0.11,0,0,Green,1,"July 7th, 2018",1
+392,Arabica,piamonte,11/23/0513,1700,50,69 kg,2017,"June 22nd, 2017",Bourbon,Washed / Wet,7.5,7.58,7.33,7.67,7.58,7.58,10,10,10,7.58,82.83,0.11,1,1,Green,2,"June 22nd, 2018",2
+393,Arabica,santa teresa,,1300,250,1 kg,2013,"March 15th, 2013",Typica,Washed / Wet,7.67,7.5,7.42,7.5,7.42,7.42,10,10,10,7.42,82.33,0.12,0,0,Green,3,"March 15th, 2014",3
+394,Arabica,el papaturro,,4000 psnm,250,69 kg,2014,"May 22nd, 2014",Bourbon,Washed / Wet,7.58,7.83,7.33,8,7.58,7.75,10,10,10,7.75,83.83,0.1,0,0,Green,1,"May 22nd, 2015",2
+395,Arabica,piamonte,11/23/0696,1700,50,69 kg,2017,"August 23rd, 2017",Bourbon,Washed / Wet,7.67,7.75,7.5,7.58,7.58,7.67,10,10,10,7.67,83.42,0.1,0,0,Green,3,"August 23rd, 2018",2
+396,Arabica,el sacramento,,4300,250,69 kg,2013,"February 26th, 2013",Bourbon,Washed / Wet,7.83,7.67,7.17,7.67,7.67,7.67,10,10,10,7.67,83.33,0.11,0,0,Green,3,"February 26th, 2014",2
+397,Arabica,rio verde,,1,320,2 kg,2015/2016,"October 8th, 2015",Yellow Bourbon,Natural / Dry,7.25,7.25,7.58,7.58,7.25,7.92,10,10,10,7.25,82.08,0,0,0,Green,1,"October 7th, 2016",0
+398,Arabica,rio verde,,1,320,2 kg,2015/2016,"October 8th, 2015",Yellow Bourbon,Natural / Dry,7.33,7.67,7.67,7.33,7.75,7.42,10,10,10,7.92,83.08,0,0,0,Green,3,"October 7th, 2016",0
+399,Arabica,finca medina,,4563,275,69 kg,2012,"September 19th, 2012",Bourbon,Washed / Wet,7.5,7.5,7.33,7.58,7.67,7.33,10,10,10,7.33,82.25,0.11,0,0,Green,2,"September 19th, 2013",2
+400,Arabica,la gloria,,750,50,1 kg,2012,"September 10th, 2012",Typica,Washed / Wet,7.42,7.17,7.08,7.17,7.08,7.08,9.33,10,10,7,79.33,0.14,0,0,Green,19,"September 10th, 2013",3
+401,Arabica,fazenda capoeirnha,019/17,890,320,60 kg,2017 / 2018,"October 20th, 2017",Bourbon,Natural / Dry,7.67,7.67,7.58,7.75,7.67,7.67,10,10,10,7.75,83.75,0.11,0,0,Green,5,"October 20th, 2018",0
+402,Arabica,tepemalacax,,441,10,1 kg,2012,"September 27th, 2012",Typica,Natural / Dry,7.58,7.67,7.58,7.33,7,7.58,10,10,10,7.58,82.33,0.15,1,0,,8,"September 27th, 2013",3
+403,Arabica,san josé y el portillo,,1200,30,1 kg,2012,"September 4th, 2012",Typica,Washed / Wet,7.58,7.33,7.42,7.25,7.5,7.5,9.33,9.33,10,7.5,80.75,0.11,0,0,Green,2,"September 4th, 2013",3
+404,Arabica,"olotlan, el plan, criollo garnica",,1186,60,1 kg,2012,"July 11th, 2012",Typica,Washed / Wet,7.58,7.33,7.08,7.5,7.17,7.25,10,10,10,7,80.92,0.13,0,0,Green,12,"July 11th, 2013",3
+405,Arabica,,,1600-1800msnm,250,70 kg,1T/2011,"June 14th, 2011",,,7.92,7.75,7.25,7.42,7.83,7.58,10,10,10,7.5,83.25,0.08,0,0,,0,"June 13th, 2012",1
+406,Arabica,pico del oro,,12oo,120,1 kg,2012,"August 30th, 2012",Typica,Washed / Wet,7.17,6.83,6.83,7.25,7.17,6.92,10,10,10,6.83,79,0.14,7,0,Green,38,"August 30th, 2013",3
+407,Arabica,el guayabo,11/15/0293,1500,275,69 kg,2017,"September 8th, 2017",Caturra,Washed / Wet,7.33,7.25,7.08,7.17,7.25,7.17,10,10,10,7.25,80.5,0.1,0,0,Green,4,"September 8th, 2018",2
+408,Arabica,la castellana,,4300,250,69 kg,2013,"July 5th, 2013",Bourbon,Washed / Wet,7.33,7.08,6.33,7.25,7,7,10,10,10,6.75,78.75,0.12,1,0,Green,8,"July 5th, 2014",2
+409,Arabica,several,,1400,250,1 kg,2012,"January 9th, 2013",Caturra,Washed / Wet,7,7.17,7.33,7.33,7,7.17,10,10,10,7.25,80.25,0.11,1,0,Green,12,"January 9th, 2014",2
+410,Arabica,,,1750,250,70 kg,2011,"December 22nd, 2011",Caturra,Washed / Wet,7.33,7.58,7.17,7.58,7.42,7.58,10,10,10,7.75,82.42,0,0,0,Green,2,"December 21st, 2012",1
+411,Arabica,conquista / morito,,,250,1 kg,2012,"January 6th, 2012",Bourbon,Washed / Wet,6.67,6.5,6.33,7,7.17,6.75,8.67,10,10,6.5,75.58,0.12,0,0,,10,"January 5th, 2013",2
+412,Arabica,santa cruz - pante don jaime,,1650,28,1 kg,2012,"June 6th, 2012",Typica,Natural / Dry,7.67,7.58,7.42,7.58,7.58,7.42,10,10,8.67,7.67,81.58,0.11,0,0,,2,"June 6th, 2013",3
+413,Arabica,,,de 1600 a 1950 msnm,275,70 kg,2012,"October 23rd, 2012",Caturra,Washed / Wet,7.5,7.5,7.42,7.58,7.75,7.58,10,10,10,7.67,83,0.11,1,0,Green,2,"October 23rd, 2013",1
+414,Arabica,,,1800,250,1 kg,2012,"August 30th, 2012",Typica,Washed / Wet,7.5,7.42,7.42,7.5,7.25,7.5,10,10,10,7.5,82.08,0.13,3,0,Green,13,"August 30th, 2013",3
+415,Arabica,,,,320,5 lbs,2014,"April 2nd, 2014",,Washed / Wet,7.42,7.42,7.67,8,7.58,7.5,9.33,9.33,10,7.42,81.67,0,0,0,Green,4,"April 2nd, 2015",3
+416,Arabica,,,de 1600 a 1950 msnm,275,70 kg,2014,"December 12th, 2014",Caturra,Washed / Wet,7.75,7.58,7.67,7.83,7.83,7.67,10,10,10,7.58,83.92,0,0,0,Green,1,"December 12th, 2015",1
+417,Arabica,tlapacoya,,532,10,1 kg,2012,"September 27th, 2012",Typica,Washed / Wet,7.75,7.67,7.58,7.5,7.42,7.58,10,10,10,7.67,83.17,0.12,3,0,,8,"September 27th, 2013",3
+418,Arabica,tepetzingo,,1250,50,1 kg,2012,"September 17th, 2012",Typica,Washed / Wet,7.08,7,6.92,7.33,7.25,7.08,10,10,10,6.92,79.58,0.12,0,0,,11,"September 17th, 2013",3
+419,Arabica,finca los barreales,,1170,10,1 kg,2013,"December 12th, 2013",Bourbon,Washed / Wet,7.5,7.58,7.5,7.92,7.42,7.67,9.33,10,10,7.5,82.42,0.12,0,0,Green,0,"December 12th, 2014",3
+420,Arabica,la loma,,1089,10,1 kg,2012,"September 27th, 2012",Pacamara,Washed / Wet,7.58,7.75,7.42,7.67,7.5,7.58,10,10,10,7.67,83.17,0.14,0,0,,10,"September 27th, 2013",3
+421,Arabica,cachoeira da grama farm,,1250 m,300,60 kg,2015/2016,"November 17th, 2015",Yellow Bourbon,Semi-washed / Semi-pulped,7.25,7.33,7.17,7.5,7.33,7.25,9.33,10,10,7.33,80.5,0.11,0,0,Green,3,"November 16th, 2016",0
+422,Arabica,tlamatoca,,1200,250,1 kg,2012,"July 11th, 2012",Typica,Washed / Wet,7.58,7.58,7.33,7.75,7.25,7.58,10,10,10,7.67,82.75,0.12,0,0,,0,"July 11th, 2013",3
+423,Arabica,linda vista,11/973/158,1450,275,69 kg,2016,"August 31st, 2016",Pacas,Washed / Wet,7.67,7.5,7.25,7.67,7.42,7.42,10,10,10,7.33,82.25,0.11,0,2,Green,2,"August 31st, 2017",2
+424,Arabica,el chile,,1300 a 1800 metros sobre el nivel del mar,275,69 kg,2015,"June 30th, 2015",Catuai,Washed / Wet,7.25,7.17,6.75,7.25,7,6.92,10,10,10,6.83,79.17,0.11,0,0,Green,6,"June 29th, 2016",2
+425,Arabica,various,,,275,1 kg,2012,"March 26th, 2012",Caturra,Natural / Dry,7.67,7.33,7.33,7.33,7.5,7.83,10,10,10,7.5,82.5,0.11,0,0,Green,5,"March 26th, 2013",2
+426,Arabica,nueva granada,,4500 pies,200,69 kg,2015,"June 5th, 2015",Catuai,Washed / Wet,7.75,7.67,7.33,7.75,7.5,7.42,10,10,10,7.58,83,0.11,0,0,Green,2,"June 4th, 2016",2
+427,Arabica,fazenda pantano,,11000 metros,300,2 kg,2014/2015,"August 15th, 2014",Moka Peaberry,Semi-washed / Semi-pulped,7.08,7.5,7.5,7.83,7.75,7.67,10,10,10,7.58,82.92,0.11,0,0,Green,16,"August 15th, 2015",0
+428,Arabica,pante san pedro,,1400,20,1 kg,2012,"September 11th, 2012",Typica,Semi-washed / Semi-pulped,7.42,7.58,7.5,7.42,7.58,7.5,10,10,10,7.42,82.42,0.13,0,0,Green,2,"September 11th, 2013",3
+429,Arabica,,,442 msnm,250,70 kg,2012,"January 31st, 2012",Caturra,Natural / Dry,7.67,7.33,7.25,7.42,7.5,7.67,10,10,10,7.58,82.42,0,0,0,,2,"January 30th, 2013",1
+430,Arabica,finca medina,11/11711/58,1500,250,1500 kg,2016,"May 23rd, 2016",Caturra,Washed / Wet,7.67,7.75,7.42,7.75,7.58,7.5,10,10,10,7.5,83.17,0.11,2,2,Green,3,"May 23rd, 2017",2
+431,Arabica,la esperanza y anexos,,4300,250,1 kg,2013,"January 29th, 2013",Bourbon,Washed / Wet,7.08,6.92,6.33,7,6.92,7,10,10,10,6.17,77.42,0.11,2,0,Green,15,"January 29th, 2014",2
+432,Arabica,,,940,10,1 kg,2012,"August 30th, 2012",Typica,Semi-washed / Semi-pulped,7.25,7.08,7.08,7.33,7.33,7.17,10,10,10,7.08,80.33,0.11,0,0,Green,21,"August 30th, 2013",3
+433,Arabica,rio verde,,1100,320,2 kg,2014/2015,"October 15th, 2014",Bourbon,Natural / Dry,7.33,7.58,7.25,7.17,7.83,7.33,10,10,10,7.33,81.83,0.11,0,0,Green,0,"October 15th, 2015",0
+434,Arabica,fazenda chamusca,,900-1050m,42,60 kg,2011,"October 28th, 2011",Mundo Novo,,7.58,7.5,7.33,7.75,7.5,7.5,10,10,10,7.42,82.58,0,0,0,,4,"October 27th, 2012",0
+435,Arabica,rio verde,,1260,300,60 kg,2013/2014,"November 6th, 2013",Yellow Bourbon,Washed / Wet,7.42,7.42,7.33,7.33,7.5,7.25,10,10,10,7.33,81.58,0.12,0,0,Blue-Green,3,"November 6th, 2014",0
+436,Arabica,las ceibas,,1140,20,1 kg,2012,"September 10th, 2012",Typica,Washed / Wet,7,6.58,6.67,6.83,7.08,6.83,10,6.67,10,6.67,74.33,0.14,3,0,Green,11,"September 10th, 2013",3
+437,Arabica,various,,1600 meters,280,69 kg,2014,"April 26th, 2014",Bourbon,Washed / Wet,7.25,6.75,6.92,6.92,7.25,7.58,9.33,9.33,10,7.17,78.5,0,0,0,Green,0,"April 26th, 2015",3
+438,Arabica,huanacaxtle,,1500,13,1 kg,2012,"September 13th, 2012",Typica,Washed / Wet,7.33,7,6.92,7.25,7.33,7.08,9.33,10,10,6.83,79.08,0.16,0,0,,2,"September 13th, 2013",3
+439,Arabica,union ramal santa cruz,,1400,310,1 kg,2013,"March 29th, 2013",Typica,Washed / Wet,7.58,7.08,7,7,7.5,6.92,10,10,10,6.67,79.75,0.12,0,0,Green,4,"March 29th, 2014",3
+440,Arabica,rancho san francisco iii,,1100,82,1 kg,2012,"August 30th, 2012",Bourbon,Washed / Wet,7.5,7.17,7,7.17,7.25,7.08,10,10,10,6.75,79.92,0,0,0,,0,"August 30th, 2013",3
+441,Arabica,cachoeira da grama farm,43103820 - K24258 - 030/16,,300,59 kg,2016 / 2017,"September 9th, 2016",Yellow Bourbon,Pulped natural / honey,7.33,7.17,7.17,7.67,7.33,7.17,10,10,10,7.17,81,0.11,0,2,Bluish-Green,3,"September 9th, 2017",0
+442,Arabica,finca medina,,1500msnm,150,60 kg,2015/2016,"October 23rd, 2015",Bourbon,Washed / Wet,7.67,7.42,6.83,7.17,7.42,7.17,10,10,10,7,80.67,0.11,0,0,Green,0,"October 22nd, 2016",2
+443,Arabica,,,1530,250,1 kg,2014/2015,"October 15th, 2014",Other,Washed / Wet,7.67,7.5,7.67,7.42,7.83,8.58,10,10,10,7.5,84.17,0.12,0,0,Green,4,"October 15th, 2015",1
+444,Arabica,olhos d'agua,,900m,90,60 kg,2011,"October 28th, 2011",,,7.58,7.75,7.67,7.5,7.67,7.58,10,10,10,7.42,83.17,0.02,0,0,,2,"October 27th, 2012",0
+445,Arabica,,,1600,250,70 kg,2014,"June 24th, 2014",Caturra,Natural / Dry,7.67,7.58,7.67,7.67,7.67,7.67,10,10,10,7.67,83.58,0,0,0,Green,0,"June 24th, 2015",1
+446,Arabica,nueva granada,11/326/14,4500,450,69 kg,2016,"March 17th, 2016",Catuai,Washed / Wet,7.42,7.33,7.08,7.58,7.33,7.25,10,10,10,7.42,81.42,0.1,0,0,Green,0,"March 17th, 2017",2
+447,Arabica,agropecuaria quiagral,,4300,250,1 kg,2012,"July 17th, 2012",Bourbon,Washed / Wet,8,7.83,7.67,7.83,7.67,8,10,10,10,7.67,84.67,0.11,0,0,Green,4,"July 17th, 2013",2
+448,Arabica,fazendas klem ltda,KLEM-C08,1100,42,5 kg,,"November 15th, 2017",Catuai,Natural / Dry,7.5,7.58,7.5,7.5,7.75,7.83,9.33,9.33,9.33,7.58,81.33,0.11,0,0,Green,0,"November 15th, 2018",0
+449,Arabica,,,,275,2 kg,2014,"March 12th, 2015",,Washed / Wet,7.67,7.42,7.67,7.83,7.58,7.67,10,10,10,7.67,83.5,0,1,0,,0,"March 11th, 2016",1
+450,Arabica,various,,1300,380,1 kg,2013,"March 29th, 2013",Bourbon,Washed / Wet,7.25,7.08,7,7.17,7.17,7.08,10,10,10,7,79.75,0.12,0,0,Green,5,"March 29th, 2014",3
+451,Arabica,finca monte grande,,1100,250,1 kg,2012,"July 26th, 2012",Catuai,Washed / Wet,7.17,7.08,7.08,7.08,7.5,7.33,9.33,10,10,7.33,79.92,0.11,0,0,Green,3,"July 26th, 2013",3
+452,Arabica,finca la fortuna,,850,10,1 kg,2012,"September 11th, 2012",Other,Washed / Wet,7.25,7.33,7,7,7.25,7.08,10,10,8,7.08,78,0.12,2,0,Green,7,"September 11th, 2013",3
+453,Arabica,la lagunilla,,1480,300,1 kg,2012,"September 4th, 2012",Typica,Washed / Wet,7.67,7.75,7.67,7.75,7.67,7.75,10,10,10,7.83,84.08,0.11,1,0,Green,10,"September 4th, 2013",3
+454,Arabica,la esperanza,11/23/0689,1901,25,69 kg,2017,"August 23rd, 2017",Bourbon,Washed / Wet,7.67,7.67,7.33,7.58,7.67,7.5,9.33,9.33,9.33,7.5,80.92,0.1,0,0,Green,2,"August 23rd, 2018",2
+455,Arabica,conquista / morito,,4600 ft.,250,2 kg,2012,"February 1st, 2012",Bourbon,Washed / Wet,7.75,7.5,7.67,7.5,7.92,8,10,10,9.33,7.5,83.17,0,0,0,Green,10,"January 31st, 2013",2
+456,Arabica,castelhana farm,,,320,60 kg,2015/2016,"October 8th, 2015",,Natural / Dry,7.17,7.25,7.08,7.17,7.25,7.58,10,10,10,7.25,80.75,0,0,0,Green,1,"October 7th, 2016",0
+457,Arabica,platanal,,981,10,1 kg,2012,"September 27th, 2012",Typica,Semi-washed / Semi-pulped,7.5,7.5,7.25,7.25,7.5,7.5,10,10,10,7.42,81.92,0.13,2,0,,7,"September 27th, 2013",3
+458,Arabica,,,1642,40,1 kg,2012,"August 30th, 2012",Typica,Washed / Wet,7.33,7.33,7.25,7.42,7.25,7.25,10,10,10,7.25,81.08,0.11,0,0,Green,5,"August 30th, 2013",3
+459,Arabica,,,1550,250,1 kg,2012,"August 1st, 2012",Caturra,Washed / Wet,7.25,7.08,6.92,7.25,7.58,7.08,9.33,10,10,7,79.5,0.12,1,0,Green,20,"August 1st, 2013",3
+460,Arabica,,43102245 - P4615,,300,60 kg,2016,"January 12th, 2016",,,7.58,7.67,7.42,7.5,7.67,7.42,10,10,10,8,83.25,0.12,0,0,Green,4,"January 11th, 2017",0
+461,Arabica,,,,300,60 kg,2015,"April 20th, 2015",Mundo Novo,Natural / Dry,7.42,7.5,7.5,7.42,7.5,7.58,10,10,10,7.42,82.33,0.11,0,0,Green,10,"April 19th, 2016",0
+462,Arabica,several,,1300,250,3 kg,2013,"January 21st, 2014",Caturra,Washed / Wet,7.42,7.33,7.5,7.17,7.08,8.33,10,10,10,7.5,82.33,0.1,0,0,Green,2,"January 21st, 2015",1
+463,Arabica,finca la orduña,,1250,100,1 kg,2012,"July 11th, 2012",Typica,Natural / Dry,7.33,7.25,7,7.42,7.17,7.17,9.33,10,10,7.25,79.92,0.12,0,0,Green,6,"July 11th, 2013",3
+464,Arabica,,,175,250,70 kg,2012,"February 22nd, 2012",Caturra,Washed / Wet,7.67,7.58,7.58,7.42,7.83,7.58,10,10,10,7.58,83.25,0.12,0,0,Green,1,"February 21st, 2013",1
+465,Arabica,fazenda recreio,,1300,29,60 kg,2011,"December 3rd, 2011",Bourbon,Natural / Dry,8.5,8.17,8,7.75,8,8,10,10,10,8,86.42,0.12,0,0,Green,2,"December 2nd, 2012",0
+466,Arabica,chapultepec,11/23/0168,1320,250,69 kg,2016,"May 23rd, 2016",Bourbon,Washed / Wet,7.08,7,6.92,7.42,7,6.92,10,10,10,6.83,79.17,0.11,0,8,Green,6,"May 23rd, 2017",2
+467,Arabica,"la orduña, coatepec, veracruz",,1250,20,1 kg,2012,"September 10th, 2012",Typica,Washed / Wet,7.25,7.25,7.08,7.17,7.33,7.33,9.33,10,10,7.25,80,0.12,0,0,Green,9,"September 10th, 2013",3
+468,Arabica,juliana,,,300,1 kg,2013,"February 4th, 2014",Catuai,Natural / Dry,7.42,7.42,7.17,7.42,7.33,7.25,10,10,10,7.17,81.17,0.11,0,0,Green,3,"February 4th, 2015",0
+469,Arabica,el papaturro,,4000 psnm,250,69 kg,2014,"August 8th, 2014",Bourbon,Natural / Dry,7.92,7.67,7.42,7.92,7.75,7.83,10,10,10,7.5,84,0.1,0,0,Green,1,"August 8th, 2015",2
+470,Arabica,,,1800 m.s.n.m,250,70 kg,4T/2010,"January 25th, 2011",,,7.33,7.33,7,6.83,7.33,7.67,10,10,10,7.33,80.83,0.01,0,0,,1,"January 25th, 2012",1
+471,Arabica,cafetal santa maria,,1200 a 1400,10,1 kg,2012,"March 5th, 2012",Typica,Washed / Wet,8,7.75,7.33,7.33,7.08,7.67,9.33,10,10,7.83,82.33,0.11,0,0,Green,0,"March 5th, 2013",3
+472,Arabica,finca nueva linda,,1400,250,1 kg,2012,"April 2nd, 2012",Bourbon,Washed / Wet,7.58,7.42,7.25,7.58,7.25,7.17,10,10,10,7.42,81.67,0.11,0,0,Green,2,"April 2nd, 2013",3
+473,Arabica,fazenda vista alegre,,1100m,35,60 kg,2011,"December 3rd, 2011",Catuai,Semi-washed / Semi-pulped,8.5,8,7.5,7.75,7.5,7.83,10,10,10,7.5,84.58,0.11,0,0,Blue-Green,1,"December 2nd, 2012",0
+474,Arabica,sitio claro,,1000 m,10,60 kg,2011,"December 3rd, 2011",Catuai,Natural / Dry,8,8,7.75,8,7.5,7.75,10,10,10,7.92,84.92,0.12,0,0,Green,2,"December 2nd, 2012",0
+475,Arabica,el pino,,1100,200,1 kg,2013,"July 15th, 2014",Other,Washed / Wet,7.67,7.67,7.58,7.67,7.5,7.58,10,10,10,7.67,83.33,0.12,0,0,Green,0,"July 15th, 2015",3
+476,Arabica,,,1500-1600,250,70 kg,2014,"January 24th, 2014",Other,Washed / Wet,7.67,7.42,7.42,7.42,8,8.33,10,10,10,7.5,83.75,0,0,0,Green,3,"January 24th, 2015",1
+477,Arabica,,3-37-0277,,243,70 kg,2016,"November 25th, 2016",Caturra,Washed / Wet,7.92,7.92,7.67,7.83,7.92,7.83,10,10,10,7.83,84.92,0,1,6,,2,"November 25th, 2017",1
+478,Arabica,el papaturro,,4000 p.s.n.m.,250,69 kg,2013,"May 13th, 2014",Bourbon,Washed / Wet,7.08,7.33,7.25,7.58,7.33,7.42,9.33,9.33,9.33,7.42,79.42,0.1,0,0,Green,2,"May 13th, 2015",2
+479,Arabica,finca el morito,,4300,250,69 kg,2013,"April 26th, 2013",Bourbon,Washed / Wet,7.67,7.83,7.33,7.67,7.5,7.67,10,10,10,7.5,83.17,0.11,0,0,Green,2,"April 26th, 2014",2
+480,Arabica,,,de 1600 a 1950 msnm,275,70 kg,Mayo a Julio,"October 4th, 2011",,,7.42,7.58,6.92,7.08,7.25,8,10,10,10,7.5,81.75,0.08,0,0,,0,"October 3rd, 2012",1
+481,Arabica,los barreales 1112lbcat_s110312,,1170,10,1 kg,2012,"August 31st, 2012",Caturra,Washed / Wet,7.75,7.33,7.25,7.58,7.58,7.33,10,10,10,7.58,82.42,0.13,0,0,Green,1,"August 31st, 2013",3
+482,Arabica,finca los cerros y anexos,,5440-5760 metros,250,69 kg,2013,"March 11th, 2013",Bourbon,Washed / Wet,7.83,7.75,7.25,7.92,7.5,7.17,10,10,10,7.5,82.92,0.11,0,0,Green,2,"March 11th, 2014",2
+483,Arabica,chilcuatla,,1100,250,1 kg,2012,"July 11th, 2012",Typica,Washed / Wet,7.33,7.58,7.42,7.67,7.33,7.5,10,10,10,7.42,82.25,0.11,0,0,Green,0,"July 11th, 2013",3
+484,Arabica,rio verde,,1268,12,2 kg,2015/2016,"October 8th, 2015",Bourbon,Natural / Dry,8.25,7.83,7.25,8.33,8.17,8.08,10,6.67,10,7.75,82.33,0.07,0,0,Green,0,"October 7th, 2016",0
+485,Arabica,barranca de las flores,,6100 metros,250,1 kg,2013,"February 13th, 2013",Bourbon,Washed / Wet,7.5,7.5,7,7.67,7.17,7,10,10,10,6.67,80.5,0.12,1,0,Green,1,"February 13th, 2014",2
+486,Arabica,finca el morito,,5500-6000 psnm,275,69 kg,2012,"October 5th, 2012",Bourbon,Washed / Wet,7.5,7.67,7.33,7.33,7.33,7.33,10,10,10,7.17,81.67,0.11,0,0,Green,4,"October 5th, 2013",2
+487,Arabica,several farms,,1300 mts,250,3 lbs,2012,"May 24th, 2012",Caturra,Washed / Wet,7.67,7.58,7.58,7.67,7.75,7.75,10,10,10,7.75,83.75,0.11,0,0,Bluish-Green,1,"May 24th, 2013",2
+488,Arabica,la distancia,,1700,100,80 kg,2012,"July 27th, 2012",Typica,Washed / Wet,8,7.75,7.75,7.83,7.5,7.67,10,10,10,7.83,84.33,0.12,0,0,Blue-Green,1,"July 27th, 2013",3
+489,Arabica,rancho bonito,,1350-1500,250,2 kg,2015,"June 25th, 2015",Catuai,Washed / Wet,7.58,7.5,7.33,7.5,7.17,7.33,10,10,10,7.42,81.83,0.11,0,0,Green,7,"June 24th, 2016",3
+490,Arabica,fazenda do sertao,,1.250 m,300,1 kg,2011/2012,"December 21st, 2011",Yellow Bourbon,Semi-washed / Semi-pulped,7.83,7.83,7.58,7.67,7.5,7.58,10,10,10,7.83,83.83,0.12,0,0,Green,3,"December 20th, 2012",0
+491,Arabica,finca monte grande,,1100,36,1 kg,2012,"June 6th, 2012",Other,Washed / Wet,7.25,6.83,6.67,7.08,7.17,6.83,10,6.67,10,6.67,75.17,0.12,0,0,,8,"June 6th, 2013",3
+492,Arabica,sertao,,1.25,300,1 kg,2012,"April 12th, 2012",Bourbon,Semi-washed / Semi-pulped,7.5,7.42,7.17,7.42,7.5,7.33,10,10,10,7.17,81.5,0.12,0,0,Blue-Green,2,"April 12th, 2013",0
+493,Arabica,fazenda baipendi,,900-1200m,80,60 kg,2011,"October 28th, 2011",,,8,8,7.5,7.5,7.67,7.75,10,10,10,7.92,84.33,0.02,0,0,,2,"October 27th, 2012",0
+494,Arabica,fazenda serra de três barras,,1250m,5,60 kg,2011,"December 3rd, 2011",Bourbon,Semi-washed / Semi-pulped,8,8,8,7.67,7.75,8,10,10,10,8,85.42,0.11,0,0,Blue-Green,1,"December 2nd, 2012",0
+495,Arabica,,3-37-2548,,275,70 kg,2016,"April 15th, 2016",Caturra,Washed / Wet,7.75,7.75,7.58,7.58,7.67,7.58,10,10,10,7.67,83.58,0.11,0,0,Green,4,"April 15th, 2017",1
+496,Arabica,el morito,,5000 ft.,250,69 kg,2014,"May 29th, 2014",Pacas,Washed / Wet,7.75,7.83,7.67,7.92,7.75,7.83,10,10,10,7.83,84.58,0.11,0,0,Green,1,"May 29th, 2015",2
+497,Arabica,la esmeralda,11/23/0701,4000,80,69 kg,2017,"June 5th, 2017",Bourbon,Washed / Wet,7.42,7.33,7.17,7.67,7.33,7.42,10,10,10,7.33,81.67,0.12,0,1,Green,3,"June 5th, 2018",2
+498,Arabica,corral del diablo lote 1,,1300,74,1 kg,2012,"July 25th, 2012",Typica,Washed / Wet,7.5,7.58,7.33,7.5,7.5,7.5,10,10,10,7.5,82.42,0.11,0,0,Green,0,"July 25th, 2013",3
+499,Arabica,,,1813,250,70 kg,2014/2015,"October 15th, 2014",Caturra,Washed / Wet,7.58,7.58,7.25,7.75,7.75,8.58,9.33,10,10,7.58,83.42,0.12,0,0,Green,1,"October 15th, 2015",1
+500,Arabica,água limpa,,1200m,30,60 kg,2012,"February 23rd, 2012",Yellow Bourbon,Semi-washed / Semi-pulped,7.75,7.67,7.5,7.58,7.58,7.58,10,10,10,7.58,83.25,0.11,0,0,Blue-Green,1,"February 22nd, 2013",0
+501,Arabica,nueva granada,,,250,69 kg,2012,"February 16th, 2012",Bourbon,Washed / Wet,7.67,8,7.67,8,7.5,7.83,10,10,10,7.83,84.5,0.11,0,0,Green,2,"February 15th, 2013",2
+502,Arabica,,GO-669-16,,198,59 kg,2016,"April 19th, 2017",,Pulped natural / honey,7.5,7.58,7.42,7.5,7.75,7.33,10,10,10,7.5,82.58,0.11,0,0,Green,7,"April 19th, 2018",0
+503,Arabica,el papaturro,,4000psn,80,69 kg,2015,"July 20th, 2015",Bourbon,Washed / Wet,7.58,7.58,7.33,7.67,7.67,7.5,10,10,10,7.5,82.83,0.11,0,0,Green,2,"July 19th, 2016",2
+504,Arabica,,,1880 msnm,250,70 kg,47/2010,"February 22nd, 2011",,,7.83,7.75,7.33,7.25,7.42,7.92,10,10,10,7.58,83.08,0.08,1,0,,3,"February 22nd, 2012",1
+505,Arabica,texpanco,,690,10,1 kg,2012,"September 27th, 2012",Mundo Novo,Washed / Wet,7.5,7.42,7.25,7.5,7.33,7.33,10,10,10,7.58,81.92,0.14,2,0,,8,"September 27th, 2013",3
+506,Arabica,la esperanza,11/23/0633,1901,25,69 kg,2017,"August 22nd, 2017",Bourbon,Washed / Wet,7.58,7.5,7.25,7.58,7.58,7.5,9.33,10,10,7.58,81.92,0.1,0,0,Green,1,"August 22nd, 2018",2
+507,Arabica,,2017/2018 - Lot 2,,305,59 kg,2017 / 2018,"October 27th, 2017",,Natural / Dry,7,7,6.83,7,7.33,6.83,6,6,10,6.67,70.67,0.11,0,1,Green,55,"October 27th, 2018",0
+508,Arabica,finca la estancia,,1200,20,1 kg,2012,"July 26th, 2012",Typica,Semi-washed / Semi-pulped,7.67,7.83,7.5,7.58,7.58,7.67,9.33,10,10,7.83,83,0.11,0,0,Green,7,"July 26th, 2013",3
+509,Arabica,,,1000 msnm,250,70 kg,2013,"April 26th, 2013",Caturra,Natural / Dry,7.67,7.67,7.5,7.67,7.92,7.42,10,10,10,7.5,83.33,0.11,0,0,Green,1,"April 26th, 2014",1
+510,Arabica,,,1550,250,70 kg,2014,"March 21st, 2014",Caturra,Washed / Wet,7.75,7.58,7.5,7.58,7.75,7.83,10,10,10,7.58,83.58,0,0,0,,0,"March 21st, 2015",1
+511,Arabica,cachoeira da grama farm,43104350 - K25247,,300,59 kg,,"January 16th, 2018",Bourbon,Pulped natural / honey,7.25,7.25,7.17,7.5,7.33,7.17,10,10,10,7.33,81,0.11,0,6,Green,9,"January 16th, 2019",0
+512,Arabica,finca el morito,,5500-6000 psnm,275,69 kg,2012,"October 5th, 2012",Bourbon,Washed / Wet,7.67,7.5,7.33,7.67,7.5,7.33,10,10,10,7.33,82.33,0.11,0,0,Green,3,"October 5th, 2013",2
+513,Arabica,el sacramento,,4300,250,69 kg,2013,"February 26th, 2013",Bourbon,Washed / Wet,7.83,7.67,7.33,7.33,7.67,7.83,9.33,10,9.33,7.5,81.83,0.11,0,0,Green,1,"February 26th, 2014",2
+514,Arabica,fazenda capoeirnha,019/17,890,320,60 kg,2017 / 2018,"October 20th, 2017",Bourbon,Natural / Dry,7.5,7.75,7.58,7.5,7.58,7.5,10,10,10,8.5,83.92,0,0,0,Green,3,"October 20th, 2018",0
+515,Arabica,sertao farm,,1200,300,60 kg,2014/2015,"December 16th, 2014",Yellow Bourbon,Natural / Dry,7.25,7.33,7.25,7.25,7.25,7.33,10,10,10,7.25,80.92,0.12,0,0,Green,8,"December 16th, 2015",0
+516,Arabica,,2016/0001,,305,59 kg,2016 / 2017,"October 13th, 2016",,Natural / Dry,7.42,7.42,7.42,7.5,7.5,7.58,10,10,10,7.5,82.33,0.11,0,4,Green,14,"October 13th, 2017",0
+517,Arabica,,,,100,30 kg,2013,"September 3rd, 2013",,Natural / Dry,8.58,8.42,8.42,8.5,8.25,8.33,10,10,10,8.33,88.83,0.11,0,0,Bluish-Green,1,"September 3rd, 2014",0
+518,Arabica,llano hermoso,,1300,100,1 kg,2012,"September 11th, 2012",Typica,Natural / Dry,7.25,7.25,7,7.5,7.33,7.42,8,9.33,10,7.75,78.33,0.13,31,0,Green,47,"September 11th, 2013",3
+519,Arabica,finca el gavilancillo,,950,10,1 kg,2012,"September 11th, 2012",Other,Washed / Wet,7.08,7.33,7.33,7.33,7.42,7.25,10,10,10,7.25,81,0.12,0,0,Green,12,"September 11th, 2013",3
+520,Arabica,finca la joya,11/52/1170,3664,275,69 kg,2016,"June 23rd, 2016",Caturra,Washed / Wet,7.75,7.75,7.58,8,7.67,7.83,10,10,10,7.58,84.17,0.11,0,0,Green,6,"June 23rd, 2017",2
+521,Arabica,linda vista,11-973-152,2100,275,0 kg,2016,"August 12th, 2016",Pacas,Washed / Wet,7.5,7.58,7.42,7.83,7.67,7.58,10,10,10,7.67,83.25,0.11,0,2,Green,7,"August 12th, 2017",2
+522,Arabica,,,1550,250,70 kg,2013,"December 20th, 2013",Caturra,Washed / Wet,7.75,7.83,7.75,7.83,7.75,7.83,10,10,10,7.92,84.67,0,0,0,Green,0,"December 20th, 2014",1
+523,Arabica,las nubes - pante don jaime,,1600,28,1 kg,2012,"June 6th, 2012",Marigojipe,Natural / Dry,7.33,7.5,7.25,7.5,7.5,7.17,10,10,10,7.33,81.58,0.11,0,0,,0,"June 6th, 2013",3
+524,Arabica,,,,300,60 kg,2014,"January 15th, 2015",Mundo Novo,Natural / Dry,7.58,7.5,7.42,7.25,7.5,7.42,10,10,10,7.5,82.17,0.12,0,0,Green,1,"January 15th, 2016",0
+525,Arabica,,,de 1.600 a 1.950 msn,150,70 kg,Mayo a Julio,"July 29th, 2011",Caturra,,7.33,7,7.08,7.42,7.5,7.67,10,10,10,8,82,0.07,0,0,,2,"July 28th, 2012",1
+526,Arabica,,3-37-4434,1600,43,70 kg,2016,"August 5th, 2016",Caturra,Washed / Wet,5.08,7.75,7.83,7.75,7.83,8.08,10,10,10,8.08,82.42,0.11,0,0,Green,1,"August 5th, 2017",1
+527,Arabica,,3-59-0503,442,275,70 kg,2017 / 2018,"November 9th, 2017",Caturra,Washed / Wet,7.83,7.5,7.42,7.5,7.83,8.5,10,10,10,7.5,84.08,0,1,3,Green,3,"November 9th, 2018",1
+528,Arabica,,,,320,5 lbs,2014,"April 18th, 2014",,Washed / Wet,7.58,7.58,7.42,7.75,7.67,7.67,9.33,10,10,7.58,82.58,0,0,0,Green,11,"April 18th, 2015",3
+529,Arabica,finca monte azúl,240LVCF,1100,240,69 kg,2017,"May 12th, 2017",Bourbon,Washed / Wet,7.5,7.33,7.17,7.42,7.5,7.33,9.33,10,10,7.33,80.92,0.11,0,0,Green,11,"May 12th, 2018",3
+530,Arabica,la timbuchera; el ocotito y la hortaliza,,1150,70,1 kg,2012,"July 2nd, 2012",Typica,Washed / Wet,7.67,7.58,7.58,7.75,7.67,6.83,10,10,10,7.5,82.58,0.12,0,0,Green,0,"July 2nd, 2013",3
+531,Arabica,fazenda do lobo,,1000m,25,60 kg,2011,"December 3rd, 2011",Mundo Novo,Semi-washed / Semi-pulped,7.75,7.5,7.58,7.5,7.75,7.5,10,10,10,7.58,83.17,0.12,0,0,Blue-Green,3,"December 2nd, 2012",0
+532,Arabica,asoperc,,5600-5760 metros,250,69 kg,2013,"February 26th, 2013",Bourbon,Washed / Wet,8,7.83,7.67,8.33,7.83,8,10,10,10,7.83,85.5,0.11,0,0,Green,1,"February 26th, 2014",2
+533,Arabica,several,,1300,250,1 kg,2013,"January 21st, 2014",Caturra,Washed / Wet,7.58,7.33,7.17,7.33,7.25,8.58,10,10,10,7.5,82.75,0.1,0,0,Green,2,"January 21st, 2015",1
+534,Arabica,,,,1,2 kg,2012,"January 8th, 2014",Typica,Washed / Wet,7.42,8,7.83,7.75,8.08,7.58,8.67,8.67,8.67,7.58,80.25,0.1,0,0,Green,0,"January 8th, 2015",1
+535,Arabica,,,1750 m.s.n.m,0,70 kg,3T/2011,"September 22nd, 2011",,,7.58,7.25,7.42,7.25,7.58,7.83,10,10,10,7.5,82.42,0.02,0,0,,1,"September 21st, 2012",1
+536,Arabica,,,1750 msnm,250,70 kg,2012,"June 8th, 2012",Caturra,Washed / Wet,7.67,7.58,7.58,7.58,7.67,7.42,10,10,10,7.5,83,0.11,0,0,Green,0,"June 8th, 2013",1
+537,Arabica,,3-59-1695,1799,50,70 kg,2016,"February 20th, 2017",Caturra,Washed / Wet,7.75,7.58,7.58,7.75,7.75,7.5,10,10,10,7.58,83.5,0,0,0,Bluish-Green,5,"February 20th, 2018",1
+538,Arabica,,,,1,5 lbs,2013,"March 3rd, 2014",,Natural / Dry,8,7.33,7.75,7.33,7.42,7.67,6.67,6.67,6.67,7.33,72.83,0,0,0,Bluish-Green,15,"March 3rd, 2015",1
+539,Arabica,several,,1200,250,3 lbs,2013,"January 8th, 2014",Caturra,Washed / Wet,7.42,7.25,6.75,7.25,7.42,7.25,9.33,9.33,10,7.33,79.33,0,0,0,Green,3,"January 8th, 2015",1
+540,Arabica,finca tepictla,,1250,100,1 kg,2012,"September 10th, 2012",Mundo Novo,Washed / Wet,7.42,7.5,7.17,7.67,7.33,7.42,10,10,10,7.25,81.75,0.13,0,0,Green,23,"September 10th, 2013",3
+541,Arabica,el limón,,1500,14,1 kg,2012,"September 13th, 2012",Typica,Washed / Wet,7.08,6.75,6.58,7,7,6.75,8.67,8.67,10,6.42,74.92,0.17,0,0,,6,"September 13th, 2013",3
+542,Arabica,la esperanza,11/23/0368,190164,25,69 kg,2017,"June 1st, 2017",Bourbon,Washed / Wet,7.42,7.42,7.08,7.5,7.42,7.33,10,10,10,7.42,81.58,0.12,0,0,Green,0,"June 1st, 2018",2
+543,Arabica,,3-59-1694,1799,275,70 kg,2016,"February 20th, 2017",Caturra,Washed / Wet,7.58,7.67,7.33,7.67,7.75,7.58,10,10,10,7.5,83.08,0,0,1,Green,4,"February 20th, 2018",1
+544,Arabica,rio verde,,1100,320,2 kg,2014/2015,"October 16th, 2014",Bourbon,Natural / Dry,7.17,7.42,7.17,7.25,7.25,7.33,10,10,10,7.33,80.92,0.1,0,0,,0,"October 16th, 2015",0
+545,Arabica,,,1100,200,1 kg,2012,"July 3rd, 2012",Typica,Washed / Wet,7.58,7.67,7.5,7.67,7.58,7.5,8,10,10,7.5,81,0,0,0,Green,8,"July 3rd, 2013",3
+546,Arabica,la union monte verde,,4300,250,69 kg,2013,"April 29th, 2013",Bourbon,Washed / Wet,7,6.83,6.83,7.17,6.67,6.83,10,10,10,6.67,78,0.11,3,0,Green,9,"April 29th, 2014",2
+547,Arabica,finca medina,,1500 msnm,250,69 kg,2014,"February 18th, 2014",Caturra,Washed / Wet,7.67,7.75,7.5,7.83,7.58,7.5,10,10,10,7.58,83.42,0.1,0,0,Green,2,"February 18th, 2015",2
+548,Arabica,sertao farm,,1250,300,60 kg,2012,"March 2nd, 2013",Bourbon,Semi-washed / Semi-pulped,7.75,7.75,7.5,7.42,7.83,7.75,9.33,9.33,9.33,7.83,81.83,0.12,0,0,Bluish-Green,0,"March 2nd, 2014",0
+549,Arabica,el sacramento,,4300,250,1 kg,2012,"February 7th, 2013",Bourbon,Washed / Wet,7.17,7.17,6.5,7.17,7,6.83,10,10,10,6.5,78.33,0.11,1,0,Green,4,"February 7th, 2014",2
+550,Arabica,las delicias,11/23/0688,4000,50,69 kg,2017,"August 23rd, 2017",Bourbon,Washed / Wet,7.67,7.58,7.17,7.42,7.33,7.42,9.33,10,10,7.58,81.5,0.1,0,0,Green,0,"August 23rd, 2018",2
+551,Arabica,,1,,275,70 kg,2016,"February 20th, 2017",Caturra,Washed / Wet,7.58,7.75,7.5,7.83,7.67,8.5,10,10,10,7.5,84.33,0,0,3,Green,5,"February 20th, 2018",1
+552,Arabica,,,de 1.600 a 1950 msnm,50,70 kg,2013,"July 19th, 2013",Caturra,Washed / Wet,7.5,7.5,7,7.42,7.5,7.58,10,10,10,7.33,81.83,0,2,0,Bluish-Green,0,"July 19th, 2014",1
+553,Arabica,,,,300,60 kg,2014,"January 15th, 2015",Mundo Novo,Natural / Dry,7.67,7.75,7.83,7.75,7.83,7.75,10,6.67,10,7.75,81,0.12,0,0,Green,0,"January 15th, 2016",0
+554,Arabica,,,,275,69 kg,,"November 11th, 2010",,,7.92,7.67,7.67,7.25,7.83,7.67,9.33,10,10,7.75,83.08,0.02,0,0,,1,"November 11th, 2011",2
+555,Arabica,,,2136 msnm,250,70 kg,2012,"March 16th, 2012",Caturra,Natural / Dry,7.83,8,7.75,7.75,7.83,7.83,10,10,10,8.08,85.08,0.11,0,0,Green,8,"March 16th, 2013",1
+556,Arabica,el morito,,5000 ft.,250,69 kg,2014,"June 16th, 2014",Pacas,Washed / Wet,7.75,7.42,7.25,7.75,7.5,7.67,10,10,10,7.42,82.75,0.13,0,0,Green,2,"June 16th, 2015",2
+557,Arabica,various,,1300,450,1 kg,2013,"March 29th, 2013",Bourbon,Washed / Wet,7.58,7.5,7.25,7.58,7.5,7.25,10,10,10,7.25,81.92,0.12,0,0,Green,6,"March 29th, 2014",3
+558,Arabica,,,1550,250,70 kg,2014,"March 13th, 2014",Caturra,Washed / Wet,7.67,7.58,7.67,7.58,7.67,7.75,10,10,10,7.67,83.58,0.12,0,0,Green,1,"March 13th, 2015",1
+559,Arabica,,,1050 - 1850 msnm,300,70 kg,Abril - Julio,"May 12th, 2011",,,7.33,7.67,7.58,7.33,7.58,7.92,10,10,10,7.58,83,0.08,0,0,,1,"May 11th, 2012",1
+560,Arabica,various,,1450 msnm,250,70 kg,2012,"June 26th, 2012",Caturra,Washed / Wet,7.5,7.75,7.58,7.5,7.67,7.75,10,10,10,7.67,83.42,0.11,0,0,Green,2,"June 26th, 2013",1
+561,Arabica,santa mariana,,,51,60 kg,2012,"January 23rd, 2012",Arusha,Natural / Dry,7.75,7.5,7.42,7.42,7.5,7.42,10,10,10,7.42,82.42,0.11,0,0,Blue-Green,2,"January 22nd, 2013",0
+562,Arabica,finca huehuetecpan,,1338,150,1 kg,2013,"July 19th, 2013",Mundo Novo,Washed / Wet,7.58,7.58,7.42,7.42,7.42,7.42,10,10,10,7.42,82.25,0.12,0,0,Blue-Green,4,"July 19th, 2014",3
+563,Arabica,las merceditas,11/23/0640,1700,50,69 kg,2017,"August 22nd, 2017",Bourbon,Washed / Wet,7.42,7.42,7.08,7.42,7.33,7.42,10,10,10,7.58,81.67,0.1,0,0,Green,1,"August 22nd, 2018",2
+564,Arabica,,,1750 msnm,250,70 kg,2013,"February 27th, 2013",Caturra,Washed / Wet,7.58,7.5,7.42,7.58,7.67,7.42,10,10,10,7.42,82.58,0.11,0,0,Green,0,"February 27th, 2014",1
+565,Arabica,las delicias,11/23/0632,4000,50,69 kg,2017,"September 8th, 2017",Bourbon,Washed / Wet,7.5,7.5,7.42,7.58,7.67,7.5,10,10,10,7.58,82.75,0.1,0,0,Green,1,"September 8th, 2018",2
+566,Arabica,various,,4000,250,69 kg,2014,"September 11th, 2014",Other,Washed / Wet,7.33,7.17,6.58,7.42,7.08,6.83,10,10,10,6.58,79,0.12,0,0,Green,3,"September 11th, 2015",2
+567,Arabica,,3-59-0075,442,275,70 kg,2017,"September 28th, 2017",Caturra,Washed / Wet,7.83,7.83,7.58,7.58,7.58,7.58,10,10,10,7.75,83.75,0.11,0,0,Green,1,"September 28th, 2018",1
+568,Arabica,el sauce,,1550,16,1 kg,2012,"September 12th, 2012",Typica,Semi-washed / Semi-pulped,7.5,7.17,6.92,7.5,7.25,7,8.67,10,10,7,79,0.14,3,0,Green,17,"September 12th, 2013",3
+569,Arabica,el papaturro,,4000 psnm,250,69 kg,2014,"June 27th, 2014",Bourbon,Other,7.75,7.83,7.5,7.83,7.58,7.67,10,10,10,7.83,84,0.1,0,0,Green,0,"June 27th, 2015",2
+570,Arabica,fazenda rio verde,,1260,220,60 kg,2013/2014,"December 30th, 2013",Yellow Bourbon,Natural / Dry,7.25,7.33,7.25,7.5,7.42,7.5,10,10,10,8.17,82.42,0,0,0,Green,0,"December 30th, 2014",0
+571,Arabica,café do paraíso,,894m - 1183m,1,2 kg,2012,"May 20th, 2013",Mundo Novo,Natural / Dry,7.58,7.83,7.75,7.67,7.67,8,10,10,10,7.67,84.17,0.11,0,0,Green,3,"May 20th, 2014",0
+572,Arabica,las cebollas y anexos,,1300 a 1800 mtrs. a nivel del mar,275,69 kg,2015,"April 20th, 2015",Catuai,Washed / Wet,7.58,7.58,7.17,7.83,7.17,7.33,10,10,10,7.25,81.92,0.11,0,0,Green,7,"April 19th, 2016",2
+573,Arabica,finca monte grande,,1100,36,1 kg,2012,"June 6th, 2012",Other,Washed / Wet,7.58,7.58,7.42,7.58,7.42,7.5,10,10,10,7.58,82.67,0.11,0,0,,2,"June 6th, 2013",3
+574,Arabica,mata larga,,1000,54,1 kg,2012,"July 11th, 2012",Caturra,Washed / Wet,7.75,7.75,7.42,7.92,7.33,7.5,10,10,10,7.58,83.25,0.12,0,0,Blue-Green,0,"July 11th, 2013",3
+575,Arabica,la esmeralda,11/23/0634,518,25,69 kg,2017,"August 22nd, 2017",Bourbon,Washed / Wet,7.42,7.5,7.25,7.5,7.33,7.42,10,10,10,7.42,81.83,0.1,1,0,Green,1,"August 22nd, 2018",2
+576,Arabica,rio verde,,1200,300,2 kg,2014/2015,"October 16th, 2014",Bourbon,Semi-washed / Semi-pulped,7.67,7.67,7.58,7.5,7.83,8.17,10,10,9.33,8.08,83.83,0,0,0,Green,1,"October 16th, 2015",0
+577,Arabica,,,,275,2 kg,2015,"April 23rd, 2015",,Washed / Wet,7.83,7.67,7.58,7.75,7.83,7.17,6.67,10,10,7.42,79.92,0,0,0,Green,1,"April 22nd, 2016",1
+578,Arabica,,,2.560 msnm,250,70 kg,2015,"August 18th, 2015",Caturra,Natural / Dry,8.17,7.83,7.58,8.08,8,7.75,10,10,10,7.67,85.08,0,0,0,,0,"August 17th, 2016",1
+579,Arabica,conquista / morito,,,250,2 kg,2012,"January 3rd, 2012",Bourbon,Washed / Wet,6.42,6.5,6.5,7.33,6.33,6.92,10,10,10,6.5,76.5,0.12,0,0,,4,"January 2nd, 2013",2
+580,Arabica,,,1800,275,2 kg,2015/2016,"June 5th, 2015",Other,Washed / Wet,7.83,7.75,7.83,7.58,7.67,7.75,10,10,10,7.83,84.25,0.12,0,0,Green,0,"June 4th, 2016",1
+581,Arabica,cafetal,101,1300,200,69 kg,2017,"July 3rd, 2017",Mundo Novo,Washed / Wet,7.83,7.83,7.58,7.92,7.42,7.5,10,10,10,7.83,83.92,0.11,0,0,Green,5,"July 3rd, 2018",3
+582,Arabica,las lomas,,1200,250,1 kg,2012,"July 11th, 2012",Bourbon,Washed / Wet,7.5,7.67,7.5,7.5,7.58,7.58,10,10,10,7.67,83,0.11,5,0,Green,8,"July 11th, 2013",3
+583,Arabica,,,1800 msnm,250,70 kg,4T/10,"February 9th, 2011",,,7.58,7.67,7.42,7.17,7.17,7.75,10,10,10,7.42,82.17,0.08,0,0,,0,"February 9th, 2012",1
+584,Arabica,,,de 1600 a 1950 msnm,138,70 kg,2014,"April 8th, 2014",Caturra,Washed / Wet,7.67,7.67,7.5,7.5,7.67,7.67,10,10,10,8.33,84,0.12,0,0,Green,3,"April 8th, 2015",1
