@@ -85,7 +85,7 @@ class NaiveBayesClassifier:
         for i in self.label_index:
             self.likelihood[i] = []
             SIZE = self.label_index[i].size         # at this case, S_SIZE = self.label_index[0].size / NS_SIZE = self.label_index[1].size
-            denominator = N*(SIZE+1)
+            denominator = N*SIZE
             for j in range(self.data.shape[1]):
                 cnt = self.smoothing                #Laplace Smoothing ... Add 1 element at numerator
                 for idx in self.label_index[i]:     #Count all the existing words and add to numerator
@@ -93,7 +93,7 @@ class NaiveBayesClassifier:
                 self.likelihood[i].append(cnt)
             
             self.likelihood[i] = np.array(self.likelihood[i])
-            self.likelihood[i] = self.likelihood[i]/(denominator+ 1)  #Laplace Smoothing...just adding 1 can be possible, so I add 1
+            self.likelihood[i] = self.likelihood[i]/(denominator+ self.smoothing)  #Laplace Smoothing...just adding 1 can be possible, so I add 1
 
     def get_posterior(self, x):
 
@@ -114,7 +114,7 @@ class NaiveBayesClassifier:
 
         for testcase in x:
             tmp = []
-            #case:spam(lbl_idx = 0) & case:ham(lbl_idx = 1)
+            #case:spam(lbl_idx = 1) & case:ham(lbl_idx = 0)
             for lbl_idx in self.label_index:
                 pst = np.log(self.prior[lbl_idx]+self.epsilon)       #log-scaled prior
                 for idx in range(testcase.size):        #check all 500 words, and count the frequency of words
@@ -126,7 +126,7 @@ class NaiveBayesClassifier:
                 tmp[i] = tmp[i]/evidance                #calculate evidence by dividing prior*likelihood
             self.posterior.append(tmp)
 
-        # [print(i) for i in self.posterior]
+        [print(i) for i in self.posterior]
         return self.posterior
 
     def predict(self, x):
