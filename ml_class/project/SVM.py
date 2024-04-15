@@ -33,6 +33,7 @@ class SVMClassifier:
 
         # hint: in order to use y for SVM, change zeros to -1.
         y_ =  [-1 if i<=0 else 1 for i in y]
+        # y_ =  [1 if i==1 else -1 for i in y]
         
         # hint: reset w, a numpy array with random values between 0 to 1, with the size of (n_features, ).
         init_w = np.random.rand(n_features,)
@@ -79,7 +80,7 @@ class SVMClassifier:
         approximation = np.matmul(x,self.w) - self.b
         for i in approximation:
             if i>=0: y_pred.append(1)
-            else: y_pred.append(-1)
+            else: y_pred.append(0)
         return y_pred
 
 
