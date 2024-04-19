@@ -1,7 +1,7 @@
 import queue
 
 
-myGraph = {
+graph = {
     'A': ['B', 'C', 'D'],
     'B': ['A', 'E'],
     'C': ['A', 'F', 'G'],
@@ -13,7 +13,6 @@ myGraph = {
     'I': ['E'],
     'J': ['F']
 }
-
 def bfs(graph, start):
     Q = queue.Queue()
     visited = []
@@ -29,7 +28,7 @@ def bfs(graph, start):
                 visited.append(nbr)
     return visited
 
-print(bfs(myGraph, "A"))    #bfs -  ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+print(bfs(graph, "A"))    #bfs -  ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
 
 
 def dfs(graph, start):
