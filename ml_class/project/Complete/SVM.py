@@ -93,15 +93,19 @@ class SVMClassifier:
         for label,pred in zip(y_true, y_pred):
             if (label==pred): answer_cnt+=1
 
-        print("Accuracy: ", answer_cnt/len(y_true)*100, '%')
+        accuracy =  answer_cnt/len(y_true)*100
 
         plt.scatter(range(len(y_true)), y_true, c=y_true)
         plt.scatter(range(len(y_pred)), y_pred, c=y_pred, marker='x')
         plt.xlabel('Feature 1')
         plt.ylabel('Feature 2')
         plt.title('SVM Classifier Results')
-        plt.show()
-        return 
+        plt.show() 
+        
+        return accuracy
+
+
+
 
 
 class MulticlassSVM:
@@ -154,68 +158,3 @@ class MulticlassSVM:
         accuracy =  answer_cnt/len(y_true)*100
         return accuracy
     
-
-
-
-
-# class MulticlassSVM:
-#     def __init__(self, n_iters=100, lr=0.0001, random_seed=3, lambda_param=0.01):
-#         self.n_iters = n_iters
-#         self.lr = lr
-#         self.lambda_param = lambda_param
-#         self.random_seed = random_seed
-#         np.random.seed(self.random_seed)
-
-#     #one to one
-#     def vote(self, x, y):
-#         self.classes = np.unique(y)     #0, 1, 2, 3
-#         self.num_classes = len(self.classes)
-#         self.scoreboard = np.zeros((self.x.shape[0],self.num_classes))
-#         self.classifiers = {}
-
-#         for i in range(self.num_classes):
-#             for j in range(i+1, self.num_classes):
-#                 x_tmp = 
-
-#             for second_cls in 
-#             binary_y = np.where(y == cls, 1, -1)
-#             classifier = SVMClassifier(self.n_iters, self.lr, self.random_seed, self.lambda_param)
-#             classifier.fit(x, binary_y)
-#             self.classifiers[cls] = classifier
-
-#     def predict(self, x):
-#         predictions = np.zeros(len(x))
-#         for cls, classifier in self.classifiers.items():
-#             binary_predictions = classifier.predict(x)
-#             predictions = np.where(binary_predictions == 1, cls, predictions)
-#         return predictions.astype(int)
-    
-
-# class SVMClassifier:
-#     def __init__(self, n_iters=100, lr=0.0001, random_seed=3, lambda_param=0.01):
-#         self.n_iters = n_iters
-#         self.lr = lr
-#         self.lambda_param = lambda_param
-#         self.random_seed = random_seed
-#         np.random.seed(self.random_seed)
-
-#     def fit(self, X, y):
-#         n_samples, n_features = X.shape
-#         self.w = np.random.rand(n_features)
-#         self.b = 0
-
-#         for _ in range(self.n_iters):
-#             for i in range(n_samples):
-#                 x_i = X[i]
-#                 y_i = y[i]
-
-#                 condition = y_i * (np.dot(self.w, x_i) + self.b) >= 1
-#                 if condition:
-#                     self.w -= self.lr * (2 * self.lambda_param * self.w)
-#                 else:
-#                     self.w += self.lr * (y_i * x_i - 2 * self.lambda_param * self.w)
-#                     self.b -= self.lr * y_i
-
-#     def predict(self, X):
-#         approximations = np.dot(X, self.w) - self.b
-#         return np.where(approximations >= 0, 1, -1)

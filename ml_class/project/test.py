@@ -116,7 +116,13 @@ score = [[3, 2, 0, 1],
  [2, 3, 1, 0],
  [1, 2, 3, 0]]
 
-
+cnt = 0
 for i in score:
     if len(set(i)) != 4:
+        cnt+=1
         print(i)
+print(cnt)
+
+
+
+
