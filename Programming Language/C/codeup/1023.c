@@ -2,22 +2,11 @@
 
 
 int main(void){
-	double f;
 	int a;
-	double b;
-
-
-	scanf("%lf", &f);
-	a = (int)f;
-	b = f - (double)a;
+	char b[7];
 	
-	printf("%d",a);	
-	printf("%lf",b);
-	//printf("%6lf",f);
-
-
-
-
+	scanf("%d.%s", &a, b);
+	printf("%d\n%s",a,b);	
 
 
 	return 0;	
