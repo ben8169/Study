@@ -1,31 +1,3 @@
-#2022313356 영어영문학과 김지헌
-
-
-#1. 지난 과제를 프로그램으로 작성해 보시오. (금일 배운 것과 상세 학습 이용)
-#myname 파일 불러오기
-with open ('myname.txt','r') as f:
-    S = f.read()
-
-# 처음 2문장 추출
-sentence = S.split('.')
-two_sentence = ''
-for i in range(2):
-    two_sentence+= (sentence[i] + '.')
-# print(two_sentence)
-
-# 딕셔너리 생성 -> 각 char의 개수와 ascii 번호를 출력
-table = {}
-for ch in two_sentence:
-    if ch not in table:
-        table[ch] = [1, ord(ch)]
-    else:
-        table[ch][0] += 1
-sorted_table = sorted(table.items())
-sorted_table = dict(sorted_table)
-[print(x) for x in sorted_table.items()]
-
-print('='*50)
-
 # 2. 내부함수(wikidocs 점프투파이선) 를 예습하여 제출
 #1. abs
 print('1. abs')
